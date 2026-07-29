@@ -1,0 +1,23 @@
+# dependencies
+node_modules/
+
+# env / secrets
+.env
+.env.*
+
+# logs
+*.log
+npm-debug.log*
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# editor
+.vscode/
+.idea/
+*.swp
+
+# scratch/temp
+tmp/
+*.tmp

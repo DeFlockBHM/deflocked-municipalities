@@ -1,0 +1,17 @@
+{
+  "name": "deflocked-municipalities",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Scraper tracking municipalities that cancelled, rejected, or deactivated Flock Safety ALPR deployments.",
+  "scripts": {
+    "scrape": "node scraper/scrape.js",
+    "check-diff": "node scraper/checkSubstantiveChange.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0"
+  }
+}

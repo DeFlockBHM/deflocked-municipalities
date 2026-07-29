@@ -1,0 +1,2953 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-29T00:36:14.446Z",
+  "source_url": "https://deflock.org/council#wins",
+  "count": 95,
+  "entries": [
+    {
+      "id": "madison-wi-2026-07",
+      "source_order": 1,
+      "location": {
+        "city": "Madison",
+        "state": "WI",
+        "text": "Madison, WI"
+      },
+      "date": {
+        "text": "July 2026",
+        "year": 2026,
+        "month": 7,
+        "iso": "2026-07-01"
+      },
+      "status": "deactivated",
+      "status_raw": "Cameras Deactivated",
+      "info": "The University of Wisconsin-Madison Police Department will remove automated license plate reader cameras from campus after ending its contract with Flock Safety.",
+      "source_url": "https://captimes.com/news/education/uw-madison-police-to-remove-contentious-flock-cameras-from-campus/article_150acf6c-c335-45f4-95dd-ab99d7f9b910.html",
+      "link_domain": "captimes.com",
+      "content_hash": "sha256:a21f217c98341d1ae18d5b865726242647bc301f669550f06f35de4d5093aba7",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260728233651/https://captimes.com/news/education/uw-madison-police-to-remove-contentious-flock-cameras-from-campus/article_150acf6c-c335-45f4-95dd-ab99d7f9b910.html",
+      "article_excerpt": "Following months of criticism, campus police plan to find a new vendor to provide automated license plate readers.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "floyd-county-va-2026-07",
+      "source_order": 2,
+      "location": {
+        "city": "Floyd County",
+        "state": "VA",
+        "text": "Floyd County, VA"
+      },
+      "date": {
+        "text": "July 2026",
+        "year": 2026,
+        "month": 7,
+        "iso": "2026-07-01"
+      },
+      "status": "deactivated",
+      "status_raw": "Cameras Deactivated",
+      "info": "Sheriff Brian Craig stated that the Flock cameras will be removed once the contract expires at the end of August. the cameras will be removed.",
+      "source_url": "https://www.floydtimes.com/sheriff-craig-flock-cameras-are-out-at-end-of-contract/",
+      "link_domain": "floydtimes.com",
+      "content_hash": "sha256:0ccbc2b01ae59a6bb3ed2e319efda49a4bcb9da31590e714f13092dff7efe337",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260728233656/https://www.floydtimes.com/sheriff-craig-flock-cameras-are-out-at-end-of-contract/",
+      "article_excerpt": "The Flock cameras have recently been a topic of discussion throughout the country and Southwest Virginia because of their Automatic License Plate Recognition (ALPR) capabilities, which citizens say result in constant surveillance and tracking.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "mount-vernon-wa-2026-07",
+      "source_order": 3,
+      "location": {
+        "city": "Mount Vernon",
+        "state": "WA",
+        "text": "Mount Vernon, WA"
+      },
+      "date": {
+        "text": "July 2026",
+        "year": 2026,
+        "month": 7,
+        "iso": "2026-07-01"
+      },
+      "status": "deactivated",
+      "status_raw": "Cameras Deactivated",
+      "info": "Mount Vernon has turned off the city’s Flock cameras following a vote by the council on June 24.",
+      "source_url": "https://www.cascadiadaily.com/2026/jul/02/flock-cameras-turned-off-in-mount-vernon/",
+      "link_domain": "cascadiadaily.com",
+      "content_hash": "sha256:79780d22ac2cb64901c80ff0651aed9dd3b0ea6c94203db44346675538a87b3f",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260728234325/https://www.cascadiadaily.com/2026/jul/02/flock-cameras-turned-off-in-mount-vernon/",
+      "article_excerpt": "Mayor questions council members’ meeting procedure; council will vote July 8 on censuring mayor",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "killingworth-ct-2026-07",
+      "source_order": 4,
+      "location": {
+        "city": "Killingworth",
+        "state": "CT",
+        "text": "Killingworth, CT"
+      },
+      "date": {
+        "text": "July 2026",
+        "year": 2026,
+        "month": 7,
+        "iso": "2026-07-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "Killingworth will soon end its contract with Flock Safety for automated license plate reader (ALPR) cameras due to funding issues and concerns about privacy.",
+      "source_url": "https://insideinvestigator.org/killingworth-to-end-flock-contract/",
+      "link_domain": "insideinvestigator.org",
+      "content_hash": "sha256:e3a863a1867910fdbc0b809ec69f8cb81bc699f1d380e75388686930d50efba6",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260728234411/https://insideinvestigator.org/killingworth-to-end-flock-contract/",
+      "article_excerpt": "Killingworth will soon take down its Flock ALPR cameras, citing concerns about finances, privacy, and FOIA requests.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "westland-mi-2026-07",
+      "source_order": 5,
+      "location": {
+        "city": "Westland",
+        "state": "MI",
+        "text": "Westland, MI"
+      },
+      "date": {
+        "text": "July 2026",
+        "year": 2026,
+        "month": 7,
+        "iso": "2026-07-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "The Flock camera contract for Westland will not be renewed following community feedback.",
+      "source_url": "https://www.clickondetroit.com/news/local/2026/07/09/flock-camera-contract-will-not-be-renewed-in-westland-councilwoman-says/",
+      "link_domain": "clickondetroit.com",
+      "content_hash": "sha256:6df7cdcee0e0c9a6a0cdeeec20df995afac5db1201c92eb7a60636526106604f",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260728234439/https://www.clickondetroit.com/news/local/2026/07/09/flock-camera-contract-will-not-be-renewed-in-westland-councilwoman-says/",
+      "article_excerpt": "After community feedback, the Flock camera contract for Westland will not move forward, a city councilwoman announced Wednesday evening",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "los-angeles-ca-2026-07",
+      "source_order": 6,
+      "location": {
+        "city": "Los Angeles",
+        "state": "CA",
+        "text": "Los Angeles, CA"
+      },
+      "date": {
+        "text": "July 2026",
+        "year": 2026,
+        "month": 7,
+        "iso": "2026-07-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "The Los Angeles Police Department is ending its agreement with surveillance company Flock Safety.",
+      "source_url": "https://abc7.com/post/lapd-ending-agreement-surveillance-company-flock-safety/19483200/",
+      "link_domain": "abc7.com",
+      "content_hash": "sha256:4b69aafcec80a4ef74fa92bc4d80a978dfe0c7a608c49fbcd1381ee5f0ebc7a2",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260728234612/https://abc7.com/post/lapd-ending-agreement-surveillance-company-flock-safety/19483200/",
+      "article_excerpt": "The LAPD is ending its agreement with Flock Safety, a company that operates surveillance cameras throughout the city.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "green-river-wy-2026-07",
+      "source_order": 7,
+      "location": {
+        "city": "Green River",
+        "state": "WY",
+        "text": "Green River, WY"
+      },
+      "date": {
+        "text": "July 2026",
+        "year": 2026,
+        "month": 7,
+        "iso": "2026-07-01"
+      },
+      "status": "rejected",
+      "status_raw": "Contract Rejected",
+      "info": "Green River city council rejected a $111,956 grant for automated license plate readers due to public opposition, by a vote of 6-1.",
+      "source_url": "https://www.sweetwaternow.com/green-river-council-shoots-down-license-plate-readers/",
+      "link_domain": "sweetwaternow.com",
+      "content_hash": "sha256:92fb3310378fc60e6a94d06492cd9f7ebc0659c73726a69c104636ee32c5db8c",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260728234652/https://www.sweetwaternow.com/green-river-council-shoots-down-license-plate-readers/",
+      "article_excerpt": "GREEN RIVER - The Green River City Council voted 6-1 Tuesday to reject a $111,956 Wyoming Office of Homeland Security grant that would have funded automated license plate readers in the city, following unanimous public opposition during the meeting’s comment period. Council Member Garry Killpack cast the lone vote in favor. A motion by Killpack",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "kaukauna-wi-2026-07",
+      "source_order": 8,
+      "location": {
+        "city": "Kaukauna",
+        "state": "WI",
+        "text": "Kaukauna, WI"
+      },
+      "date": {
+        "text": "July 2026",
+        "year": 2026,
+        "month": 7,
+        "iso": "2026-07-01"
+      },
+      "status": "rejected",
+      "status_raw": "Contract Rejected",
+      "info": "Kaukauna chose not to renew its contract with Flock Safety due to growing privacy concerns.",
+      "source_url": "https://www.wbay.com/2026/07/09/kaukauna-drops-flock-safety-contract-privacy-debate-grows-northeast-wisconsin/",
+      "link_domain": "wbay.com",
+      "content_hash": "sha256:ba171682dcc1c47137bd643251b0b7ee9feb4b1132a40edfed78977750745d00",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260728234727/https://www.wbay.com/2026/07/09/kaukauna-drops-flock-safety-contract-privacy-debate-grows-northeast-wisconsin/",
+      "article_excerpt": "Mayor Tony Penterman said the city chose not to renew its contract when it expired at the end of June, a decision he and the police chief made without a council vote.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "newport-ky-2026-07",
+      "source_order": 9,
+      "location": {
+        "city": "Newport",
+        "state": "KY",
+        "text": "Newport, KY"
+      },
+      "date": {
+        "text": "July 2026",
+        "year": 2026,
+        "month": 7,
+        "iso": "2026-07-01"
+      },
+      "status": "rejected",
+      "status_raw": "Contract Rejected",
+      "info": "Newport has decided to remove Flock cameras from the city after receiving feedback from residents.",
+      "source_url": "https://www.wlwt.com/article/newport-kentucky-flock-cameras-public-feedback-program/71934906",
+      "link_domain": "wlwt.com",
+      "content_hash": "sha256:6c6f2070fa76ff9604d373352b151b31610a7d13303072f0304ffb25f7d58289",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260728234757/https://www.wlwt.com/article/newport-kentucky-flock-cameras-public-feedback-program/71934906",
+      "article_excerpt": "Newport is removing Flock cameras around the city as its pilot program with the company comes to an end.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "harrisonburg-va-2026-07",
+      "source_order": 10,
+      "location": {
+        "city": "Harrisonburg",
+        "state": "VA",
+        "text": "Harrisonburg, VA"
+      },
+      "date": {
+        "text": "July 2026",
+        "year": 2026,
+        "month": 7,
+        "iso": "2026-07-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "Harrisonburg City Council pledged to remove their Flock cameras after the contract ends in late July.",
+      "source_url": "https://www.whsv.com/2026/07/16/harrisonburg-city-council-pledges-removal-flock-cameras-end-contract-late-july/",
+      "link_domain": "whsv.com",
+      "content_hash": "sha256:82ec3fbbd7c693220f5805b8aa90d524885d2ca6bb0313fc74177fb1cc33a2a5",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260728234911/https://www.whsv.com/2026/07/16/harrisonburg-city-council-pledges-removal-flock-cameras-end-contract-late-july/",
+      "article_excerpt": "Harrisonburg City Council was packed with community members inside and outside of City Hall, all for an issue of flock cameras Tuesday night.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "macon-county-nc-2026-07",
+      "source_order": 11,
+      "location": {
+        "city": "Macon County",
+        "state": "NC",
+        "text": "Macon County, NC"
+      },
+      "date": {
+        "text": "July 2026",
+        "year": 2026,
+        "month": 7,
+        "iso": "2026-07-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "Macon county's Flock Safety license plate reader camera program was defunded after a unanimous vote by commissioners.",
+      "source_url": "https://wlos.com/news/local/macon-county-north-carolina-wnc-flock-remove-license-plate-reader-cameras-unanimous-vote-privacy-concerns-public-safety-debate-ai-artificial-intelligence-surveillance",
+      "link_domain": "wlos.com",
+      "content_hash": "sha256:bfbb395df4806527795f2cbac40dca37ad2172a58a7e3c391994adbdb01c5e32",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260728234934/https://wlos.com/news/local/macon-county-north-carolina-wnc-flock-remove-license-plate-reader-cameras-unanimous-vote-privacy-concerns-public-safety-debate-ai-artificial-intelligence-surveillance",
+      "article_excerpt": "Macon County commissioners voted unanimously Tuesday to defund the county's Flock Safety license plate reader camera program after hours of public debate.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "windsor-ct-2026-07",
+      "source_order": 12,
+      "location": {
+        "city": "Windsor",
+        "state": "CT",
+        "text": "Windsor, CT"
+      },
+      "date": {
+        "text": "July 2026",
+        "year": 2026,
+        "month": 7,
+        "iso": "2026-07-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "Windsor ended their contract with Flock Safety due to concerns over privacy and data management.",
+      "source_url": "https://www.nbcconnecticut.com/news/local/two-towns-end-contracts-with-automated-license-plate-reader-company-flock-safety/3755508/",
+      "link_domain": "nbcconnecticut.com",
+      "content_hash": "sha256:10357e5f07f10071f24dc32766cfb1591461a3e185a2152d4e2b28c9008d7319",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260728233704/https://www.nbcconnecticut.com/news/local/two-towns-end-contracts-with-automated-license-plate-reader-company-flock-safety/3755508/",
+      "article_excerpt": "Two towns are ending their contracts with Flock Safety, an Atlanta-based company that operates automated license plate readers. There are 16 Flock cameras in...",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "syracuse-ny-2026-07",
+      "source_order": 13,
+      "location": {
+        "city": "Syracuse",
+        "state": "NY",
+        "text": "Syracuse, NY"
+      },
+      "date": {
+        "text": "July 2026",
+        "year": 2026,
+        "month": 7,
+        "iso": "2026-07-01"
+      },
+      "status": "deactivated",
+      "status_raw": "Cameras Deactivated",
+      "info": "Syracuse has removed all of its 13 license plate readers from city property.",
+      "source_url": "https://centralcurrent.org/flock-safety-removes-its-license-plate-readers-finalizing-eight-month-breakup-with-city-of-syracuse/",
+      "link_domain": "centralcurrent.org",
+      "content_hash": "sha256:7c873384dcedd034bfe55aa770834c803a2a13ea2bb7fa7d6dfce0e38291f7fb",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260728233704/https://centralcurrent.org/flock-safety-removes-its-license-plate-readers-finalizing-eight-month-breakup-with-city-of-syracuse/",
+      "article_excerpt": "All Flock readers have been removed, police and the company said. One lawmaker called on other entities to also cut ties to Flock.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "clearwater-county-id-2026-07",
+      "source_order": 14,
+      "location": {
+        "city": "Clearwater County",
+        "state": "ID",
+        "text": "Clearwater County, ID"
+      },
+      "date": {
+        "text": "July 2026",
+        "year": 2026,
+        "month": 7,
+        "iso": "2026-07-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "The Clearwater County Sherriff's Office will not renew its agreement for the Flock camera system after determining it did not provide enough operational value.",
+      "source_url": "https://www.khq.com/news/clearwater-county-sheriff-s-office-ends-flock-camera-program-after-nine-months/article_4bd68f0c-caf2-4aca-85d0-19cd79a3e183.html",
+      "link_domain": "khq.com",
+      "content_hash": "sha256:0b61f6b032ec1e01cdf7746d072e1af24ef2405e8c5898a22a1a09b46202fe77",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "OROFINO, Idaho - The Clearwater County Sheriff’s Office announced it will not renew its agreement for the Flock camera system.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "salem-ma-2026-07",
+      "source_order": 15,
+      "location": {
+        "city": "Salem",
+        "state": "MA",
+        "text": "Salem, MA"
+      },
+      "date": {
+        "text": "July 2026",
+        "year": 2026,
+        "month": 7,
+        "iso": "2026-07-01"
+      },
+      "status": "rejected",
+      "status_raw": "Contract Rejected",
+      "info": "Salem, MA will be removing the Flock cameras that are currently installed.",
+      "source_url": "https://www.salemma.gov/m/newsflash/home/detail/427",
+      "link_domain": "salemma.gov",
+      "content_hash": "sha256:e1b989c8ee5316371b32124cdb18944e5a8055df83ce236b9ff9adf8e2188d1a",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260728235151/https://www.salemma.gov/m/newsflash/home/detail/427",
+      "article_excerpt": "The City of Salem is not renewing the Salem Police Department&rsquo;s contract with Flock Safety and will be removing the Flock Automatic License Plate Readers (&ldquo;ALPRs&rdquo;) that are currently",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "pea-ridge-ar-2026-07",
+      "source_order": 16,
+      "location": {
+        "city": "Pea Ridge",
+        "state": "AR",
+        "text": "Pea Ridge, AR"
+      },
+      "date": {
+        "text": "July 2026",
+        "year": 2026,
+        "month": 7,
+        "iso": "2026-07-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "Pea Ridge dropped Flock license plate readers after resident complaints about their use.",
+      "source_url": "https://www.nwaonline.com/news/2026/jul/24/pea-ridge-drops-flock-license-plate-readers-after/",
+      "link_domain": "nwaonline.com",
+      "content_hash": "sha256:3e6af22344c3f26e9b7784070d4b630285d8668336a38ceaddc502d3cfb5e185",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260728235222/https://www.nwaonline.com/news/2026/jul/24/pea-ridge-drops-flock-license-plate-readers-after/",
+      "article_excerpt": "PEA RIDGE -- The use of Flock Safety License Plate Readers in Pea Ridge was short-lived after area residents raised an uproar about their use and demanded their removal.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "elkton-va-2026-07",
+      "source_order": 17,
+      "location": {
+        "city": "Elkton",
+        "state": "VA",
+        "text": "Elkton, VA"
+      },
+      "date": {
+        "text": "July 2026",
+        "year": 2026,
+        "month": 7,
+        "iso": "2026-07-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "Elkton has cut ties with Flock Safety, effective immediately, following efforts by deflockthevalley.com.",
+      "source_url": "https://augustafreepress.com/news/community-group-persuades-elkton-town-council-to-cut-ties-with-flock/",
+      "link_domain": "augustafreepress.com",
+      "content_hash": "sha256:68fae5fccc9ac001307a7a0ad68c93f2daa0c54584837a690f95d48b18eb8570",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260728235251/https://augustafreepress.com/news/community-group-persuades-elkton-town-council-to-cut-ties-with-flock/",
+      "article_excerpt": "Elkton Town Council voted 5-0 at a public meeting on Monday to cut ties with Flock Safety, effective immediately.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "monroe-county-in-2026-07",
+      "source_order": 18,
+      "location": {
+        "city": "Monroe County",
+        "state": "IN",
+        "text": "Monroe County, IN"
+      },
+      "date": {
+        "text": "July 2026",
+        "year": 2026,
+        "month": 7,
+        "iso": "2026-07-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "The county canceled their contract with Flock Safety a year before it was set to expire.",
+      "source_url": "https://www.ipm.org/news/2026-07-26/monroe-county-cancels-contract-with-flock-safety",
+      "link_domain": "ipm.org",
+      "content_hash": "sha256:f454faef4599c427721a9396157690550e5d8771279d49e590d392fbede9c64c",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260728235332/https://www.ipm.org/news/2026-07-26/monroe-county-cancels-contract-with-flock-safety",
+      "article_excerpt": "County commissioners voted two-to-zero to sever ties with the license-plate scanning company more than a year before it was set to expire.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "south-portland-me-2026-06",
+      "source_order": 19,
+      "location": {
+        "city": "South Portland",
+        "state": "ME",
+        "text": "South Portland, ME"
+      },
+      "date": {
+        "text": "June 2026",
+        "year": 2026,
+        "month": 6,
+        "iso": "2026-06-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "South Portland City Council voted to stop using Flock cameras due to concerns over data security and privacy.",
+      "source_url": "https://www.pressherald.com/2026/06/11/south-portland-will-stop-using-flock-cameras/",
+      "link_domain": "pressherald.com",
+      "content_hash": "sha256:4ff19c29968181ea1fdb3734d5d4ddeee865be14f7aee327072fc641ae113e1c",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260728235404/https://www.pressherald.com/2026/06/11/south-portland-will-stop-using-flock-cameras/",
+      "article_excerpt": "Councilors voted to immediately disable the 7 cameras and end the contract.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "fort-collins-co-2026-06",
+      "source_order": 20,
+      "location": {
+        "city": "Fort Collins",
+        "state": "CO",
+        "text": "Fort Collins, CO"
+      },
+      "date": {
+        "text": "June 2026",
+        "year": 2026,
+        "month": 6,
+        "iso": "2026-06-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "Fort Collins canceled its contract with Flock Safety, ending the city's participation in the automated license plate reader system.",
+      "source_url": "https://www.coloradoan.com/story/news/local/2026/06/16/fort-collins-to-immediately-end-contract-with-flock-safety/90584281007/",
+      "link_domain": "coloradoan.com",
+      "content_hash": "sha256:072f5d43f14ca52c6ac0a2e33fd201b42c0a97b0fed5936f14ac0e1e9979c514",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260728235438/https://www.coloradoan.com/story/news/local/2026/06/16/fort-collins-to-immediately-end-contract-with-flock-safety/90584281007/",
+      "article_excerpt": "After months of public pushback on Fort Collins' use of Flock Safety, the City Council voted to end the contract.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "columbia-heights-mn-2026-06",
+      "source_order": 21,
+      "location": {
+        "city": "Columbia Heights",
+        "state": "MN",
+        "text": "Columbia Heights, MN"
+      },
+      "date": {
+        "text": "June 2026",
+        "year": 2026,
+        "month": 6,
+        "iso": "2026-06-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "City council voted to end the Flock Safety camera contract.",
+      "source_url": "https://www.mprnews.org/story/2026/06/09/columbia-heights-city-council-votes-end-flock-safety-camera-contract",
+      "link_domain": "mprnews.org",
+      "content_hash": "sha256:c5fd5c226c23ea84bd85b1d4038348d0ef9f8ff5212d020f1593fedc01dde70b",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260728235529/https://www.mprnews.org/story/2026/06/09/columbia-heights-city-council-votes-end-flock-safety-camera-contract",
+      "article_excerpt": "The Columbia Heights City Council voted unanimously Monday night to cancel a contract with Flock Safety, the company behind the cameras that read license plates.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "framingham-ma-2026-06",
+      "source_order": 22,
+      "location": {
+        "city": "Framingham",
+        "state": "MA",
+        "text": "Framingham, MA"
+      },
+      "date": {
+        "text": "June 2026",
+        "year": 2026,
+        "month": 6,
+        "iso": "2026-06-01"
+      },
+      "status": "rejected",
+      "status_raw": "Contract Rejected",
+      "info": "Framingham will not renew its contract with Flock Safety, ending the city’s use of the company’s automated license plate reader camera system after months of public debate.",
+      "source_url": "https://www.boston.com/news/local-news/2026/06/25/framingham-police-will-not-renew-flock-safety-contract-after-months-of-resident-opposition/",
+      "link_domain": "boston.com",
+      "content_hash": "sha256:1eb038e0bfb3fa7878b5ec13b72ea9f284606e165667c8aa455799c7db54dade",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260728235549/https://www.boston.com/news/local-news/2026/06/25/framingham-police-will-not-renew-flock-safety-contract-after-months-of-resident-opposition/",
+      "article_excerpt": "The decision follows weeks of advocacy from residents who raised concerns about privacy, surveillance, and data sharing.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "bishop-ca-2026-06",
+      "source_order": 23,
+      "location": {
+        "city": "Bishop",
+        "state": "CA",
+        "text": "Bishop, CA"
+      },
+      "date": {
+        "text": "June 2026",
+        "year": 2026,
+        "month": 6,
+        "iso": "2026-06-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "The City of Bishop terminated a five-year contract with Flock Safety after residents expressed concerns about privacy violations and data searches.",
+      "source_url": "https://www.inyoregister.com/news/bishop-tells-camera-vendor-to-flock-off/article_1154e293-4566-4b31-9f0b-d918d2e930f0.html",
+      "link_domain": "inyoregister.com",
+      "content_hash": "sha256:87c8d6b35cc91ab1aa011966ceaee99e5c9bba90851aee0363d32ef08dc8f292",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260728235713/https://www.inyoregister.com/news/bishop-tells-camera-vendor-to-flock-off/article_1154e293-4566-4b31-9f0b-d918d2e930f0.html",
+      "article_excerpt": "In a rare split 3-2 decision, the Bishop City Council at its meeting Monday voted to immediately kill a contract with Flock Safety after hearing from the public and discussing",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "ashland-wi-2026-06",
+      "source_order": 24,
+      "location": {
+        "city": "Ashland",
+        "state": "WI",
+        "text": "Ashland, WI"
+      },
+      "date": {
+        "text": "June 2026",
+        "year": 2026,
+        "month": 6,
+        "iso": "2026-06-01"
+      },
+      "status": "rejected",
+      "status_raw": "Contract Rejected",
+      "info": "The Ashland Police Department decided to not renew its contract for Flock Safety cameras as their one-year agreement has expired.",
+      "source_url": "https://www.fox21online.com/news/political/ashland-police-department-to-remove-flock-cameras-from-city/article_794afeda-e1e4-4762-84c0-3952d291204c.html",
+      "link_domain": "fox21online.com",
+      "content_hash": "sha256:bcd741da8c33aec2d8cf3292ab84e3505b829caf5f82403df9d743b6d9afa068",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260728235735/https://www.fox21online.com/news/political/ashland-police-department-to-remove-flock-cameras-from-city/article_794afeda-e1e4-4762-84c0-3952d291204c.html",
+      "article_excerpt": "The Ashland Police Department has decided to not renew its contract for Flock Safety cameras and will be removing the surveillance system.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:43:01.687Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "shoreline-wa-2026-05",
+      "source_order": 25,
+      "location": {
+        "city": "Shoreline",
+        "state": "WA",
+        "text": "Shoreline, WA"
+      },
+      "date": {
+        "text": "May 2026",
+        "year": 2026,
+        "month": 5,
+        "iso": "2026-05-01"
+      },
+      "status": "rejected",
+      "status_raw": "Contract Rejected",
+      "info": "Shoreline, WA rejected the possibility of a contract with Flock Safety due to public opposition and concerns among council members.",
+      "source_url": "https://myedmondsnews.com/2026/05/shoreline-cancels-flock-safety-informational-meeting/",
+      "link_domain": "myedmondsnews.com",
+      "content_hash": "sha256:8949dc616ee4b1516847ff37d001cf66fc26fbc3ec8a05c332dbf1055c279393",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "The Shoreline City Council has cancelled a planned meeting with Flock Safety, a security technology company that’s been under increasing public scrutiny for the growing presence of its camera systems. […]",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "el-cerrito-ca-2026-05",
+      "source_order": 26,
+      "location": {
+        "city": "El Cerrito",
+        "state": "CA",
+        "text": "El Cerrito, CA"
+      },
+      "date": {
+        "text": "May 2026",
+        "year": 2026,
+        "month": 5,
+        "iso": "2026-05-01"
+      },
+      "status": "rejected",
+      "status_raw": "Contract Rejected",
+      "info": "The El Cerrito city council voted not to renew its contract with Flock; the cameras will be turned off on June 7.",
+      "source_url": "https://contracosta.news/2026/05/06/el-cerrito-votes-to-end-flock-contract-cameras-go-dark-june-7/",
+      "link_domain": "contracosta.news",
+      "content_hash": "sha256:e716509b609ca583d81fe6975617b1c88bd9af4525f87995450fcc87f2fdfe0f",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260728235859/https://contracosta.news/2026/05/06/el-cerrito-votes-to-end-flock-contract-cameras-go-dark-june-7/",
+      "article_excerpt": "On Tuesday, the El Cerrito city council voted not to renew its contract with FLOCK, which means the cameras will be turned off on June 7.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "appleton-wi-2026-05",
+      "source_order": 27,
+      "location": {
+        "city": "Appleton",
+        "state": "WI",
+        "text": "Appleton, WI"
+      },
+      "date": {
+        "text": "May 2026",
+        "year": 2026,
+        "month": 5,
+        "iso": "2026-05-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "Appleton's mayor announced that the city will stop using Flock due to community feedback and concerns over the integrity of the system.",
+      "source_url": "https://fox11online.com/news/local/appleton-flock-cameras-police-department-license-plate-tracking-mayor-jake-woodford-common-council",
+      "link_domain": "fox11online.com",
+      "content_hash": "sha256:9d296f76818b4557467122315174319e154864341ff971cb9f9da2a265eb9cd7",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260728235928/https://fox11online.com/news/local/appleton-flock-cameras-police-department-license-plate-tracking-mayor-jake-woodford-common-council",
+      "article_excerpt": "Appleton will stop using Flock license plate recognition cameras.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "menominee-mi-2026-05",
+      "source_order": 28,
+      "location": {
+        "city": "Menominee",
+        "state": "MI",
+        "text": "Menominee, MI"
+      },
+      "date": {
+        "text": "May 2026",
+        "year": 2026,
+        "month": 5,
+        "iso": "2026-05-01"
+      },
+      "status": "rejected",
+      "status_raw": "Contract Rejected",
+      "info": "City council unanimously voted down a proposed contract with Flock Safety, rejecting the activation of Flock Cameras in the city, and also voted to cancel their existing contract.",
+      "source_url": "https://www.uppermichiganssource.com/2026/05/19/city-council-votes-down-flock-cameras-menominee-county/",
+      "link_domain": "uppermichiganssource.com",
+      "content_hash": "sha256:c6c09f75b43552cb27114201091bc09b378fae1f843c4a6981c93d9c174e6a1d",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260729000148/https://www.uppermichiganssource.com/2026/05/19/city-council-votes-down-flock-cameras-menominee-county/",
+      "article_excerpt": "Events took an unexpected turn earlier in the day when one of the cameras became activated without city council approval.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "bandera-tx-2026-05",
+      "source_order": 29,
+      "location": {
+        "city": "Bandera",
+        "state": "TX",
+        "text": "Bandera, TX"
+      },
+      "date": {
+        "text": "May 2026",
+        "year": 2026,
+        "month": 5,
+        "iso": "2026-05-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "Bandera city council terminated the city’s contract with Flock Safety Systems following public opposition to the planned license plate reader camera program.",
+      "source_url": "https://www.banderabulletin.com/article/3093,council-votes-to-terminate-flock-safety-contract",
+      "link_domain": "banderabulletin.com",
+      "content_hash": "sha256:37e7ad8869ef369e81c479d8beaa30579ba0ea68c446d171525a9475e5842a84",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260729000342/https://www.banderabulletin.com/article/3093,council-votes-to-terminate-flock-safety-contract",
+      "article_excerpt": null,
+      "article_fetch": {
+        "fetched_at": "2026-07-29T00:36:14.446Z",
+        "status": "blocked"
+      }
+    },
+    {
+      "id": "monona-wi-2026-05",
+      "source_order": 30,
+      "location": {
+        "city": "Monona",
+        "state": "WI",
+        "text": "Monona, WI"
+      },
+      "date": {
+        "text": "May 2026",
+        "year": 2026,
+        "month": 5,
+        "iso": "2026-05-01"
+      },
+      "status": "rejected",
+      "status_raw": "Contract Rejected",
+      "info": "The Monona Police Department decided not to renew its contract for Flock Safety's automated license plate reader system.",
+      "source_url": "https://www.hngnews.com/leader_independent/news/local/monona-police-suspend-use-of-flock-cameras/article_08a572d3-9d1e-41a0-8bed-2b0680b4b1c4.html",
+      "link_domain": "hngnews.com",
+      "content_hash": "sha256:fad93817bccb768e811059ff23256e6a07d947ca41b1f9c908208c775fa52f85",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260729000415/https://www.hngnews.com/leader_independent/news/local/monona-police-suspend-use-of-flock-cameras/article_08a572d3-9d1e-41a0-8bed-2b0680b4b1c4.html",
+      "article_excerpt": "MONONA - Following a similar move by the Dane County Board last month, the Monona Police Department has decided not to renew the contract for its Flock Safety automated license",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "fitchburg-wi-2026-05",
+      "source_order": 31,
+      "location": {
+        "city": "Fitchburg",
+        "state": "WI",
+        "text": "Fitchburg, WI"
+      },
+      "date": {
+        "text": "May 2026",
+        "year": 2026,
+        "month": 5,
+        "iso": "2026-05-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "The City of Fitchburg discontinued their contract with Flock Safety due to privacy concerns and cost.",
+      "source_url": "https://www.channel3000.com/news/fitchburg-votes-to-end-flock-safety-camera-contract/article_d1d7c178-64dc-4bec-a45a-c49a7ab138ca.html",
+      "link_domain": "channel3000.com",
+      "content_hash": "sha256:ec747a818261a7775a4712ecfbb3e8cb2672f2382c42132a8a349a8c32976e1e",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260729000542/https://www.channel3000.com/news/fitchburg-votes-to-end-flock-safety-camera-contract/article_d1d7c178-64dc-4bec-a45a-c49a7ab138ca.html",
+      "article_excerpt": "FITCHBURG, Wis. - Fitchburg’s Common Council voted unanimously to discontinue the city’s current contract with Flock Safety, the company that operates and stores data from Flock cameras.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "mcfarland-wi-2026-05",
+      "source_order": 32,
+      "location": {
+        "city": "McFarland",
+        "state": "WI",
+        "text": "McFarland, WI"
+      },
+      "date": {
+        "text": "May 2026",
+        "year": 2026,
+        "month": 5,
+        "iso": "2026-05-01"
+      },
+      "status": "rejected",
+      "status_raw": "Contract Rejected",
+      "info": "The McFarland Police Department will not move forward with a planned purchase of automated license plate reader technology from Flock Safety following decisions by neighboring agencies to stop using it.",
+      "source_url": "https://www.wkow.com/news/mcfarland-police-scrap-license-plate-reader-plan-after-neighboring-agencies-drop-technology/article_4cae4d80-5017-4021-9b32-60e30bb0831b.html",
+      "link_domain": "wkow.com",
+      "content_hash": "sha256:7dcc5c08558ce16b16402eceb6c842a3102762afeccec73267a06931b2f8213e",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260729000611/https://www.wkow.com/news/mcfarland-police-scrap-license-plate-reader-plan-after-neighboring-agencies-drop-technology/article_4cae4d80-5017-4021-9b32-60e30bb0831b.html",
+      "article_excerpt": "MCFARLAND (WKOW) -- The McFarland Police Department will not move forward with a planned purchase of automated license plate reader technology from Flock Safety.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "bloomington-in-2026-04",
+      "source_order": 33,
+      "location": {
+        "city": "Bloomington",
+        "state": "IN",
+        "text": "Bloomington, IN"
+      },
+      "date": {
+        "text": "April 2026",
+        "year": 2026,
+        "month": 4,
+        "iso": "2026-04-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "Bloominton, IN terminated its $50,000 contract with Flock Safety after 400+ residents protested the surveillance system.",
+      "source_url": "https://www.gadgetreview.com/indiana-city-kills-flock-safety-deal-after-backlash-over-license-plate-cameras",
+      "link_domain": "gadgetreview.com",
+      "content_hash": "sha256:8b10571087efc4d0848268939305b0b88f7a76a394d08b17c0e830f38744c64d",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260729000805/https://www.gadgetreview.com/indiana-city-kills-flock-safety-deal-after-backlash-over-license-plate-cameras",
+      "article_excerpt": "Bloomington Indiana cancels $50,000 Flock Safety surveillance contract after 400+ residents protested automated license plate tracking and data sharing.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "salem-il-2026-04",
+      "source_order": 34,
+      "location": {
+        "city": "Salem",
+        "state": "IL",
+        "text": "Salem, IL"
+      },
+      "date": {
+        "text": "April 2026",
+        "year": 2026,
+        "month": 4,
+        "iso": "2026-04-01"
+      },
+      "status": "rejected",
+      "status_raw": "Contract Rejected",
+      "info": "Salem, IL canceled an earlier agreement for use of Flock license reader cameras due to a change in contract terms that were concerning to the Mayor.",
+      "source_url": "https://southernillinoisnow.com/2026/04/07/salem-city-council-approves-two-tif-improvement-projects-delay-sale-of-land-near-industrial-park/",
+      "link_domain": "southernillinoisnow.com",
+      "content_hash": "sha256:d235aacc104bff0feda7c448566cdcf4e79d45b00d9a5513e1763c175f4855b9",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260729000828/https://southernillinoisnow.com/2026/04/07/salem-city-council-approves-two-tif-improvement-projects-delay-sale-of-land-near-industrial-park/",
+      "article_excerpt": "The Salem City Council has approved two downtown tax increment financing district projects. The council awarde...",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "dane-county-wi-2026-04",
+      "source_order": 35,
+      "location": {
+        "city": "Dane County",
+        "state": "WI",
+        "text": "Dane County, WI"
+      },
+      "date": {
+        "text": "April 2026",
+        "year": 2026,
+        "month": 4,
+        "iso": "2026-04-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "Dane County, WI cut off funding for Flock cameras due to privacy concerns.",
+      "source_url": "https://www.wpr.org/news/dane-county-flock-license-plate-cameras",
+      "link_domain": "wpr.org",
+      "content_hash": "sha256:a3f69d97b94d8f387e9ba3cd25c4300e164573cc9cf9404cb8eb013dcc1df294",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260729000944/https://www.wpr.org/news/dane-county-flock-license-plate-cameras",
+      "article_excerpt": "Dane County supervisors have cut off funding for automatic license plate cameras, citing concerns about privacy and about how that data is shared.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "tompkins-county-ny-2026-04",
+      "source_order": 36,
+      "location": {
+        "city": "Tompkins County",
+        "state": "NY",
+        "text": "Tompkins County, NY"
+      },
+      "date": {
+        "text": "April 2026",
+        "year": 2026,
+        "month": 4,
+        "iso": "2026-04-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "Tompkins County, NY ended the county’s contract with Flock Safety after months of organized pushback from activists and community members.",
+      "source_url": "https://ithacavoice.org/2026/04/county-legislature-ends-contract-with-flock-safety/",
+      "link_domain": "ithacavoice.org",
+      "content_hash": "sha256:ec47745fe40f18c9d315fd90cba950a2b5bb282b90a2a38b436b1bfdfc4bdd3c",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260729001218/https://ithacavoice.org/2026/04/county-legislature-ends-contract-with-flock-safety/",
+      "article_excerpt": "ITHACA, N.Y. - The Tompkins County Legislature ended its use of a controversial AI-powered camera system Tuesday. Legislators voted 12-1 to end the county’s contract with Flock Safety, an Atlanta-based […]",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "oshkosh-wi-2026-04",
+      "source_order": 37,
+      "location": {
+        "city": "Oshkosh",
+        "state": "WI",
+        "text": "Oshkosh, WI"
+      },
+      "date": {
+        "text": "April 2026",
+        "year": 2026,
+        "month": 4,
+        "iso": "2026-04-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "The Oshkosh Common Council rescinded its approval of the Flock camera contract just one day after it was initially approved.",
+      "source_url": "https://fox11online.com/news/local/oshkosh-common-council-flock-surveillance-cameras-new-information-special-meeting-reconsider-contract-privacy-police-public-safety",
+      "link_domain": "fox11online.com",
+      "content_hash": "sha256:30c6ff6dc5fd9eb5f0d4c47fa74ad23a55b588644cd3cf6ce46f6a738aa707dc",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260729001245/https://fox11online.com/news/local/oshkosh-common-council-flock-surveillance-cameras-new-information-special-meeting-reconsider-contract-privacy-police-public-safety",
+      "article_excerpt": "The Common Council voted unanimously to rescind its prior approval.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "weston-mo-2026-04",
+      "source_order": 38,
+      "location": {
+        "city": "Weston",
+        "state": "MO",
+        "text": "Weston, MO"
+      },
+      "date": {
+        "text": "April 2026",
+        "year": 2026,
+        "month": 4,
+        "iso": "2026-04-01"
+      },
+      "status": "deactivated",
+      "status_raw": "Cameras Deactivated",
+      "info": "The City of Weston has removed its Flock cameras after major pushback from residents.",
+      "source_url": "https://www.kshb.com/news/local-news/missouri/platte-county/city-of-weston-has-removed-its-flock-cameras-after-major-pushback-from-residents",
+      "link_domain": "kshb.com",
+      "content_hash": "sha256:5708e224513d8fcb66036ce04fea40e8392bc8ca61b1aa9339dd4c1da7f33a8b",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260729001545/https://www.kshb.com/news/local-news/missouri/platte-county/city-of-weston-has-removed-its-flock-cameras-after-major-pushback-from-residents",
+      "article_excerpt": "The City of Weston has halted all future installations of Flock cameras and removed the system following major pushback from residents.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "ithaca-ny-2026-03",
+      "source_order": 39,
+      "location": {
+        "city": "Ithaca",
+        "state": "NY",
+        "text": "Ithaca, NY"
+      },
+      "date": {
+        "text": "March 2026",
+        "year": 2026,
+        "month": 3,
+        "iso": "2026-03-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "Ithica Common Council ended the city’s contract with Flock Safety due to privacy concerns.",
+      "source_url": "https://www.wskg.org/regional-news/2026-03-04/ithaca-common-council-votes-to-end-contract-with-flock-safety",
+      "link_domain": "wskg.org",
+      "content_hash": "sha256:986aa271fedd16eefd4e0aaaecdf0f8cf25bfa8bba423db2e885b15138caff1f",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260729001730/https://www.wskg.org/regional-news/2026-03-04/ithaca-common-council-votes-to-end-contract-with-flock-safety",
+      "article_excerpt": "Ithaca’s Common Council passed a measure Wednesday that would sever ties with Flock Safety, which makes automatic license plate readers.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "saranac-lake-ny-2026-03",
+      "source_order": 40,
+      "location": {
+        "city": "Saranac Lake",
+        "state": "NY",
+        "text": "Saranac Lake, NY"
+      },
+      "date": {
+        "text": "March 2026",
+        "year": 2026,
+        "month": 3,
+        "iso": "2026-03-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "Saranac Lake, NY canceled its contract with Flock following public outcry and concerns over privacy.",
+      "source_url": "https://www.adirondackdailyenterprise.com/news/local-news/2026/03/flock-blocked/",
+      "link_domain": "adirondackdailyenterprise.com",
+      "content_hash": "sha256:d81f8dc34eb0adead3874cd8c99e1434d592e94dec26737e5a97a33309372c2e",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": null,
+      "article_fetch": {
+        "fetched_at": "2026-07-29T00:36:14.446Z",
+        "status": "blocked"
+      }
+    },
+    {
+      "id": "dutchtown-mo-2026-03",
+      "source_order": 41,
+      "location": {
+        "city": "Dutchtown",
+        "state": "MO",
+        "text": "Dutchtown, MO"
+      },
+      "date": {
+        "text": "March 2026",
+        "year": 2026,
+        "month": 3,
+        "iso": "2026-03-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "The Dutchtown Community Improvement District ended its contract with Flock Safety amid concerns over data-sharing with ICE.",
+      "source_url": "https://www.firstalert4.com/2026/03/06/dutchtown-cid-ends-flock-safety-contract-amid-ice-data-sharing-concerns/",
+      "link_domain": "firstalert4.com",
+      "content_hash": "sha256:4eb094d3cbc121d4c073ef5f6da838ad92ab8634148302a924281b76e3cea5ca",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260729001825/https://www.firstalert4.com/2026/03/06/dutchtown-cid-ends-flock-safety-contract-amid-ice-data-sharing-concerns/",
+      "article_excerpt": "The Dutchtown Community Improvement District is ending its contract with license plate reader company Flock Safety, citing resident concerns over the company’s data-sharing relationship with Immigration and Customs Enforcement.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "santa-clara-county-ca-2026-02",
+      "source_order": 42,
+      "location": {
+        "city": "Santa Clara County",
+        "state": "CA",
+        "text": "Santa Clara County, CA"
+      },
+      "date": {
+        "text": "February 2026",
+        "year": 2026,
+        "month": 2,
+        "iso": "2026-02-01"
+      },
+      "status": "deactivated",
+      "status_raw": "Cameras Deactivated",
+      "info": "Santa Clara County has decided to stop using Flock Safety cameras in several cities due to privacy concerns.",
+      "source_url": "https://abc7news.com/post/santa-clara-county-stop-using-flock-safety-cameras-several-cities-privacy-concerns/18646060/",
+      "link_domain": "abc7news.com",
+      "content_hash": "sha256:176dc1de043795f541dbbafa7ea4ce163490439528039945f5c64afd173ea134",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260729001919/https://abc7news.com/post/santa-clara-county-stop-using-flock-safety-cameras-several-cities-privacy-concerns/18646060/",
+      "article_excerpt": "Santa Clara County will no longer use Flock Safety as the primary license plate readers in Cupertino, Saratoga and Los Altos Hills after a vote.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "knoxville-tn-2026-02",
+      "source_order": 43,
+      "location": {
+        "city": "Knoxville",
+        "state": "TN",
+        "text": "Knoxville, TN"
+      },
+      "date": {
+        "text": "February 2026",
+        "year": 2026,
+        "month": 2,
+        "iso": "2026-02-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "Flock cameras were deactivated in Knoxville, TN following a contract lapse. However, the city intends to pursue a contract with another vendor.",
+      "source_url": "https://www.wbir.com/article/news/crime/10investigates-knoxville-license-plate-reader-cameras-turned-off-contract-lapse/51-3cadec96-a281-49e8-ab41-c3e9ff4a12df",
+      "link_domain": "wbir.com",
+      "content_hash": "sha256:90675da9cd77d2dad59fc93b0f2c515f51b464a82734f022b429d08d5842f3b7",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": null,
+      "article_fetch": {
+        "fetched_at": "2026-07-29T00:36:14.446Z",
+        "status": "blocked"
+      }
+    },
+    {
+      "id": "mountain-view-ca-2026-02",
+      "source_order": 44,
+      "location": {
+        "city": "Mountain View",
+        "state": "CA",
+        "text": "Mountain View, CA"
+      },
+      "date": {
+        "text": "February 2026",
+        "year": 2026,
+        "month": 2,
+        "iso": "2026-02-01"
+      },
+      "status": "deactivated",
+      "status_raw": "Cameras Deactivated",
+      "info": "The Mountain View Police Chief decided to disable their Flock cameras after noticing their cameras had been accessed by out-of-state and federal agencies, a violation of California law.",
+      "source_url": "https://www.cbsnews.com/sanfrancisco/news/mountain-view-alpr-cameras-use-suspended-automated-license-plate-reader/",
+      "link_domain": "cbsnews.com",
+      "content_hash": "sha256:a65331de8ca52b514c71122ac4fb344022646f293905aacc9539fbdab1ef35b6",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "The Mountain View Police Department is suspending the use of ALPR cameras after the discovery of unauthorized access to data by federal and state agencies, the police chief said on Monday.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "oxnard-ca-2026-02",
+      "source_order": 45,
+      "location": {
+        "city": "Oxnard",
+        "state": "CA",
+        "text": "Oxnard, CA"
+      },
+      "date": {
+        "text": "February 2026",
+        "year": 2026,
+        "month": 2,
+        "iso": "2026-02-01"
+      },
+      "status": "deactivated",
+      "status_raw": "Cameras Deactivated",
+      "info": "Oxnard police suspended operation of its 19 Flock fixed-position cameras after a vendor error allowed out-of-state agencies to query local data.",
+      "source_url": "https://www.edhat.com/ventura/news/oxnard-police-suspend-flock-license-plate-readers-ventura-agencies-tighten-controls-after-out-of-state-access/",
+      "link_domain": "edhat.com",
+      "content_hash": "sha256:341d58fabe9a9332524a1a48ca4da38e77981ba8f17263e0aac3fb5994b74f9e",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": null,
+      "article_fetch": {
+        "fetched_at": "2026-07-29T00:36:14.446Z",
+        "status": "blocked"
+      }
+    },
+    {
+      "id": "walla-walla-wa-2026-01",
+      "source_order": 46,
+      "location": {
+        "city": "Walla Walla",
+        "state": "WA",
+        "text": "Walla Walla, WA"
+      },
+      "date": {
+        "text": "January 2026",
+        "year": 2026,
+        "month": 1,
+        "iso": "2026-01-01"
+      },
+      "status": "deactivated",
+      "status_raw": "Cameras Deactivated",
+      "info": "The Walla Walla Police Department disabled its Flock system due to concerns that the data from them could be misused, following a Washington court ruling that data captured by Flock cameras were public records and could be requested by anyone.",
+      "source_url": "https://www.applevalleynewsnow.com/news/walla-walla-police-end-flock-safety-camera-program-over-public-safety-concerns/article_c03b10cf-c594-42eb-a1d8-e78b00500f4c.html",
+      "link_domain": "applevalleynewsnow.com",
+      "content_hash": "sha256:e2abd1a756915cd136e1f380df6b9fefa57331f15359980c50776754285177c6",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "• Walla Walla Police Department discontinued its Flock Safety camera system after nearly a year of use due to public safety concerns",
+      "article_fetch": {
+        "fetched_at": "2026-07-29T00:36:14.446Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "los-altos-hills-ca-2026-01",
+      "source_order": 47,
+      "location": {
+        "city": "Los Altos Hills",
+        "state": "CA",
+        "text": "Los Altos Hills, CA"
+      },
+      "date": {
+        "text": "January 2026",
+        "year": 2026,
+        "month": 1,
+        "iso": "2026-01-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "The Los Altos Hills City Council voted to terminate their contract with Flock Safety (2:45:02) following resident concerns and a lack of evidence that the Flock system was effective at reducing crime.",
+      "source_url": "https://losaltoshillsca.portal.civicclerk.com/event/4354/media",
+      "link_domain": "losaltoshillsca.portal.civicclerk.com",
+      "content_hash": "sha256:64b6628499d7de965e115f179fa8826ea73ddf2862398ed7aa96e051f266ee08",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "CivicClerk events and agendas for citizens",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "santa-cruz-ca-2026-01",
+      "source_order": 48,
+      "location": {
+        "city": "Santa Cruz",
+        "state": "CA",
+        "text": "Santa Cruz, CA"
+      },
+      "date": {
+        "text": "January 2026",
+        "year": 2026,
+        "month": 1,
+        "iso": "2026-01-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "The Santa Cruz City Council voted 6-1 to terminate their contract with Flock Safety after evidence that the city's data was accessed by out-of-state agencies.",
+      "source_url": "https://www.kqed.org/news/12069705/santa-cruz-the-first-in-california-to-terminate-its-contract-with-flock-safety",
+      "link_domain": "kqed.org",
+      "content_hash": "sha256:dc1c55a8f873a3c2d4b5457ca972c8776fb78e346524267e2a138dedab813fbe",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "Santa Cruz City Council voted to terminate its contract with Flock Safety, the license plate reader company that has come under scrutiny for its data collection and sharing practices.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "watertown-ma-2026-01",
+      "source_order": 49,
+      "location": {
+        "city": "Watertown",
+        "state": "MA",
+        "text": "Watertown, MA"
+      },
+      "date": {
+        "text": "January 2026",
+        "year": 2026,
+        "month": 1,
+        "iso": "2026-01-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "Watertown, MA canceled its contract with Flock Safety before any cameras were installed, following questions from the public about privacy and data sharing.",
+      "source_url": "https://www.watertownmanews.com/2026/01/28/watertown-cancelling-contract-for-flock-license-plate-reading-cameras/",
+      "link_domain": "watertownmanews.com",
+      "content_hash": "sha256:f18bae715a81f89eb27e6367034f0f32217d79f1cf90ce08a09152b6fee1d7ee",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "Watertown will cancel the contract with Flock Safety to install license plate reading cameras in the City, and City Manager George Proakis told the City Council he wants to continue to have discussions about when it is appropriate for the Watertown Police to use technology in its investigations. The City signed a contract last year […]",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "natick-ma-2026-01",
+      "source_order": 50,
+      "location": {
+        "city": "Natick",
+        "state": "MA",
+        "text": "Natick, MA"
+      },
+      "date": {
+        "text": "January 2026",
+        "year": 2026,
+        "month": 1,
+        "iso": "2026-01-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "The town of Natick canceled their Flock Safety pilot after residents objected to being blindsided by the installation and raised privacy and surveillance concerns. The police launched the trial without notifying the Select Board or public, triggering backlash over transparency, data ownership, and mass surveillance risks, leading to cameras being slated for removal.",
+      "source_url": "https://www.natickreport.com/2026/01/natick-select-board-quashes-flock-license-plate-reader-pilot-police-chief-apologizes-explains/",
+      "link_domain": "natickreport.com",
+      "content_hash": "sha256:0edfca0bb98b53a8d5a18d8d48e8b39ad67a7b7ba0fdbb4c95c961b77b04c4a4",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": null,
+      "article_fetch": {
+        "fetched_at": "2026-07-29T00:36:14.446Z",
+        "status": "blocked"
+      }
+    },
+    {
+      "id": "prosser-wa-2026-01",
+      "source_order": 51,
+      "location": {
+        "city": "Prosser",
+        "state": "WA",
+        "text": "Prosser, WA"
+      },
+      "date": {
+        "text": "January 2026",
+        "year": 2026,
+        "month": 1,
+        "iso": "2026-01-01"
+      },
+      "status": "deactivated",
+      "status_raw": "Cameras Deactivated",
+      "info": "Prosser disabled their Flock cameras due to the controversial issues of data collection an access.",
+      "source_url": "https://www.tri-cityherald.com/news/local/crime/article314461667.html",
+      "link_domain": "tri-cityherald.com",
+      "content_hash": "sha256:df518813591d8b301c09afb47ac9306c99ecfc348304cc39493ae73120194f92",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": null,
+      "article_fetch": {
+        "fetched_at": "2026-07-29T00:36:14.446Z",
+        "status": "blocked"
+      }
+    },
+    {
+      "id": "eugene-or-2025-12",
+      "source_order": 52,
+      "location": {
+        "city": "Eugene",
+        "state": "OR",
+        "text": "Eugene, OR"
+      },
+      "date": {
+        "text": "December 2025",
+        "year": 2025,
+        "month": 12,
+        "iso": "2025-12-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "Following a pause by City Council, Eugene PD eventually terminated their contract with Flock Safety.",
+      "source_url": "https://lookouteugene-springfield.com/story/justice/2025/12/05/eugene-announces-termination-of-flock-contract/",
+      "link_domain": "lookouteugene-springfield.com",
+      "content_hash": "sha256:1cfd7843d27192ecfa91dfcf08c0579248c949aa1edc31d6da57139f65a537ac",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "In a press release sent late Friday evening, the Eugene Police Department announced it has terminated its contract with Flock Safety.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "olympia-wa-2025-12",
+      "source_order": 53,
+      "location": {
+        "city": "Olympia",
+        "state": "WA",
+        "text": "Olympia, WA"
+      },
+      "date": {
+        "text": "December 2025",
+        "year": 2025,
+        "month": 12,
+        "iso": "2025-12-01"
+      },
+      "status": "deactivated",
+      "status_raw": "Cameras Deactivated",
+      "info": "Olympia City Council moved to cover up their Flock cameras, pending deactivation over concerns of federal access and the ability to move freely.",
+      "source_url": "https://www.king5.com/article/news/community/facing-race/washington-immigration/olympia-hoods-flock-cameras/281-ff1c9bdf-540f-4591-8d41-3eee79796b8e",
+      "link_domain": "king5.com",
+      "content_hash": "sha256:92af4afc752ceb65cc49b836b109132bab166e11f82edc3587ea4958072f7033",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": null,
+      "article_fetch": {
+        "fetched_at": "2026-07-29T00:36:14.446Z",
+        "status": "blocked"
+      }
+    },
+    {
+      "id": "lane-county-or-2025-12",
+      "source_order": 54,
+      "location": {
+        "city": "Lane County",
+        "state": "OR",
+        "text": "Lane County, OR"
+      },
+      "date": {
+        "text": "December 2025",
+        "year": 2025,
+        "month": 12,
+        "iso": "2025-12-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "Lane County, Oregon suspended their contract with Flock Safety, before their 22 cameras were even installed due to public opposition.",
+      "source_url": "https://lookouteugene-springfield.com/story/latest-news/2025/12/10/lane-county-sheriffs-office-suspends-flock-safety-contract/",
+      "link_domain": "lookouteugene-springfield.com",
+      "content_hash": "sha256:e4cd605952d35b5183058a78462a1383ed75dedd941932c4d5496013aa655aa1",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "The move comes after Friday announcements from Springfield and Eugene police that they were ending their relationships with Flock Safety.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "springfield-or-2025-12",
+      "source_order": 55,
+      "location": {
+        "city": "Springfield",
+        "state": "OR",
+        "text": "Springfield, OR"
+      },
+      "date": {
+        "text": "December 2025",
+        "year": 2025,
+        "month": 12,
+        "iso": "2025-12-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "Following Eugene's lead, Springfield terminated their contract with Flock Safety, after strong community opposition.",
+      "source_url": "https://lookouteugene-springfield.com/story/justice/2025/12/05/eugene-announces-termination-of-flock-contract/",
+      "link_domain": "lookouteugene-springfield.com",
+      "content_hash": "sha256:592c7e845f51c981aebc22b91f4d93697529170867e170f9286b2dce0d7c50aa",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "In a press release sent late Friday evening, the Eugene Police Department announced it has terminated its contract with Flock Safety.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "flagstaff-az-2025-12",
+      "source_order": 56,
+      "location": {
+        "city": "Flagstaff",
+        "state": "AZ",
+        "text": "Flagstaff, AZ"
+      },
+      "date": {
+        "text": "December 2025",
+        "year": 2025,
+        "month": 12,
+        "iso": "2025-12-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "Flagstaff City Council voted unanimouslt and to end their contract with Flock Safety, following failed attempts to convince the public that sufficient guardrails could be put in place.",
+      "source_url": "https://www.fox10phoenix.com/news/flagstaff-deactivates-all-32-flock-safety-cameras-following-council-vote",
+      "link_domain": "fox10phoenix.com",
+      "content_hash": "sha256:861cf9678cab8f2978a617e6b04f5fd9b8c5aea1c10dbb6a72043875cfe984a9",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "The Flagstaff City Council voted unanimously to end its contract with Flock Safety, leading to the immediate deactivation and scheduled removal of 32 automated license plate recognition cameras.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "cambridge-ma-2025-12",
+      "source_order": 57,
+      "location": {
+        "city": "Cambridge",
+        "state": "MA",
+        "text": "Cambridge, MA"
+      },
+      "date": {
+        "text": "December 2025",
+        "year": 2025,
+        "month": 12,
+        "iso": "2025-12-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "Cambridge ended its contract with Flck Safety following a \"breach of trust\" in which Flock installed new cameras without the city's knowledge following a temporary suspension by the city.",
+      "source_url": "https://www.thecrimson.com/article/2025/12/10/cambridge-ends-flock-contract/",
+      "link_domain": "thecrimson.com",
+      "content_hash": "sha256:1d1099648c5405f4c9d7f5dc9aaeb02253b7e6a8f48a5a0394f3c076b7727161",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "Cambridge will end its contract with security technology company Flock Safety after its technicians installed two new cameras less than a month after the Cambridge City Council suspended their use due to privacy concerns.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "warren-ri-2025-12",
+      "source_order": 58,
+      "location": {
+        "city": "Warren",
+        "state": "RI",
+        "text": "Warren, RI"
+      },
+      "date": {
+        "text": "December 2025",
+        "year": 2025,
+        "month": 12,
+        "iso": "2025-12-01"
+      },
+      "status": "rejected",
+      "status_raw": "Contract Rejected",
+      "info": "The town of Warren, Rhode Island rejected a proposal to install Flock LPRs due to concerns about privacy violations.",
+      "source_url": "https://www.wpri.com/news/local-news/east-bay/warren-rejects-proposal-to-install-flock-camera/",
+      "link_domain": "wpri.com",
+      "content_hash": "sha256:30e7168294f3046bcd260148fd2a2068095a84c36039388176472545e1ad07c7",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": null,
+      "article_fetch": {
+        "fetched_at": "2026-07-29T00:36:14.446Z",
+        "status": "blocked"
+      }
+    },
+    {
+      "id": "mountlake-terrace-wa-2025-12",
+      "source_order": 59,
+      "location": {
+        "city": "Mountlake Terrace",
+        "state": "WA",
+        "text": "Mountlake Terrace, WA"
+      },
+      "date": {
+        "text": "December 2025",
+        "year": 2025,
+        "month": 12,
+        "iso": "2025-12-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "The Mountlake Terrace City Council voted unanimously to cancel their contract with Flock Safety following concerns of data access and public records implications.",
+      "source_url": "https://www.heraldnet.com/news/mountlake-terrace-cancels-flock-safety-contract/",
+      "link_domain": "heraldnet.com",
+      "content_hash": "sha256:a787b5d519db7315d32ed262150e7a821f8632e628a0c9b677490be1c86fca0c",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "The City Council unanimously voted to end the contract Thursday, citing community division and privacy concerns.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "richmond-ca-2025-12",
+      "source_order": 60,
+      "location": {
+        "city": "Richmond",
+        "state": "CA",
+        "text": "Richmond, CA"
+      },
+      "date": {
+        "text": "December 2025",
+        "year": 2025,
+        "month": 12,
+        "iso": "2025-12-01"
+      },
+      "status": "deactivated",
+      "status_raw": "Cameras Deactivated",
+      "info": "Richmond's police chief shut down the city's Flock system after discoving their data was unintentionally being shared nationwide.",
+      "source_url": "https://richmondside.org/2025/12/09/richmond-license-plate-reader-data-breach/",
+      "link_domain": "richmondside.org",
+      "content_hash": "sha256:920eca1ace881d3110775fb37a2f2a557cbf8135c3a4df581ecb05892ff54310",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "The decision was made after the discovery of a data exposure that occurred earlier this year, RPD Chief Tim Simmons said.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "staunton-va-2025-12",
+      "source_order": 61,
+      "location": {
+        "city": "Staunton",
+        "state": "VA",
+        "text": "Staunton, VA"
+      },
+      "date": {
+        "text": "December 2025",
+        "year": 2025,
+        "month": 12,
+        "iso": "2025-12-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "The Staunton Police Chief and City Council canceled their contract with Flock Safety following a verbal attack on the city's residents by the CEO of Flock.",
+      "source_url": "https://www.ci.staunton.va.us/Home/Components/News/News/2564",
+      "link_domain": "ci.staunton.va.us",
+      "content_hash": "sha256:7c13d945851d196472039c3601a1b5e2900918072adadfbfefa487436df0b51b",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": null,
+      "article_fetch": {
+        "fetched_at": "2026-07-29T00:36:14.446Z",
+        "status": "blocked"
+      }
+    },
+    {
+      "id": "charlottesville-va-2025-12",
+      "source_order": 62,
+      "location": {
+        "city": "Charlottesville",
+        "state": "VA",
+        "text": "Charlottesville, VA"
+      },
+      "date": {
+        "text": "December 2025",
+        "year": 2025,
+        "month": 12,
+        "iso": "2025-12-01"
+      },
+      "status": "rejected",
+      "status_raw": "Contract Rejected",
+      "info": "The Charlottesville City Council decided not to move forward with a contract with Flock Safety following the conclusion of their pilot program, due to their concerns with the system outweighing any benefits.",
+      "source_url": "https://www.cbs19news.com/news/charlottesville-will-not-move-forward-with-the-flock-camera-system/article_a42a43a0-3d86-4d33-aed1-de29dda8e127.html",
+      "link_domain": "cbs19news.com",
+      "content_hash": "sha256:36ab9742505b7e4260344dbc3911d9099cdd8d99237a4748127fa99422c01675",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "CHARLOTTESVILLE, Va. (CBS19 NEWS) -- The City of Charlottesville will not move forward with the Flock Safety license plate reader system following the conclusion of a yearlong pilot program, despite",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "san-marcos-tx-2025-12",
+      "source_order": 63,
+      "location": {
+        "city": "San Marcos",
+        "state": "TX",
+        "text": "San Marcos, TX"
+      },
+      "date": {
+        "text": "December 2025",
+        "year": 2025,
+        "month": 12,
+        "iso": "2025-12-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "The San Marcos City Council voted to end their contract with Flock Safety after considering Flock's reputaiton.",
+      "source_url": "https://cbsaustin.com/news/local/san-marcos-city-council-ends-flock-safety-contract-seeking-new-options",
+      "link_domain": "cbsaustin.com",
+      "content_hash": "sha256:b7d8b2f85e745399a2adcf7c327e27520f5d149335274cc9b99701222c3be8e0",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "The San Marcos City Council directed staff Tuesday to discontinue the city's contract with Flock Safety and explore alternative camera technology options.The de",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "brooklyn-park-mn-2025-12",
+      "source_order": 64,
+      "location": {
+        "city": "Brooklyn Park",
+        "state": "MN",
+        "text": "Brooklyn Park, MN"
+      },
+      "date": {
+        "text": "December 2025",
+        "year": 2025,
+        "month": 12,
+        "iso": "2025-12-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "Brooklyn Park canceled their Flock contract “due to concerns over customer support and poor data sharing protocols.”",
+      "source_url": "https://kstp.com/kstp-news/top-news/roadside-cameras-going-dark-another-department-makes-changes-to-program-over-accountability-concerns/",
+      "link_domain": "kstp.com",
+      "content_hash": "sha256:45e1353c7209da5cb8395f99e92336f8016f40bde541c37bfc009ddeb737a363",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "Another police department is making changes to the roadside cameras that automatically scan license plates amid growing concerns over who has access to the data, 5 INVESTIGATES has learned.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "redmond-wa-2025-11",
+      "source_order": 65,
+      "location": {
+        "city": "Redmond",
+        "state": "WA",
+        "text": "Redmond, WA"
+      },
+      "date": {
+        "text": "November 2025",
+        "year": 2025,
+        "month": 11,
+        "iso": "2025-11-01"
+      },
+      "status": "deactivated",
+      "status_raw": "Cameras Deactivated",
+      "info": "The Redmond city council voted unanimously to request the police department to disable their Flock cameras after growing concerns of unwanted access by federal agencies and a recent WA court ruling that ALPR data is considered public record.",
+      "source_url": "https://komonews.com/news/local/redmond-pd-completely-suspends-flock-camera-use-amid-statewide-concerns-over-ice-access-immigration-enforcement-detention-center-arrest-surveillance-privacy-trump-washington-seattle-protest-border-community",
+      "link_domain": "komonews.com",
+      "content_hash": "sha256:43b6376add4bb88fdbf57d19bbe50ef904762032c69d350552369d9619ef072f",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "The Redmond Police Department (RPD) announced that it has suspended operation of its automated license-plate reader system amid growing public concern.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "kent-oh-2025-11",
+      "source_order": 66,
+      "location": {
+        "city": "Kent",
+        "state": "OH",
+        "text": "Kent, OH"
+      },
+      "date": {
+        "text": "November 2025",
+        "year": 2025,
+        "month": 11,
+        "iso": "2025-11-01"
+      },
+      "status": "rejected",
+      "status_raw": "Contract Rejected",
+      "info": "The Kent city council voted against a Flock contract due to concerns of potential abuse and discomfort with mass surveillance.",
+      "source_url": "https://theportager.com/kent-city-council-rejects-video-surveillance-contract-with-flock/",
+      "link_domain": "theportager.com",
+      "content_hash": "sha256:3cda504bd16a725d628c2d5999ff12ccaccc0c069b0c3104a397a5002d3bd3e4",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "Kent City Council voted against permitting the Kent Police Department to enter into a contract with Flock Safety at its regular committee meeting Nov. 5.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "lynnwood-wa-2025-11",
+      "source_order": 67,
+      "location": {
+        "city": "Lynnwood",
+        "state": "WA",
+        "text": "Lynnwood, WA"
+      },
+      "date": {
+        "text": "November 2025",
+        "year": 2025,
+        "month": 11,
+        "iso": "2025-11-01"
+      },
+      "status": "deactivated",
+      "status_raw": "Cameras Deactivated",
+      "info": "The Lynnwood Police Department paused the used of their Flock system following concerns raised by residents.",
+      "source_url": "https://lynnwoodtimes.com/2025/11/07/alpr-2/",
+      "link_domain": "lynnwoodtimes.com",
+      "content_hash": "sha256:a04e94d124d77cce2aae5368b5cdb04c8c2a7afaa3a1526996179d71b4aa0631",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "The Lynnwood Police Department (LPD) has temporarily paused use of its Automated License Plate Reader (ALPR) system,",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "woodburn-or-2025-11",
+      "source_order": 68,
+      "location": {
+        "city": "Woodburn",
+        "state": "OR",
+        "text": "Woodburn, OR"
+      },
+      "date": {
+        "text": "November 2025",
+        "year": 2025,
+        "month": 11,
+        "iso": "2025-11-01"
+      },
+      "status": "deactivated",
+      "status_raw": "Cameras Deactivated",
+      "info": "Woodburn, Oregon announced they would pause the use of their Flock system following safety concerns for undocumented residents.",
+      "source_url": "https://www.koin.com/news/oregon/woodburn-pause-flock-camera-concerns-ice-raids/",
+      "link_domain": "koin.com",
+      "content_hash": "sha256:3aa15030b896346e60fa69c12b0e0f22be778e53d6439ac2c0452166d1488bad",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": null,
+      "article_fetch": {
+        "fetched_at": "2026-07-29T00:36:14.446Z",
+        "status": "blocked"
+      }
+    },
+    {
+      "id": "bay-city-mi-2025-11",
+      "source_order": 69,
+      "location": {
+        "city": "Bay City",
+        "state": "MI",
+        "text": "Bay City, MI"
+      },
+      "date": {
+        "text": "November 2025",
+        "year": 2025,
+        "month": 11,
+        "iso": "2025-11-01"
+      },
+      "status": "rejected",
+      "status_raw": "Contract Rejected",
+      "info": "The Bay City Commission voted against a contract with Flock Safety following community members expressing privacy concerns.",
+      "source_url": "https://www.mlive.com/news/saginaw-bay-city/2025/11/bay-city-commission-rejects-contract-for-license-plate-readers-following-backlash.html",
+      "link_domain": "mlive.com",
+      "content_hash": "sha256:99bcc0140b44025f0af769d01b175ab89727f00d984d8ccaa211f81fa24e3056",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": null,
+      "article_fetch": {
+        "fetched_at": "2026-07-29T00:36:14.446Z",
+        "status": "blocked"
+      }
+    },
+    {
+      "id": "verona-wi-2025-11",
+      "source_order": 70,
+      "location": {
+        "city": "Verona",
+        "state": "WI",
+        "text": "Verona, WI"
+      },
+      "date": {
+        "text": "November 2025",
+        "year": 2025,
+        "month": 11,
+        "iso": "2025-11-01"
+      },
+      "status": "rejected",
+      "status_raw": "Contract Rejected",
+      "info": "The Verona City Council voted not to renew their contract with Flock Safety after concerns about data access.",
+      "source_url": "https://www.channel3000.com/news/verona-common-council-votes-no-on-renewing-flock-cameras-contract/article_b4d145a6-821a-41ed-9f48-617ac57fd762.html",
+      "link_domain": "channel3000.com",
+      "content_hash": "sha256:3e29ed57b1905703244546c3fac1532fd0af8ab34d94415eb7b18c0ddc76b3aa",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "VERONA, Wis. -- The City of Verona Common Council opted to not renew its contract to keep Flock cameras in the city during a meeting on Monday.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:43:01.687Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "skamania-county-wa-2025-11",
+      "source_order": 71,
+      "location": {
+        "city": "Skamania County",
+        "state": "WA",
+        "text": "Skamania County, WA"
+      },
+      "date": {
+        "text": "November 2025",
+        "year": 2025,
+        "month": 11,
+        "iso": "2025-11-01"
+      },
+      "status": "deactivated",
+      "status_raw": "Cameras Deactivated",
+      "info": "Skamania County stopped using Flock Safety cameras after a Washington court ruled the images captured by them were public records and could be requested by anyone.",
+      "source_url": "https://www.opb.org/article/2025/11/14/skamania-county-sheriff-flock-cameras/",
+      "link_domain": "opb.org",
+      "content_hash": "sha256:435c0004bb5776e62fc1305c60e9c89c48f44b59a458fcb44840f34574189225",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "The license plate reader cameras have led to concerns about immigration enforcement and unnecessary searches.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "lockhart-tx-2025-10",
+      "source_order": 72,
+      "location": {
+        "city": "Lockhart",
+        "state": "TX",
+        "text": "Lockhart, TX"
+      },
+      "date": {
+        "text": "October 2025",
+        "year": 2025,
+        "month": 10,
+        "iso": "2025-10-01"
+      },
+      "status": "rejected",
+      "status_raw": "Contract Rejected",
+      "info": "City council voted 6-1 to reject a contract with Flock Safety after an overwhelmingly negative public response, citing privacy concerns, government overreach, poor use of taxpayer money, and concerns with data sharing.",
+      "source_url": "https://www.kxan.com/news/local/caldwell-county/lockhart-city-council-rejects-flock-ai-cameras-in-6-1-vote/",
+      "link_domain": "kxan.com",
+      "content_hash": "sha256:3e97a8dc8d04f6838c229fed9f09e3047e99a17eed3ebc3903e34eb25a30116e",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": null,
+      "article_fetch": {
+        "fetched_at": "2026-07-29T00:36:14.446Z",
+        "status": "blocked"
+      }
+    },
+    {
+      "id": "hays-county-tx-2025-10",
+      "source_order": 73,
+      "location": {
+        "city": "Hays County",
+        "state": "TX",
+        "text": "Hays County, TX"
+      },
+      "date": {
+        "text": "October 2025",
+        "year": 2025,
+        "month": 10,
+        "iso": "2025-10-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "Hays County commissioners voted 3-2 to terminate their contract with Flock Safety after public concern for privacy and the risk of their personal information being exposed.",
+      "source_url": "https://cbsaustin.com/news/local/hays-county-ends-contract-with-flock-cameras-over-privacy-concerns",
+      "link_domain": "cbsaustin.com",
+      "content_hash": "sha256:6b0ada4b6a82d010aeceda0d498f6e94dcabed63e639506bfdf2445d02ad5b04",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "Hays County has voted to terminate its contract with Flock Cameras, the automated license plate reader system, following a 3-2 decision by the commissioners. Ju",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "warrenton-va-2025-10",
+      "source_order": 74,
+      "location": {
+        "city": "Warrenton",
+        "state": "VA",
+        "text": "Warrenton, VA"
+      },
+      "date": {
+        "text": "October 2025",
+        "year": 2025,
+        "month": 10,
+        "iso": "2025-10-01"
+      },
+      "status": "rejected",
+      "status_raw": "Contract Rejected",
+      "info": "The Town of Warrenton voted 5-1 to permanently block consideration of installing ALPRs in their town.",
+      "source_url": "https://www.fauquiernow.com/news/not-on-our-watch-warrenton-town-council-reverses-course-on-license-plate-readers/article_9a1c02ac-5f77-47c7-a270-06f49ab98332.html",
+      "link_domain": "fauquiernow.com",
+      "content_hash": "sha256:81f64ffb586412c7fc945fb93069e1f7cf6061ce13f6efc3c7a216c3d4befc48",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "The Warrenton Town Council voted 5-1 Tuesday afternoon to permanently suspend all future discussion and consideration of the Warrenton Police Department’s proposal to install automated license plate reader cameras at the town’s main entrances.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "hillsborough-nc-2025-10",
+      "source_order": 75,
+      "location": {
+        "city": "Hillsborough",
+        "state": "NC",
+        "text": "Hillsborough, NC"
+      },
+      "date": {
+        "text": "October 2025",
+        "year": 2025,
+        "month": 10,
+        "iso": "2025-10-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "The town of Hillsborough, North Carolina terminated their contract with Flock Safety following concerns about data privacy.",
+      "source_url": "https://www.hillsboroughnc.gov/Home/Components/News/News/856/14",
+      "link_domain": "hillsboroughnc.gov",
+      "content_hash": "sha256:ae32885ec2aa943f2f945cf30e0fcd9b798858b58e9e681d19b0e2b33ca8e867",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": null,
+      "article_fetch": {
+        "fetched_at": "2026-07-29T00:36:14.446Z",
+        "status": "blocked"
+      }
+    },
+    {
+      "id": "sedro-woolley-wa-2025-10",
+      "source_order": 76,
+      "location": {
+        "city": "Sedro-Woolley",
+        "state": "WA",
+        "text": "Sedro-Woolley, WA"
+      },
+      "date": {
+        "text": "October 2025",
+        "year": 2025,
+        "month": 10,
+        "iso": "2025-10-01"
+      },
+      "status": "deactivated",
+      "status_raw": "Cameras Deactivated",
+      "info": "Sedro-Woolley deactivated their Flock cameras following a lawsuit resulting in Flock footage being considered public records under Washington state law.",
+      "source_url": "https://www.goskagit.com/news/local_news/sedro-woolley-turns-off-law-enforcement-cameras-while-it-seeks-court-ruling/article_d0d0bdb9-6502-4686-94ae-346289afd535.html",
+      "link_domain": "goskagit.com",
+      "content_hash": "sha256:7e63c199c44ebbe9907d5ee6528219d93fb1cf62c3b128591b4a618f8fa64f6a",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "The city of Sedro-Woolley is no longer using cameras that read license plates while it seeks a court ruling on whether images recorded by the cameras are considered public records.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "sedona-az-2025-09",
+      "source_order": 77,
+      "location": {
+        "city": "Sedona",
+        "state": "AZ",
+        "text": "Sedona, AZ"
+      },
+      "date": {
+        "text": "September 2025",
+        "year": 2025,
+        "month": 9,
+        "iso": "2025-09-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "City council voted unanimously to end their contract with Flock Safety after council members claimed they were misled and lied to about the system's data sharing features.",
+      "source_url": "https://www.knau.org/knau-and-arizona-news/2025-09-11/sedona-council-permanently-ends-license-plate-camera-program",
+      "link_domain": "knau.org",
+      "content_hash": "sha256:184f6f229855f283c85f5aef36174e1b8293dbadefd8b2c05eda5fa853958a89",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "The Sedona City Council voted unanimously this week to permanently end its controversial Flock Safety license plate camera program.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "stanwood-wa-2025-09",
+      "source_order": 78,
+      "location": {
+        "city": "Stanwood",
+        "state": "WA",
+        "text": "Stanwood, WA"
+      },
+      "date": {
+        "text": "September 2025",
+        "year": 2025,
+        "month": 9,
+        "iso": "2025-09-01"
+      },
+      "status": "deactivated",
+      "status_raw": "Cameras Deactivated",
+      "info": "The City of Stanwood decided to shut off its Flock cameras pending a court judgment on whether data collected by Flock cameras are considered public records.",
+      "source_url": "https://www.goskagit.com/scnews/scnews/stanwood-s-flock-cameras-shut-off-due-to-legal-dispute-over-public-records-access/article_b7e05878-7ed2-4500-bc3b-fd586edc65ba.html",
+      "link_domain": "goskagit.com",
+      "content_hash": "sha256:cd70a98e1fdbd80e185410d72729ee0a513f43f3e8c66ce24c8a2d0af25771a2",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": null,
+      "article_fetch": {
+        "fetched_at": "2026-07-29T00:36:14.446Z",
+        "status": "blocked"
+      }
+    },
+    {
+      "id": "oak-park-il-2025-08",
+      "source_order": 79,
+      "location": {
+        "city": "Oak Park",
+        "state": "IL",
+        "text": "Oak Park, IL"
+      },
+      "date": {
+        "text": "August 2025",
+        "year": 2025,
+        "month": 8,
+        "iso": "2025-08-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "City council voted to cancel its contract with Flock Safety following a state investigation of the system\\'s data sharing practices, which enabled violations of state law.",
+      "source_url": "https://www.oakpark.com/2025/08/07/oak-park-terminates-flock-license-plate-reader-contract/",
+      "link_domain": "oakpark.com",
+      "content_hash": "sha256:c75fa4d82b3b7efc71e031d29cd16ab8236de56340c0fc24415f43769ac121f0",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "Four Oak Park trustees rejected a motion that would’ve turned the Flock cameras off for 90 days, shutting down the program outright",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "evanston-il-2025-08",
+      "source_order": 80,
+      "location": {
+        "city": "Evanston",
+        "state": "IL",
+        "text": "Evanston, IL"
+      },
+      "date": {
+        "text": "August 2025",
+        "year": 2025,
+        "month": 8,
+        "iso": "2025-08-01"
+      },
+      "status": "deactivated",
+      "status_raw": "Cameras Deactivated",
+      "info": "The City of Evanston ended its contract with Flock Safety and requested the deactivation of the cameras following an audit by the Secretary of State showing the company was violating state law by sharing Illinois data with federal agencies. Flock then reinstalled the cameras against the city's wishes, prompting a cease-and-desist by the city.",
+      "source_url": "https://evanstonroundtable.com/2025/08/26/evanston-shuts-down-license-plate-cameras-terminates-contract-with-flock-safety/",
+      "link_domain": "evanstonroundtable.com",
+      "content_hash": "sha256:14b4e05f37cec0441285afe8cb6905381a3565f21658031158045f068190e166",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "The City of Evanston has shut down its network of automated license plate readers and will end its contract with vendor Flock Safety early after a state audit found the company was illegally sharing Illinois data with federal agencies.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "louisville-co-2025-08",
+      "source_order": 81,
+      "location": {
+        "city": "Louisville",
+        "state": "CO",
+        "text": "Louisville, CO"
+      },
+      "date": {
+        "text": "August 2025",
+        "year": 2025,
+        "month": 8,
+        "iso": "2025-08-01"
+      },
+      "status": "deactivated",
+      "status_raw": "Cameras Deactivated",
+      "info": "The City of Louisville deactivated its cameras after a community member found that the system was severely misrepresented in both its data sharing practices and its capabilities.",
+      "source_url": "https://www.cbsnews.com/colorado/news/license-plate-reading-cameras-colorado-regulation-misuse/",
+      "link_domain": "cbsnews.com",
+      "content_hash": "sha256:ac9a84ff55fede5b145335c4ae2b49d6891540fa3c0a8cbf8a7d1883f38e0ea6",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "There are no federal or state laws in Colorado to regulate the license plate reading cameras, which have been misused and abused in some cases.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "scarsdale-ny-2025-08",
+      "source_order": 82,
+      "location": {
+        "city": "Scarsdale",
+        "state": "NY",
+        "text": "Scarsdale, NY"
+      },
+      "date": {
+        "text": "August 2025",
+        "year": 2025,
+        "month": 8,
+        "iso": "2025-08-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "The Village of Scarsdale terminated its contract with Flock Safety after over 450 community members signed a petition, expressing concerns over privacy and the system's data sharing practices.",
+      "source_url": "https://ij.org/press-release/public-interest-law-firm-applauds-westchester-county-village-for-ending-license-plate-reader-contract/",
+      "link_domain": "ij.org",
+      "content_hash": "sha256:cfbb02bca6cbeca847f0a3050cd2b9c6dc0145f553c24657c795c2681878ada8",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": null,
+      "article_fetch": {
+        "fetched_at": "2026-07-29T00:36:14.446Z",
+        "status": "blocked"
+      }
+    },
+    {
+      "id": "austin-tx-2025-06",
+      "source_order": 83,
+      "location": {
+        "city": "Austin",
+        "state": "TX",
+        "text": "Austin, TX"
+      },
+      "date": {
+        "text": "June 2025",
+        "year": 2025,
+        "month": 6,
+        "iso": "2025-06-01"
+      },
+      "status": "rejected",
+      "status_raw": "Contract Rejected",
+      "info": "City council voted to block the renewal of Austin\\'s contract with Flock Safety after controversial uses for the system, violations of department policy, and contract language that went against council mandates on data retention.",
+      "source_url": "https://www.eff.org/deeplinks/2025/06/victory-austin-organizers-cancel-citys-flock-alpr-contract",
+      "link_domain": "eff.org",
+      "content_hash": "sha256:24f15800fda60dab1d6d4155934a41a6538f3e856ad73d4e7becadddc5a2d75b",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "Austin organizers turned out to rebuke the city’s misguided contract with Flock Safety- and won. This successful pushback from the community means at the end of the month Austin police will no longer be able to use the surveillance network of automated license plate readers (ALPRs) across the city....",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "denver-co-2025-05",
+      "source_order": 84,
+      "location": {
+        "city": "Denver",
+        "state": "CO",
+        "text": "Denver, CO"
+      },
+      "date": {
+        "text": "May 2025",
+        "year": 2025,
+        "month": 5,
+        "iso": "2025-05-01"
+      },
+      "status": "rejected",
+      "status_raw": "Contract Rejected",
+      "info": "City council voted unanimously to reject the $666,000 contract extension with Flock Safety after public pushback and concerns over privacy, civil liberties, and sharing data with federal agencies. Despite their vote, Mayor Johnston went behind council's back and negotiated 2 deals with Flock Safety to keep them in town.",
+      "source_url": "https://denverite.com/2025/05/05/denver-rejects-flock-camera-license-plate-readers/",
+      "link_domain": "denverite.com",
+      "content_hash": "sha256:9820a7a1435a0e23e96d6aacf1d02918cf5c7d40b7a5983ae27531cda2fab31e",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": null,
+      "article_fetch": {
+        "fetched_at": "2026-07-29T00:36:14.446Z",
+        "status": "blocked"
+      }
+    },
+    {
+      "id": "gig-harbor-wa-2025-03",
+      "source_order": 85,
+      "location": {
+        "city": "Gig Harbor",
+        "state": "WA",
+        "text": "Gig Harbor, WA"
+      },
+      "date": {
+        "text": "March 2025",
+        "year": 2025,
+        "month": 3,
+        "iso": "2025-03-01"
+      },
+      "status": "rejected",
+      "status_raw": "Contract Rejected",
+      "info": "City council voted against a contract with Flock Safety after community members raised concerns about privacy, civil liberties, and data sharing.",
+      "source_url": "https://www.thenewstribune.com/news/local/community/gateway/g-news/article302729359.html",
+      "link_domain": "thenewstribune.com",
+      "content_hash": "sha256:8cdeea8db5fcec7e7ae71c802b369161ebc4b8bbd0c325d3b7921531eeb275c2",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": null,
+      "article_fetch": {
+        "fetched_at": "2026-07-29T00:36:14.446Z",
+        "status": "blocked"
+      }
+    },
+    {
+      "id": "eureka-ca-2025-02",
+      "source_order": 86,
+      "location": {
+        "city": "Eureka",
+        "state": "CA",
+        "text": "Eureka, CA"
+      },
+      "date": {
+        "text": "February 2025",
+        "year": 2025,
+        "month": 2,
+        "iso": "2025-02-01"
+      },
+      "status": "rejected",
+      "status_raw": "Contract Rejected",
+      "info": "City council voted unanimously to reject a contract with Flock Safety after hearing community concerns about privacy, civil liberties, and data sharing with federal agencies.",
+      "source_url": "https://lostcoastoutpost.com/2025/feb/5/no-license-plate-reading-cameras/",
+      "link_domain": "lostcoastoutpost.com",
+      "content_hash": "sha256:35e234e97c498bffb559332355d9111ece426fc44c8bd7661fc49d4d1d802773",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "« [UPDATED: Torn Down] New Pro-Israel Billboard Proves Controversial",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "seneca-mo-2025-02",
+      "source_order": 87,
+      "location": {
+        "city": "Seneca",
+        "state": "MO",
+        "text": "Seneca, MO"
+      },
+      "date": {
+        "text": "February 2025",
+        "year": 2025,
+        "month": 2,
+        "iso": "2025-02-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "The Seneca Police Department ended its contract with Flock license plate readers after less than 90 days, citing poor customer service and security concerns.",
+      "source_url": "https://www.koamnewsnow.com/news/top-stories/seneca-police-end-flock-camera-contract-after-less-than-90-days/article_d493c47c-a4ab-4270-83c9-f52e784b24ea.html",
+      "link_domain": "koamnewsnow.com",
+      "content_hash": "sha256:1ef86b8992080f9277b4bc515078216d38228cb73928828cda55c98507577713",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "SENECA, MO. - (KOAM) - The Seneca Police Department has ended its contract with Flock license plate readers after operating the surveillance cameras for less than 90 days, citing poor",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "bend-or-2025-01",
+      "source_order": 88,
+      "location": {
+        "city": "Bend",
+        "state": "OR",
+        "text": "Bend, OR"
+      },
+      "date": {
+        "text": "January 2025",
+        "year": 2025,
+        "month": 1,
+        "iso": "2025-01-01"
+      },
+      "status": "deactivated",
+      "status_raw": "Cameras Deactivated",
+      "info": "Bend City Council voted to deactivate and remove their Flock cameras over concerns with Flock's business practices.",
+      "source_url": "https://www.opb.org/article/2026/01/08/bend-flock-cameras-ai-license-plate-camera-law-enforcement/",
+      "link_domain": "opb.org",
+      "content_hash": "sha256:250862e9b22509f69e8ab055c64e01a3ad3f52b27efde14907bee0b14674628b",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "City of Bend turns off Flock Safety cameras after community outcry over the automatic license plate reader technology.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "elbert-county-co-2024-12",
+      "source_order": 89,
+      "location": {
+        "city": "Elbert County",
+        "state": "CO",
+        "text": "Elbert County, CO"
+      },
+      "date": {
+        "text": "December 2024",
+        "year": 2024,
+        "month": 12,
+        "iso": "2024-12-01"
+      },
+      "status": "rejected",
+      "status_raw": "Contract Rejected",
+      "info": "The Elbert County Board of County Commissioners unanimously voted not to renew its contract with Flock Safety after concerns of government overreach.",
+      "source_url": "https://www.denvergazette.com/2024/02/17/big-brother-or-crime-fighter-elbert-county-says-no-to-license-plate-readers-521d798c-caac-11ee-a37b-7b0672ff5019/",
+      "link_domain": "denvergazette.com",
+      "content_hash": "sha256:13e0cb915ec46a2927403ba87fdcbc07d5942d77504f7d6c05a1e7b72e3507a8",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "In a clash between personal freedoms and technology-driven public safety, the guys controlling Elbert County’s purse strings won. In May - to the dismay of the Elbert County Sheriff’s Office - its own panel of county commissioners became what is likely the first governmental entity in Colorado to challenge the reach of cutting-edge surveillance technology […]",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "pittsboro-nc-2023-10",
+      "source_order": 90,
+      "location": {
+        "city": "Pittsboro",
+        "state": "NC",
+        "text": "Pittsboro, NC"
+      },
+      "date": {
+        "text": "October 2023",
+        "year": 2023,
+        "month": 10,
+        "iso": "2023-10-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "The Pittsboro town board voted 4-1 to cancel its contract for the controversial system of license-plate readers, siding with privacy rights.",
+      "source_url": "https://www.yahoo.com/news/articles/nc-town-ends-flock-safety-130000704.html",
+      "link_domain": "yahoo.com",
+      "content_hash": "sha256:4c46c6f99a589ea33a697d212129e003954afa5f014635058fe9066cadd7ed1e",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "According to many Pittsboro commissioners, the message from constituents was clear - town residents want Flock cameras gone.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "sturgeon-bay-wi-2023-04",
+      "source_order": 91,
+      "location": {
+        "city": "Sturgeon Bay",
+        "state": "WI",
+        "text": "Sturgeon Bay, WI"
+      },
+      "date": {
+        "text": "April 2023",
+        "year": 2023,
+        "month": 4,
+        "iso": "2023-04-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "Sturgeon Bay will discontinue using the Flock System after overwhelming opposition was voiced by the public",
+      "source_url": "https://doorcountypulse.com/city-to-discontinue-using-flock-license-plate-reader-cameras/",
+      "link_domain": "doorcountypulse.com",
+      "content_hash": "sha256:9cdbff3504c255bbd1b9b398d5fba6cf6c3adfeecd9e8505f87fa91d169fdd4d",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "The City of Sturgeon Bay will discontinue using the Flock System license plate reader camera system that was installed two years ago. After hearing overwhelming opposition during the public comment […]",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "everett-wa-2023-02",
+      "source_order": 92,
+      "location": {
+        "city": "Everett",
+        "state": "WA",
+        "text": "Everett, WA"
+      },
+      "date": {
+        "text": "February 2023",
+        "year": 2023,
+        "month": 2,
+        "iso": "2023-02-01"
+      },
+      "status": "other",
+      "status_raw": "Contract Reinstated",
+      "info": "UPDATE: Everett has rejoined the Flock after WA state passed a law exempting ALPR data - including audit logs - from FOIA. The City of Everett shut down its entire network of Flock license plate reader cameras after a judge ruled the footage is considered public record.",
+      "source_url": "https://www.heraldnet.com/2026/04/22/everett-reactivates-flock-camera-network-after-passage-of-new-law/",
+      "link_domain": "heraldnet.com",
+      "content_hash": "sha256:098421e295577f73279c8a26bc6d7175094d2b0dc26081b403347a137cb13b93",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "Mayor Cassie Franklin directed police to unpause the network in early April, a city spokesperson confirmed Tuesday.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "south-tucson-az-2023-02",
+      "source_order": 93,
+      "location": {
+        "city": "South Tucson",
+        "state": "AZ",
+        "text": "South Tucson, AZ"
+      },
+      "date": {
+        "text": "February 2023",
+        "year": 2023,
+        "month": 2,
+        "iso": "2023-02-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "The City of South Tucson, AZ canceled their contract with Flock Safety, removing the automated license plate reader cameras after months of debate over privacy and public safety.",
+      "source_url": "https://www.tucsonspotlight.org/south-tucson-ends-flock-camera-contract/",
+      "link_domain": "tucsonspotlight.org",
+      "content_hash": "sha256:235aaec2a7d66c59d73d55606b65963ae9e8ac4e69379d53c3aa97da0004c1ad",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "The South Tucson City Council voted 5-1-1 to cancel its Flock Safety license plate reader contract after privacy concerns, becoming the third Arizona city to cut ties with the company.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "ypsilanti-mi-2022-09",
+      "source_order": 94,
+      "location": {
+        "city": "Ypsilanti",
+        "state": "MI",
+        "text": "Ypsilanti, MI"
+      },
+      "date": {
+        "text": "September 2022",
+        "year": 2022,
+        "month": 9,
+        "iso": "2022-09-01"
+      },
+      "status": "other",
+      "status_raw": "ALPRs Banned",
+      "info": "The city of Ypsilanti, MI voted to ban license plate readers, citing privacy concerns.",
+      "source_url": "https://www.wemu.org/wemu-news/2022-09-14/ypsilanti-city-council-bans-license-plate-readers-citing-invasion-of-privacy",
+      "link_domain": "wemu.org",
+      "content_hash": "sha256:6c45cb071bba10593cc5644f88d9ad7d611adf5f81ddfadb26ff746d4e2aa9f5",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "Automatic license plate readers will not be installed along the streets of Ypsilanti. As WEMU's Josh Hakala reports, Ypsilanti City Council voted Tuesday night to ban the technology.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "lake-county-fl-2021-08",
+      "source_order": 95,
+      "location": {
+        "city": "Lake County",
+        "state": "FL",
+        "text": "Lake County, FL"
+      },
+      "date": {
+        "text": "August 2021",
+        "year": 2021,
+        "month": 8,
+        "iso": "2021-08-01"
+      },
+      "status": "deactivated",
+      "status_raw": "Cameras Deactivated",
+      "info": "Lake County commissioners ordered Flock to remove their cameras following their illegal and unpermitted installation, a tactic by Flock that still occurs in 2026.",
+      "source_url": "https://www.orlandoweekly.com/news/lake-county-commissioners-call-for-removal-of-surveillance-cameras-they-never-approved-29805351/",
+      "link_domain": "orlandoweekly.com",
+      "content_hash": "sha256:b7a6cf3411807c8a1bf330ebe6ec3ad9968433bd0cd9b8f4826c0ccf4959e5c4",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-07-29T00:36:14.446Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "The trend in recent years has been toward unending surveillance. Phones, smart microphones, cameras in doorbells and the ever-present traffic cams have brought just about...",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    }
+  ]
+}
