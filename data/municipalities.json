@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-08-26T14:29:58.648Z",
+  "generated_at": "2026-08-28T01:10:43.518Z",
   "source_url": "https://deflock.org/council#wins",
-  "count": 138,
+  "count": 148,
   "entries": [
     {
       "id": "kingstown-ri-2026-08",
@@ -25,7 +25,7 @@
       "link_domain": "turnto10.com",
       "content_hash": "sha256:922647487299d2143adc7203e1c0d5d5744f9dc63629001eeb089085fd03b8b0",
       "first_seen_at": "2026-08-03T16:59:17.071Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260807014447/https://turnto10.com/news/local/south-kingstown-ends-partnership-with-flock-cameras-july-28-2026",
@@ -56,7 +56,7 @@
       "link_domain": "centralnebraskatoday.com",
       "content_hash": "sha256:aef52273dcbbb2551e56ebcc13e99b42bb773646637db0cd272565e49938b66c",
       "first_seen_at": "2026-08-05T15:54:29.840Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260807061749/https://www.centralnebraskatoday.com/2026/08/04/ord-city-council-votes-to-remove-flock-cameras/",
@@ -87,7 +87,7 @@
       "link_domain": "wpri.com",
       "content_hash": "sha256:8fcc1fb73b9687e2a44d67598a0f029828fe02c2e3553ad308bb6b4d56eaa2ed",
       "first_seen_at": "2026-08-05T15:54:29.840Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
@@ -118,7 +118,7 @@
       "link_domain": "4029tv.com",
       "content_hash": "sha256:d919dafedd9ec563a3e8aa34a869e023a13f098c8550027663905565c021ef4a",
       "first_seen_at": "2026-08-13T05:52:11.475Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260813194650/https://www.4029tv.com/article/city-of-centerton-votes-to-terminate-contract-with-flock/73408865",
@@ -149,7 +149,7 @@
       "link_domain": "texarkanagazette.com",
       "content_hash": "sha256:76903343dd52e90da6151f8b0d4ee015ef01de2dde27f0d94e650bf37fc2732e",
       "first_seen_at": "2026-08-13T05:52:11.475Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260813222631/https://www.texarkanagazette.com/news/2026/aug/11/mayflower-joins-cabot-pea-ridge-in-stopping-use/",
@@ -180,7 +180,7 @@
       "link_domain": "kstp.com",
       "content_hash": "sha256:35a44d2d4e660cfffcfcd8b6ad67e47b9ecfc2b5843b9d55c1d8a8f0f57e60ec",
       "first_seen_at": "2026-08-13T05:52:11.475Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260813143624/https://kstp.com/kstp-news/top-news/winona-wont-replace-flock-cameras-after-thefts-took-all-of-citys-devices-offline/",
@@ -211,7 +211,7 @@
       "link_domain": "pinal.gov",
       "content_hash": "sha256:ea23efc56db06994be54dd04691957dec2417c6f782d19d4fa224013cf34ff9f",
       "first_seen_at": "2026-08-13T05:52:11.475Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260814055129/https://www.pinal.gov/m/newsflash/home/detail/2509",
@@ -242,7 +242,7 @@
       "link_domain": "kivitv.com",
       "content_hash": "sha256:2860511d8efee6bd80bdbf44339c71cd279a518db3de202f916dd4c419fb85c2",
       "first_seen_at": "2026-08-13T05:52:11.475Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260815031050/https://www.kivitv.com/garden-city/new-garden-city-police-chief-outlines-priorities-says-no-to-license-plate-reader-cameras",
@@ -273,7 +273,7 @@
       "link_domain": "seguingazette.com",
       "content_hash": "sha256:0fab642fd40761c8653bcfc8177df1a2e5d4f5f8fa70b19cd9d28a5b4ad1d2ea",
       "first_seen_at": "2026-08-13T05:52:11.475Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260813095216/https://seguingazette.com/news/sheriff-ends-county-s-flock-safety-contract/article_6747d32d-f659-4c2c-b14a-cac72fd18913.html",
@@ -304,7 +304,7 @@
       "link_domain": "texasscorecard.com",
       "content_hash": "sha256:e54fc4a4cf993377ec42f5833ec1b99772f82f580dbd4635b4c4414e46518a3b",
       "first_seen_at": "2026-08-13T05:52:11.475Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260813222726/https://texasscorecard.com/local/lago-vista-city-council-votes-to-remove-flock-license-plate-readers/",
@@ -335,7 +335,7 @@
       "link_domain": "jsonline.com",
       "content_hash": "sha256:10d327ad22d530c25de211c8ece75a519d073ab5588781fa0ee5dfc7b822d216",
       "first_seen_at": "2026-08-13T05:52:11.475Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260816032943/https://www.jsonline.com/story/communities/south/2026/08/09/eagle-sports-range-in-cudahy-removes-flock-cameras-after-viral-video/91235240007/",
@@ -366,7 +366,7 @@
       "link_domain": "wdio.com",
       "content_hash": "sha256:d1e67effe5f7c9ac979e28fdbb628af966c77bacc8bffe579db255d6dbb06c12",
       "first_seen_at": "2026-08-13T05:52:11.475Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260814055332/https://www.wdio.com/top-stories/duluth-police-department-ending-contract-with-flock/",
@@ -397,7 +397,7 @@
       "link_domain": "kval.com",
       "content_hash": "sha256:3e3e5463f0d38c80024e80dbb72dc5317d18286c9e0f53e8755af8076cbae925",
       "first_seen_at": "2026-08-13T05:52:11.475Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260814173728/https://kval.com/news/local/josephine-county-sheriffs-office-ends-contract-with-flock-cameras",
@@ -428,7 +428,7 @@
       "link_domain": "qconline.com",
       "content_hash": "sha256:44d73431e08dced64e45748649eb4a0ee5c89abb908b3046adac2b34b8aa79d4",
       "first_seen_at": "2026-08-17T22:59:35.297Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260817230028/https://qconline.com/news/state-regional/article_952f6126-379b-5a8b-8e42-99eef1993c3d.html",
@@ -459,13 +459,13 @@
       "link_domain": "azcentral.com",
       "content_hash": "sha256:e52f526335551519d8ed75f4389320a45c5bd7bf5f3f6ebda491b80da6178524",
       "first_seen_at": "2026-08-17T22:59:35.297Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260821033403/https://www.azcentral.com/story/news/local/surprise/2026/08/14/surprise-cancels-flock-camera-contract-after-anomaly-found/91314065007/?gca-cat=p&gnt-cfr=1&gnt-djm=1",
       "article_excerpt": null,
       "article_fetch": {
-        "fetched_at": "2026-08-26T14:29:58.648Z",
+        "fetched_at": "2026-08-28T01:10:43.518Z",
         "status": "blocked"
       }
     },
@@ -490,7 +490,7 @@
       "link_domain": "wcvb.com",
       "content_hash": "sha256:b3baadff84b81ee36db250d72497f812474d0d64e79243d2fe73f42343323922",
       "first_seen_at": "2026-08-17T22:59:35.297Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260818031624/https://www.wcvb.com/article/flock-camera-use-littleton-massachusetts/73438697",
@@ -521,7 +521,7 @@
       "link_domain": "sciotopost.com",
       "content_hash": "sha256:f1f884ba1181b722cb1ac1df6bf49adea8e22041ec12ccc6824dd426f4a17793",
       "first_seen_at": "2026-08-17T22:59:35.297Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260818031551/https://www.sciotopost.com/coshocton-county-sheriff-decides-to-remove-flock-cameras-amid-statewide-pushback/",
@@ -552,7 +552,7 @@
       "link_domain": "hometownsource.com",
       "content_hash": "sha256:4004fe550aa6093e28a7175a832712c12dd4938114b67c3a2f5b9a81bf41b3a0",
       "first_seen_at": "2026-08-17T22:59:35.297Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260818080810/https://www.hometownsource.com/elk_river_star_news/sherburne-county-sheriffs-office-discontinues-use-of-flock-cameras/article_1396859a-5585-457d-bb79-0317237a5e5f.html",
@@ -583,7 +583,7 @@
       "link_domain": "tulsaflyer.org",
       "content_hash": "sha256:2a7d052854f3e9e289bda904d6f40d7bdeed8df4ac532ae8ee03e5d2feb206f4",
       "first_seen_at": "2026-08-17T22:59:35.297Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260818110550/https://tulsaflyer.org/2026/08/14/government/post/coweta-unplugging-flock-cameras/",
@@ -614,7 +614,7 @@
       "link_domain": "denver7.com",
       "content_hash": "sha256:8ee2601f2b409cb47894f52796749a1d4a24f53c59edbfde77ca4e1964f8e8e6",
       "first_seen_at": "2026-08-17T22:59:35.297Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260818080901/https://www.denver7.com/news/colorado-springs-area/salida-police-department-cancels-flock-safety-contract-over-community-concerns-about-privacy-civil-liberties",
@@ -645,7 +645,7 @@
       "link_domain": "aol.com",
       "content_hash": "sha256:b21b44ca881d824ff913dda249408a93eebfd9def2cc5bda3151a07e7d40786e",
       "first_seen_at": "2026-08-17T22:59:35.297Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260818095615/https://www.aol.com/articles/henry-county-sheriff-office-end-210554000.html?guccounter=1",
@@ -676,7 +676,7 @@
       "link_domain": "krcgtv.com",
       "content_hash": "sha256:0d75092bc57ad1e57771416d34847bcc92a00b6678e0e7fe09091a84cbaa6761",
       "first_seen_at": "2026-08-20T19:50:08.634Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260820195113/https://krcgtv.com/news/local/pulaski-county-sheriffs-office-to-discontinue-flock-safety-cameras",
@@ -707,7 +707,7 @@
       "link_domain": "opb.org",
       "content_hash": "sha256:6f1adae3d6448beae8472793b6e6657d0a33c712e3d5b0aa6be4ce6008ea95e0",
       "first_seen_at": "2026-08-20T19:50:08.634Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260820195159/https://www.opb.org/article/2026/08/20/winston-police-southern-oregon-ends-flock-cameras-contract/",
@@ -738,7 +738,7 @@
       "link_domain": "kcrg.com",
       "content_hash": "sha256:1c8f174a6f0ad09626c773ec26a18cb73555fe59d61369b326b2b22aa7c27c64",
       "first_seen_at": "2026-08-20T23:05:00.609Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260820230605/https://www.kcrg.com/2026/08/18/indianola-deactivates-its-flock-cameras-review-privacy-concerns/",
@@ -769,7 +769,7 @@
       "link_domain": "wlwt.com",
       "content_hash": "sha256:c50db9f679d9f2a8ca5438dcc29ec476213d8d4a5695593e46791611a09500e7",
       "first_seen_at": "2026-08-20T23:05:00.609Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260820230636/https://www.wlwt.com/article/fort-mitchell-kentucky-mayor-flock-camera-usage-ends/73476685",
@@ -800,7 +800,7 @@
       "link_domain": "13abc.com",
       "content_hash": "sha256:62e9385930f9474db6b43c3be8f2f471fac8e192609d6a8c616e68d3a05f1afd",
       "first_seen_at": "2026-08-20T23:05:00.609Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260821080953/https://www.13abc.com/video/2026/08/20/wyandot-county-sheriff-begins-removing-flock-cameras-after-resident-feedback/",
@@ -831,7 +831,7 @@
       "link_domain": "ky3.com",
       "content_hash": "sha256:7977ddb8a540942f4585e6a79f9ce6f8fb8e1537cc2c35baa55a9c1c50f80bf6",
       "first_seen_at": "2026-08-20T23:05:00.609Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260821081022/https://www.ky3.com/2026/08/12/city-bolivar-mo-votes-unanimously-terminate-flock-contract/",
@@ -862,7 +862,7 @@
       "link_domain": "wcyb.com",
       "content_hash": "sha256:d8c5722532ac273c774d8890af384a7f65d2aa3fc54d4d5ac15dea942741f26f",
       "first_seen_at": "2026-08-20T23:05:00.609Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260821100122/https://wcyb.com/news/local/sullivan-county-sheriffs-office-suspends-use-of-lpr-cameras",
@@ -893,7 +893,7 @@
       "link_domain": "clickondetroit.com",
       "content_hash": "sha256:fa002620dd13cd13624cee2d77e5d2f26be60c27ae24de31b08328d3320264af",
       "first_seen_at": "2026-08-20T23:05:00.609Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260821111434/https://www.clickondetroit.com/news/local/2026/08/18/madison-heights-cannabis-dispensary-wins-flock-camera-removal-after-city-agreement-2/",
@@ -924,7 +924,7 @@
       "link_domain": "whdh.com",
       "content_hash": "sha256:eb003fb612d1099d04feea33d4be05b4fdc578b0380b44f074c594bd903220f7",
       "first_seen_at": "2026-08-22T05:45:22.997Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260822054605/https://whdh.com/news/east-bridgewater-police-terminate-flock-contract/",
@@ -955,7 +955,7 @@
       "link_domain": "kxii.com",
       "content_hash": "sha256:e5385fb5d49f89a4ad935d8bbf5872b6b50519583ef38b16f3f2eb0994aecdac",
       "first_seen_at": "2026-08-22T05:45:22.997Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260822054642/https://www.kxii.com/2026/08/21/texoma-town-cancels-flock-camera-contract-after-residents-raise-privacy-concerns/",
@@ -986,7 +986,7 @@
       "link_domain": "communityadvocate.com",
       "content_hash": "sha256:4967f409ce5360d2ccf72712b4154ad4a0e7a6a6853562bfbde608c98acd4314",
       "first_seen_at": "2026-08-22T05:45:22.997Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260822054712/https://www.communityadvocate.com/grafton/grafton-police-department-to-deactivate-flock-cameras/article_8d630276-6dfc-40d6-86f8-00e298987168.html",
@@ -1017,7 +1017,7 @@
       "link_domain": "wxow.com",
       "content_hash": "sha256:54590a7488c622969affdceea128534c1a183ebf9a6a360a1702d8a282853740",
       "first_seen_at": "2026-08-22T05:45:22.997Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260822075000/https://www.wxow.com/news/coulee/west-salem-removes-flock-cameras/article_4b6226c6-c960-4190-8aa6-dcab4d936915.html",
@@ -1048,7 +1048,7 @@
       "link_domain": "kmbc.com",
       "content_hash": "sha256:3a425ab8d232b7a90a4ea708972db89e9edebef60682e8f9b10266ea2ef0abd2",
       "first_seen_at": "2026-08-22T05:45:22.997Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260822075044/https://www.kmbc.com/article/wellsville-kansas-police-flock-camera-system-removal/73487763",
@@ -1079,7 +1079,7 @@
       "link_domain": "wilx.com",
       "content_hash": "sha256:979d633475c1d33d26535e81e504d42f4b19c94dd04a05ec8c01203cd3b1aabc",
       "first_seen_at": "2026-08-25T19:49:04.073Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260825231409/https://www.wilx.com/2026/08/25/lansing-council-adopts-resolution-end-flock-safety-camera-contracts/",
@@ -1110,7 +1110,7 @@
       "link_domain": "whdh.com",
       "content_hash": "sha256:33c1cf9b0096bddf4fbcfdba2b0f53709b52520a40a3a86584256ef422c5ad3d",
       "first_seen_at": "2026-08-25T19:49:04.073Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
@@ -1141,7 +1141,7 @@
       "link_domain": "wfdd.org",
       "content_hash": "sha256:6a674563b7da94a4ddb2811078036433c419ade60d12dadb01c33962f10fdfeb",
       "first_seen_at": "2026-08-25T19:49:04.073Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
@@ -1172,7 +1172,7 @@
       "link_domain": "koat.com",
       "content_hash": "sha256:3b7b76b97b250db36902bfbd16fa06f0a4401040586fd6d3a65652cf39e62ef0",
       "first_seen_at": "2026-08-25T23:13:24.826Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
@@ -1203,7 +1203,7 @@
       "link_domain": "journalgazette.net",
       "content_hash": "sha256:025c20a92aa49b96f0d4b3351f2d4a4c47a16ed9235d8f57ce7ebbaa67e6817b",
       "first_seen_at": "2026-08-26T03:38:41.372Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
@@ -1214,8 +1214,318 @@
       }
     },
     {
-      "id": "madison-wi-2026-07",
+      "id": "cave-creek-az-2026-08",
       "source_order": 40,
+      "location": {
+        "city": "Cave Creek",
+        "state": "AZ",
+        "text": "Cave Creek, AZ"
+      },
+      "date": {
+        "text": "August 2026",
+        "year": 2026,
+        "month": 8,
+        "iso": "2026-08-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "The Town of Cave Creek has terminated its agreement with Flock due to resident concerns and privacy limitations.",
+      "source_url": "https://www.citysuntimes.com/news/town-of-cave-creek-terminates-flock-license-plate-reader-agreement/article_43644702-5f77-434d-a14d-ce4e4d855c5a.html",
+      "link_domain": "citysuntimes.com",
+      "content_hash": "sha256:cb886d851bfb3a6d5bbce15e5cd7e3e68ea8e1b0ee84ea1f41147ac92a9baab6",
+      "first_seen_at": "2026-08-28T01:10:43.518Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "The Town of Cave Creek has administratively terminated its agreement with FLOCK for the provision of license plate reading technology, effective immediately. This decision follows careful consideration of resident concerns,",
+      "article_fetch": {
+        "fetched_at": "2026-08-28T01:10:43.518Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "lincoln-county-id-2026-08",
+      "source_order": 41,
+      "location": {
+        "city": "Lincoln County",
+        "state": "ID",
+        "text": "Lincoln County, ID"
+      },
+      "date": {
+        "text": "August 2026",
+        "year": 2026,
+        "month": 8,
+        "iso": "2026-08-01"
+      },
+      "status": "deactivated",
+      "status_raw": "Cameras Deactivated",
+      "info": "Lincoln County will stop using Flock cameras as announced by Sheriff René King.",
+      "source_url": "https://www.kivitv.com/news/local-news/in-your-neighborhood/lincoln-county/lincoln-county-sheriffs-office-will-stop-using-flock-cameras",
+      "link_domain": "kivitv.com",
+      "content_hash": "sha256:db578044f7902de6e698536020ce157cff228800c1ef76acd192e6a449761f61",
+      "first_seen_at": "2026-08-28T01:10:43.518Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "The Lincoln County Sheriff’s Office will stop using Flock cameras, Sheriff René King announced today. King says the decision was not political and did not amount to taking sides.",
+      "article_fetch": {
+        "fetched_at": "2026-08-28T01:10:43.518Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "pflugerville-tx-2026-08",
+      "source_order": 42,
+      "location": {
+        "city": "Pflugerville",
+        "state": "TX",
+        "text": "Pflugerville, TX"
+      },
+      "date": {
+        "text": "August 2026",
+        "year": 2026,
+        "month": 8,
+        "iso": "2026-08-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "Pflugerville canceled their contract with Flock, citing concerns about privacy and data protection.",
+      "source_url": "https://www.statesman.com/news/local/pflugerville/article/pflugerville-flock-license-plate-readers-22404293.php",
+      "link_domain": "statesman.com",
+      "content_hash": "sha256:6e69cd1dcf615c0e2166d90a2da529986dd18f8dc7baafd0923b437ea220e205",
+      "first_seen_at": "2026-08-28T01:10:43.518Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": null,
+      "article_fetch": {
+        "fetched_at": "2026-08-28T01:10:43.518Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "tempe-az-2026-08",
+      "source_order": 43,
+      "location": {
+        "city": "Tempe",
+        "state": "AZ",
+        "text": "Tempe, AZ"
+      },
+      "date": {
+        "text": "August 2026",
+        "year": 2026,
+        "month": 8,
+        "iso": "2026-08-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "Tempe ended their contract with Flock and turned off its cameras due to privacy concerns.",
+      "source_url": "https://www.azfamily.com/2026/08/26/tempe-turns-off-flock-cameras-ends-contract-with-company/",
+      "link_domain": "azfamily.com",
+      "content_hash": "sha256:ae413bc2cc9809e39aebc8cc31c20c4cc4f31494e1306774918b1de849c6f5ff",
+      "first_seen_at": "2026-08-28T01:10:43.518Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "The city said it will not look for another company to replace the system.",
+      "article_fetch": {
+        "fetched_at": "2026-08-28T01:10:43.518Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "pasco-county-fl-2026-08",
+      "source_order": 44,
+      "location": {
+        "city": "Pasco County",
+        "state": "FL",
+        "text": "Pasco County, FL"
+      },
+      "date": {
+        "text": "August 2026",
+        "year": 2026,
+        "month": 8,
+        "iso": "2026-08-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "Pasco County is terminating their agreement with Flock and disallowing the operation of LPRs including Flock and Axon on public ROWs.",
+      "source_url": "https://www.tampabay28.com/news/region-pasco/contract-terminated-license-plate-detection-systems-to-be-removed-from-pasco-county-sheriff",
+      "link_domain": "tampabay28.com",
+      "content_hash": "sha256:570c26800e1c64fd644923985c911387f173ba5a1b0fa19812ec26fa6116a24b",
+      "first_seen_at": "2026-08-28T01:10:43.518Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "Pasco County Sheriff Chris Nocco said he is terminating the agreement for license plate detection systems in the county.",
+      "article_fetch": {
+        "fetched_at": "2026-08-28T01:10:43.518Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "sheboygan-wi-2026-08",
+      "source_order": 45,
+      "location": {
+        "city": "Sheboygan",
+        "state": "WI",
+        "text": "Sheboygan, WI"
+      },
+      "date": {
+        "text": "August 2026",
+        "year": 2026,
+        "month": 8,
+        "iso": "2026-08-01"
+      },
+      "status": "deactivated",
+      "status_raw": "Cameras Deactivated",
+      "info": "Sheboygan will request termination of the city's contract with Flock, and has begun bagging the cameras until they can be removed.",
+      "source_url": "https://www.tmj4.com/news/local-news/in-your-community/sheboygan-county/city-of-sheboygan-staff-cover-flock-cameras-as-city-police-request-termination-of-contract-with-flock-safety",
+      "link_domain": "tmj4.com",
+      "content_hash": "sha256:6230301c168e0c3ba42659dd000f603658f4e3aeef122f192e5914d0a569054c",
+      "first_seen_at": "2026-08-28T01:10:43.518Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "More than a dozen Flock cameras in the City of Sheboygan have been covered up by city staff as they work with the Sheboygan Common Council to terminate the city's contract with Flock Safety.",
+      "article_fetch": {
+        "fetched_at": "2026-08-28T01:10:43.518Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "wylie-tx-2026-08",
+      "source_order": 46,
+      "location": {
+        "city": "Wylie",
+        "state": "TX",
+        "text": "Wylie, TX"
+      },
+      "date": {
+        "text": "August 2026",
+        "year": 2026,
+        "month": 8,
+        "iso": "2026-08-01"
+      },
+      "status": "rejected",
+      "status_raw": "Contract Rejected",
+      "info": "The Wylie City Council voted unanimously not to renew its contract with Flock, leading to the shutdown of its automated license plate reader cameras.",
+      "source_url": "https://dallasexpress.com/metroplex/wylie-votes-7-0-to-end-flock-camera-contract-as-north-texas-privacy-backlash-grows/",
+      "link_domain": "dallasexpress.com",
+      "content_hash": "sha256:9e382491f01c5e88c3f97bec50761f1be1b314cae06e1d63278c8ae6e5340a85",
+      "first_seen_at": "2026-08-28T01:10:43.518Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "Wylie City Council voted 7-0 not to renew its Flock Safety deal. Six license plate readers will shut down in October.",
+      "article_fetch": {
+        "fetched_at": "2026-08-28T01:10:43.518Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "giles-county-va-2026-08",
+      "source_order": 47,
+      "location": {
+        "city": "Giles County",
+        "state": "VA",
+        "text": "Giles County, VA"
+      },
+      "date": {
+        "text": "August 2026",
+        "year": 2026,
+        "month": 8,
+        "iso": "2026-08-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "The Giles County Sheriff’s Office will end its use of Flock cameras citing public concerns about data integrity.",
+      "source_url": "https://www.wsls.com/news/local/2026/08/27/giles-county-sheriffs-office-to-end-flock-safety-agreement-on-oct-16/",
+      "link_domain": "wsls.com",
+      "content_hash": "sha256:e13a580542bf91729269bca84d08ac039bcc64bae5e3c9eb94f813970661debe",
+      "first_seen_at": "2026-08-28T01:10:43.518Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "The Giles County Sheriff’s Office will end its agreement with Flock Safety, citing public concerns about data integrity as a factor in the decision.",
+      "article_fetch": {
+        "fetched_at": "2026-08-28T01:10:43.518Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "galva-il-2026-08",
+      "source_order": 48,
+      "location": {
+        "city": "Galva",
+        "state": "IL",
+        "text": "Galva, IL"
+      },
+      "date": {
+        "text": "August 2026",
+        "year": 2026,
+        "month": 8,
+        "iso": "2026-08-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "Galva will stop using Flock cameras, following in the footsteps of the Henry County Sheriff's Office and in response to concerns about privacy and public trust.",
+      "source_url": "https://kewaneevoice.com/galva-also-discontinues-flock-cameras/",
+      "link_domain": "kewaneevoice.com",
+      "content_hash": "sha256:abff35569d54dfbd3ca9f27505da75c52c3f1d58d91cf598a3815945c2159870",
+      "first_seen_at": "2026-08-28T01:10:43.518Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "The Galva Police Department will stop using its Flock Safety cameras, Police Chief Kraig Townsend said Wednesday. “The city of Galva will be phasing out its Flock Safety camera system, following the recent decision by the Henry County Sheriff’s Office” to discontinue use of the cameras, Townsend wrote in a news release issued Wednesday. MORE:… Continue reading Galva also discontinues Flock cameras",
+      "article_fetch": {
+        "fetched_at": "2026-08-28T01:10:43.518Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "shoshone-id-2026-08",
+      "source_order": 49,
+      "location": {
+        "city": "Shoshone",
+        "state": "ID",
+        "text": "Shoshone, ID"
+      },
+      "date": {
+        "text": "August 2026",
+        "year": 2026,
+        "month": 8,
+        "iso": "2026-08-01"
+      },
+      "status": "deactivated",
+      "status_raw": "Cameras Deactivated",
+      "info": "The Lincoln County Sheriff announced the county will no longer use Flock cameras after strong opposition from community members.",
+      "source_url": "https://www.kmvt.com/2026/08/27/lincoln-county-sheriff-drops-flock-cameras-after-community-pushback-shoshone/",
+      "link_domain": "kmvt.com",
+      "content_hash": "sha256:87e9a5d6fd54b23a2aec20ff9afd57ee5f51f8c5803aaf96a47573e97fb18380",
+      "first_seen_at": "2026-08-28T01:10:43.518Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": "The Lincoln County Sheriff announced this week the county will no longer use Flock cameras after strong opposition from community members.",
+      "article_fetch": {
+        "fetched_at": "2026-08-28T01:10:43.518Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "madison-wi-2026-07",
+      "source_order": 50,
       "location": {
         "city": "Madison",
         "state": "WI",
@@ -1234,7 +1544,7 @@
       "link_domain": "captimes.com",
       "content_hash": "sha256:a21f217c98341d1ae18d5b865726242647bc301f669550f06f35de4d5093aba7",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260728233651/https://captimes.com/news/education/uw-madison-police-to-remove-contentious-flock-cameras-from-campus/article_150acf6c-c335-45f4-95dd-ab99d7f9b910.html",
@@ -1246,7 +1556,7 @@
     },
     {
       "id": "floyd-county-va-2026-07",
-      "source_order": 41,
+      "source_order": 51,
       "location": {
         "city": "Floyd County",
         "state": "VA",
@@ -1265,7 +1575,7 @@
       "link_domain": "floydtimes.com",
       "content_hash": "sha256:0ccbc2b01ae59a6bb3ed2e319efda49a4bcb9da31590e714f13092dff7efe337",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260728233656/https://www.floydtimes.com/sheriff-craig-flock-cameras-are-out-at-end-of-contract/",
@@ -1277,7 +1587,7 @@
     },
     {
       "id": "mount-vernon-wa-2026-07",
-      "source_order": 42,
+      "source_order": 52,
       "location": {
         "city": "Mount Vernon",
         "state": "WA",
@@ -1296,7 +1606,7 @@
       "link_domain": "cascadiadaily.com",
       "content_hash": "sha256:79780d22ac2cb64901c80ff0651aed9dd3b0ea6c94203db44346675538a87b3f",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260728234325/https://www.cascadiadaily.com/2026/jul/02/flock-cameras-turned-off-in-mount-vernon/",
@@ -1308,7 +1618,7 @@
     },
     {
       "id": "killingworth-ct-2026-07",
-      "source_order": 43,
+      "source_order": 53,
       "location": {
         "city": "Killingworth",
         "state": "CT",
@@ -1327,7 +1637,7 @@
       "link_domain": "insideinvestigator.org",
       "content_hash": "sha256:e3a863a1867910fdbc0b809ec69f8cb81bc699f1d380e75388686930d50efba6",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260728234411/https://insideinvestigator.org/killingworth-to-end-flock-contract/",
@@ -1339,7 +1649,7 @@
     },
     {
       "id": "westland-mi-2026-07",
-      "source_order": 44,
+      "source_order": 54,
       "location": {
         "city": "Westland",
         "state": "MI",
@@ -1358,7 +1668,7 @@
       "link_domain": "clickondetroit.com",
       "content_hash": "sha256:6df7cdcee0e0c9a6a0cdeeec20df995afac5db1201c92eb7a60636526106604f",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260728234439/https://www.clickondetroit.com/news/local/2026/07/09/flock-camera-contract-will-not-be-renewed-in-westland-councilwoman-says/",
@@ -1370,7 +1680,7 @@
     },
     {
       "id": "los-angeles-ca-2026-07",
-      "source_order": 45,
+      "source_order": 55,
       "location": {
         "city": "Los Angeles",
         "state": "CA",
@@ -1389,7 +1699,7 @@
       "link_domain": "abc7.com",
       "content_hash": "sha256:4b69aafcec80a4ef74fa92bc4d80a978dfe0c7a608c49fbcd1381ee5f0ebc7a2",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260728234612/https://abc7.com/post/lapd-ending-agreement-surveillance-company-flock-safety/19483200/",
@@ -1401,7 +1711,7 @@
     },
     {
       "id": "green-river-wy-2026-07",
-      "source_order": 46,
+      "source_order": 56,
       "location": {
         "city": "Green River",
         "state": "WY",
@@ -1420,7 +1730,7 @@
       "link_domain": "sweetwaternow.com",
       "content_hash": "sha256:92fb3310378fc60e6a94d06492cd9f7ebc0659c73726a69c104636ee32c5db8c",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260728234652/https://www.sweetwaternow.com/green-river-council-shoots-down-license-plate-readers/",
@@ -1432,7 +1742,7 @@
     },
     {
       "id": "kaukauna-wi-2026-07",
-      "source_order": 47,
+      "source_order": 57,
       "location": {
         "city": "Kaukauna",
         "state": "WI",
@@ -1451,7 +1761,7 @@
       "link_domain": "wbay.com",
       "content_hash": "sha256:ba171682dcc1c47137bd643251b0b7ee9feb4b1132a40edfed78977750745d00",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260728234727/https://www.wbay.com/2026/07/09/kaukauna-drops-flock-safety-contract-privacy-debate-grows-northeast-wisconsin/",
@@ -1463,7 +1773,7 @@
     },
     {
       "id": "newport-ky-2026-07",
-      "source_order": 48,
+      "source_order": 58,
       "location": {
         "city": "Newport",
         "state": "KY",
@@ -1482,7 +1792,7 @@
       "link_domain": "wlwt.com",
       "content_hash": "sha256:6c6f2070fa76ff9604d373352b151b31610a7d13303072f0304ffb25f7d58289",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260728234757/https://www.wlwt.com/article/newport-kentucky-flock-cameras-public-feedback-program/71934906",
@@ -1494,7 +1804,7 @@
     },
     {
       "id": "macon-county-nc-2026-07",
-      "source_order": 49,
+      "source_order": 59,
       "location": {
         "city": "Macon County",
         "state": "NC",
@@ -1513,7 +1823,7 @@
       "link_domain": "wlos.com",
       "content_hash": "sha256:bfbb395df4806527795f2cbac40dca37ad2172a58a7e3c391994adbdb01c5e32",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260728234934/https://wlos.com/news/local/macon-county-north-carolina-wnc-flock-remove-license-plate-reader-cameras-unanimous-vote-privacy-concerns-public-safety-debate-ai-artificial-intelligence-surveillance",
@@ -1525,7 +1835,7 @@
     },
     {
       "id": "windsor-ct-2026-07",
-      "source_order": 50,
+      "source_order": 60,
       "location": {
         "city": "Windsor",
         "state": "CT",
@@ -1544,7 +1854,7 @@
       "link_domain": "nbcconnecticut.com",
       "content_hash": "sha256:10357e5f07f10071f24dc32766cfb1591461a3e185a2152d4e2b28c9008d7319",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260728233704/https://www.nbcconnecticut.com/news/local/two-towns-end-contracts-with-automated-license-plate-reader-company-flock-safety/3755508/",
@@ -1556,7 +1866,7 @@
     },
     {
       "id": "syracuse-ny-2026-07",
-      "source_order": 51,
+      "source_order": 61,
       "location": {
         "city": "Syracuse",
         "state": "NY",
@@ -1575,7 +1885,7 @@
       "link_domain": "centralcurrent.org",
       "content_hash": "sha256:7c873384dcedd034bfe55aa770834c803a2a13ea2bb7fa7d6dfce0e38291f7fb",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260728233704/https://centralcurrent.org/flock-safety-removes-its-license-plate-readers-finalizing-eight-month-breakup-with-city-of-syracuse/",
@@ -1587,7 +1897,7 @@
     },
     {
       "id": "clearwater-county-id-2026-07",
-      "source_order": 52,
+      "source_order": 62,
       "location": {
         "city": "Clearwater County",
         "state": "ID",
@@ -1606,7 +1916,7 @@
       "link_domain": "khq.com",
       "content_hash": "sha256:0b61f6b032ec1e01cdf7746d072e1af24ef2405e8c5898a22a1a09b46202fe77",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260807235404/https://www.khq.com/fires/updated-spokane-area-evacuation-order---aug-7/video_08ce9ad5-951c-5eed-b066-6461ee83ed23.html",
@@ -1618,7 +1928,7 @@
     },
     {
       "id": "salem-ma-2026-07",
-      "source_order": 53,
+      "source_order": 63,
       "location": {
         "city": "Salem",
         "state": "MA",
@@ -1637,7 +1947,7 @@
       "link_domain": "salemma.gov",
       "content_hash": "sha256:e1b989c8ee5316371b32124cdb18944e5a8055df83ce236b9ff9adf8e2188d1a",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260728235151/https://www.salemma.gov/m/newsflash/home/detail/427",
@@ -1649,7 +1959,7 @@
     },
     {
       "id": "pea-ridge-ar-2026-07",
-      "source_order": 54,
+      "source_order": 64,
       "location": {
         "city": "Pea Ridge",
         "state": "AR",
@@ -1668,7 +1978,7 @@
       "link_domain": "nwaonline.com",
       "content_hash": "sha256:3e6af22344c3f26e9b7784070d4b630285d8668336a38ceaddc502d3cfb5e185",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260728235222/https://www.nwaonline.com/news/2026/jul/24/pea-ridge-drops-flock-license-plate-readers-after/",
@@ -1680,7 +1990,7 @@
     },
     {
       "id": "elkton-va-2026-07",
-      "source_order": 55,
+      "source_order": 65,
       "location": {
         "city": "Elkton",
         "state": "VA",
@@ -1699,7 +2009,7 @@
       "link_domain": "augustafreepress.com",
       "content_hash": "sha256:68fae5fccc9ac001307a7a0ad68c93f2daa0c54584837a690f95d48b18eb8570",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260728235251/https://augustafreepress.com/news/community-group-persuades-elkton-town-council-to-cut-ties-with-flock/",
@@ -1711,7 +2021,7 @@
     },
     {
       "id": "monroe-county-in-2026-07",
-      "source_order": 56,
+      "source_order": 66,
       "location": {
         "city": "Monroe County",
         "state": "IN",
@@ -1730,7 +2040,7 @@
       "link_domain": "ipm.org",
       "content_hash": "sha256:f454faef4599c427721a9396157690550e5d8771279d49e590d392fbede9c64c",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260728235332/https://www.ipm.org/news/2026-07-26/monroe-county-cancels-contract-with-flock-safety",
@@ -1742,7 +2052,7 @@
     },
     {
       "id": "stoughton-wi-2026-07",
-      "source_order": 57,
+      "source_order": 67,
       "location": {
         "city": "Stoughton",
         "state": "WI",
@@ -1761,7 +2071,7 @@
       "link_domain": "channel3000.com",
       "content_hash": "sha256:105fb1b00666c3396e9c4630d6a85473900cc76535a2b9b132d83062b3504137",
       "first_seen_at": "2026-07-29T15:34:55.159Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260730153541/https://www.channel3000.com/news/stoughton-council-members-vote-to-terminate-flock-contract/article_cd05b0a6-881a-48ef-b0d2-bddb24d2a343.html",
@@ -1773,7 +2083,7 @@
     },
     {
       "id": "harrisonburg-va-2026-07",
-      "source_order": 58,
+      "source_order": 68,
       "location": {
         "city": "Harrisonburg",
         "state": "VA",
@@ -1792,7 +2102,7 @@
       "link_domain": "whsv.com",
       "content_hash": "sha256:972ff89dfa1fa05a78297e37d4f0427fcaaeea0dceeb6d5e0c0476978bcbad4e",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260728234911/https://www.whsv.com/2026/07/16/harrisonburg-city-council-pledges-removal-flock-cameras-end-contract-late-july/",
@@ -1804,7 +2114,7 @@
     },
     {
       "id": "taos-nm-2026-07",
-      "source_order": 59,
+      "source_order": 69,
       "location": {
         "city": "Taos",
         "state": "NM",
@@ -1823,7 +2133,7 @@
       "link_domain": "taosnews.com",
       "content_hash": "sha256:cac548334dbc7cdeaaa3098ff7340b5ae3d2ac29d5be055e390e96e4a3daff21",
       "first_seen_at": "2026-07-30T15:34:59.340Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260730153612/https://www.taosnews.com/public-safety/18-flock-ai-surveillance-cameras-defunded-by-town-of-taos-council/article_e5b7c0cb-18d0-4467-be79-51da4518678e.html",
@@ -1835,7 +2145,7 @@
     },
     {
       "id": "south-portland-me-2026-06",
-      "source_order": 60,
+      "source_order": 70,
       "location": {
         "city": "South Portland",
         "state": "ME",
@@ -1854,7 +2164,7 @@
       "link_domain": "pressherald.com",
       "content_hash": "sha256:4ff19c29968181ea1fdb3734d5d4ddeee865be14f7aee327072fc641ae113e1c",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260728235404/https://www.pressherald.com/2026/06/11/south-portland-will-stop-using-flock-cameras/",
@@ -1866,7 +2176,7 @@
     },
     {
       "id": "fort-collins-co-2026-06",
-      "source_order": 61,
+      "source_order": 71,
       "location": {
         "city": "Fort Collins",
         "state": "CO",
@@ -1885,7 +2195,7 @@
       "link_domain": "coloradoan.com",
       "content_hash": "sha256:072f5d43f14ca52c6ac0a2e33fd201b42c0a97b0fed5936f14ac0e1e9979c514",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260728235438/https://www.coloradoan.com/story/news/local/2026/06/16/fort-collins-to-immediately-end-contract-with-flock-safety/90584281007/",
@@ -1897,7 +2207,7 @@
     },
     {
       "id": "columbia-heights-mn-2026-06",
-      "source_order": 62,
+      "source_order": 72,
       "location": {
         "city": "Columbia Heights",
         "state": "MN",
@@ -1916,7 +2226,7 @@
       "link_domain": "mprnews.org",
       "content_hash": "sha256:c5fd5c226c23ea84bd85b1d4038348d0ef9f8ff5212d020f1593fedc01dde70b",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260728235529/https://www.mprnews.org/story/2026/06/09/columbia-heights-city-council-votes-end-flock-safety-camera-contract",
@@ -1928,7 +2238,7 @@
     },
     {
       "id": "framingham-ma-2026-06",
-      "source_order": 63,
+      "source_order": 73,
       "location": {
         "city": "Framingham",
         "state": "MA",
@@ -1947,7 +2257,7 @@
       "link_domain": "boston.com",
       "content_hash": "sha256:1eb038e0bfb3fa7878b5ec13b72ea9f284606e165667c8aa455799c7db54dade",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260728235549/https://www.boston.com/news/local-news/2026/06/25/framingham-police-will-not-renew-flock-safety-contract-after-months-of-resident-opposition/",
@@ -1959,7 +2269,7 @@
     },
     {
       "id": "bishop-ca-2026-06",
-      "source_order": 64,
+      "source_order": 74,
       "location": {
         "city": "Bishop",
         "state": "CA",
@@ -1978,7 +2288,7 @@
       "link_domain": "inyoregister.com",
       "content_hash": "sha256:87c8d6b35cc91ab1aa011966ceaee99e5c9bba90851aee0363d32ef08dc8f292",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260728235713/https://www.inyoregister.com/news/bishop-tells-camera-vendor-to-flock-off/article_1154e293-4566-4b31-9f0b-d918d2e930f0.html",
@@ -1990,7 +2300,7 @@
     },
     {
       "id": "ashland-wi-2026-06",
-      "source_order": 65,
+      "source_order": 75,
       "location": {
         "city": "Ashland",
         "state": "WI",
@@ -2009,7 +2319,7 @@
       "link_domain": "fox21online.com",
       "content_hash": "sha256:bcd741da8c33aec2d8cf3292ab84e3505b829caf5f82403df9d743b6d9afa068",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260728235735/https://www.fox21online.com/news/political/ashland-police-department-to-remove-flock-cameras-from-city/article_794afeda-e1e4-4762-84c0-3952d291204c.html",
@@ -2021,7 +2331,7 @@
     },
     {
       "id": "shoreline-wa-2026-05",
-      "source_order": 66,
+      "source_order": 76,
       "location": {
         "city": "Shoreline",
         "state": "WA",
@@ -2040,7 +2350,7 @@
       "link_domain": "myedmondsnews.com",
       "content_hash": "sha256:8949dc616ee4b1516847ff37d001cf66fc26fbc3ec8a05c332dbf1055c279393",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260807183536/https://myedmondsnews.com/2026/05/shoreline-cancels-flock-safety-informational-meeting/",
@@ -2052,7 +2362,7 @@
     },
     {
       "id": "el-cerrito-ca-2026-05",
-      "source_order": 67,
+      "source_order": 77,
       "location": {
         "city": "El Cerrito",
         "state": "CA",
@@ -2071,7 +2381,7 @@
       "link_domain": "contracosta.news",
       "content_hash": "sha256:e716509b609ca583d81fe6975617b1c88bd9af4525f87995450fcc87f2fdfe0f",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260728235859/https://contracosta.news/2026/05/06/el-cerrito-votes-to-end-flock-contract-cameras-go-dark-june-7/",
@@ -2083,7 +2393,7 @@
     },
     {
       "id": "appleton-wi-2026-05",
-      "source_order": 68,
+      "source_order": 78,
       "location": {
         "city": "Appleton",
         "state": "WI",
@@ -2102,7 +2412,7 @@
       "link_domain": "fox11online.com",
       "content_hash": "sha256:9d296f76818b4557467122315174319e154864341ff971cb9f9da2a265eb9cd7",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260728235928/https://fox11online.com/news/local/appleton-flock-cameras-police-department-license-plate-tracking-mayor-jake-woodford-common-council",
@@ -2114,7 +2424,7 @@
     },
     {
       "id": "pittsboro-nc-2026-05",
-      "source_order": 69,
+      "source_order": 79,
       "location": {
         "city": "Pittsboro",
         "state": "NC",
@@ -2133,7 +2443,7 @@
       "link_domain": "yahoo.com",
       "content_hash": "sha256:e7a4dd7128278093944c1d2f111522a2986232c3f459eb2de41436e54175f965",
       "first_seen_at": "2026-08-13T05:52:11.475Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260814200553/https://www.yahoo.com/news/articles/nc-town-ends-flock-safety-130000704.html",
@@ -2145,7 +2455,7 @@
     },
     {
       "id": "menominee-mi-2026-05",
-      "source_order": 70,
+      "source_order": 80,
       "location": {
         "city": "Menominee",
         "state": "MI",
@@ -2164,7 +2474,7 @@
       "link_domain": "uppermichiganssource.com",
       "content_hash": "sha256:c6c09f75b43552cb27114201091bc09b378fae1f843c4a6981c93d9c174e6a1d",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260729000148/https://www.uppermichiganssource.com/2026/05/19/city-council-votes-down-flock-cameras-menominee-county/",
@@ -2176,7 +2486,7 @@
     },
     {
       "id": "bandera-tx-2026-05",
-      "source_order": 71,
+      "source_order": 81,
       "location": {
         "city": "Bandera",
         "state": "TX",
@@ -2195,19 +2505,19 @@
       "link_domain": "banderabulletin.com",
       "content_hash": "sha256:37e7ad8869ef369e81c479d8beaa30579ba0ea68c446d171525a9475e5842a84",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260729000342/https://www.banderabulletin.com/article/3093,council-votes-to-terminate-flock-safety-contract",
       "article_excerpt": null,
       "article_fetch": {
-        "fetched_at": "2026-08-26T14:29:58.648Z",
+        "fetched_at": "2026-08-28T01:10:43.518Z",
         "status": "blocked"
       }
     },
     {
       "id": "monona-wi-2026-05",
-      "source_order": 72,
+      "source_order": 82,
       "location": {
         "city": "Monona",
         "state": "WI",
@@ -2226,7 +2536,7 @@
       "link_domain": "hngnews.com",
       "content_hash": "sha256:fad93817bccb768e811059ff23256e6a07d947ca41b1f9c908208c775fa52f85",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260729000415/https://www.hngnews.com/leader_independent/news/local/monona-police-suspend-use-of-flock-cameras/article_08a572d3-9d1e-41a0-8bed-2b0680b4b1c4.html",
@@ -2238,7 +2548,7 @@
     },
     {
       "id": "fitchburg-wi-2026-05",
-      "source_order": 73,
+      "source_order": 83,
       "location": {
         "city": "Fitchburg",
         "state": "WI",
@@ -2257,7 +2567,7 @@
       "link_domain": "channel3000.com",
       "content_hash": "sha256:ec747a818261a7775a4712ecfbb3e8cb2672f2382c42132a8a349a8c32976e1e",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260729000542/https://www.channel3000.com/news/fitchburg-votes-to-end-flock-safety-camera-contract/article_d1d7c178-64dc-4bec-a45a-c49a7ab138ca.html",
@@ -2269,7 +2579,7 @@
     },
     {
       "id": "mcfarland-wi-2026-05",
-      "source_order": 74,
+      "source_order": 84,
       "location": {
         "city": "McFarland",
         "state": "WI",
@@ -2288,7 +2598,7 @@
       "link_domain": "wkow.com",
       "content_hash": "sha256:7dcc5c08558ce16b16402eceb6c842a3102762afeccec73267a06931b2f8213e",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260729000611/https://www.wkow.com/news/mcfarland-police-scrap-license-plate-reader-plan-after-neighboring-agencies-drop-technology/article_4cae4d80-5017-4021-9b32-60e30bb0831b.html",
@@ -2300,7 +2610,7 @@
     },
     {
       "id": "bloomington-in-2026-04",
-      "source_order": 75,
+      "source_order": 85,
       "location": {
         "city": "Bloomington",
         "state": "IN",
@@ -2319,7 +2629,7 @@
       "link_domain": "gadgetreview.com",
       "content_hash": "sha256:8b10571087efc4d0848268939305b0b88f7a76a394d08b17c0e830f38744c64d",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260729000805/https://www.gadgetreview.com/indiana-city-kills-flock-safety-deal-after-backlash-over-license-plate-cameras",
@@ -2331,7 +2641,7 @@
     },
     {
       "id": "salem-il-2026-04",
-      "source_order": 76,
+      "source_order": 86,
       "location": {
         "city": "Salem",
         "state": "IL",
@@ -2350,7 +2660,7 @@
       "link_domain": "southernillinoisnow.com",
       "content_hash": "sha256:d235aacc104bff0feda7c448566cdcf4e79d45b00d9a5513e1763c175f4855b9",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260729000828/https://southernillinoisnow.com/2026/04/07/salem-city-council-approves-two-tif-improvement-projects-delay-sale-of-land-near-industrial-park/",
@@ -2362,7 +2672,7 @@
     },
     {
       "id": "dane-county-wi-2026-04",
-      "source_order": 77,
+      "source_order": 87,
       "location": {
         "city": "Dane County",
         "state": "WI",
@@ -2381,7 +2691,7 @@
       "link_domain": "wpr.org",
       "content_hash": "sha256:a3f69d97b94d8f387e9ba3cd25c4300e164573cc9cf9404cb8eb013dcc1df294",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260729000944/https://www.wpr.org/news/dane-county-flock-license-plate-cameras",
@@ -2393,7 +2703,7 @@
     },
     {
       "id": "tompkins-county-ny-2026-04",
-      "source_order": 78,
+      "source_order": 88,
       "location": {
         "city": "Tompkins County",
         "state": "NY",
@@ -2412,7 +2722,7 @@
       "link_domain": "ithacavoice.org",
       "content_hash": "sha256:ec47745fe40f18c9d315fd90cba950a2b5bb282b90a2a38b436b1bfdfc4bdd3c",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260729001218/https://ithacavoice.org/2026/04/county-legislature-ends-contract-with-flock-safety/",
@@ -2424,7 +2734,7 @@
     },
     {
       "id": "oshkosh-wi-2026-04",
-      "source_order": 79,
+      "source_order": 89,
       "location": {
         "city": "Oshkosh",
         "state": "WI",
@@ -2443,7 +2753,7 @@
       "link_domain": "fox11online.com",
       "content_hash": "sha256:30c6ff6dc5fd9eb5f0d4c47fa74ad23a55b588644cd3cf6ce46f6a738aa707dc",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260729001245/https://fox11online.com/news/local/oshkosh-common-council-flock-surveillance-cameras-new-information-special-meeting-reconsider-contract-privacy-police-public-safety",
@@ -2455,7 +2765,7 @@
     },
     {
       "id": "weston-mo-2026-04",
-      "source_order": 80,
+      "source_order": 90,
       "location": {
         "city": "Weston",
         "state": "MO",
@@ -2474,7 +2784,7 @@
       "link_domain": "kshb.com",
       "content_hash": "sha256:5708e224513d8fcb66036ce04fea40e8392bc8ca61b1aa9339dd4c1da7f33a8b",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260729001545/https://www.kshb.com/news/local-news/missouri/platte-county/city-of-weston-has-removed-its-flock-cameras-after-major-pushback-from-residents",
@@ -2486,7 +2796,7 @@
     },
     {
       "id": "ithaca-ny-2026-03",
-      "source_order": 81,
+      "source_order": 91,
       "location": {
         "city": "Ithaca",
         "state": "NY",
@@ -2505,7 +2815,7 @@
       "link_domain": "wskg.org",
       "content_hash": "sha256:986aa271fedd16eefd4e0aaaecdf0f8cf25bfa8bba423db2e885b15138caff1f",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260729001730/https://www.wskg.org/regional-news/2026-03-04/ithaca-common-council-votes-to-end-contract-with-flock-safety",
@@ -2517,7 +2827,7 @@
     },
     {
       "id": "saranac-lake-ny-2026-03",
-      "source_order": 82,
+      "source_order": 92,
       "location": {
         "city": "Saranac Lake",
         "state": "NY",
@@ -2536,7 +2846,7 @@
       "link_domain": "adirondackdailyenterprise.com",
       "content_hash": "sha256:d81f8dc34eb0adead3874cd8c99e1434d592e94dec26737e5a97a33309372c2e",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260807014650/https://www.dailygazette.com/ade/news/local_news/flock-blocked/article_0247322f-9562-50ef-8ac9-4e27f0d736a8.html",
@@ -2548,7 +2858,7 @@
     },
     {
       "id": "dutchtown-mo-2026-03",
-      "source_order": 83,
+      "source_order": 93,
       "location": {
         "city": "Dutchtown",
         "state": "MO",
@@ -2567,7 +2877,7 @@
       "link_domain": "firstalert4.com",
       "content_hash": "sha256:4eb094d3cbc121d4c073ef5f6da838ad92ab8634148302a924281b76e3cea5ca",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260729001825/https://www.firstalert4.com/2026/03/06/dutchtown-cid-ends-flock-safety-contract-amid-ice-data-sharing-concerns/",
@@ -2579,7 +2889,7 @@
     },
     {
       "id": "santa-clara-county-ca-2026-02",
-      "source_order": 84,
+      "source_order": 94,
       "location": {
         "city": "Santa Clara County",
         "state": "CA",
@@ -2598,7 +2908,7 @@
       "link_domain": "abc7news.com",
       "content_hash": "sha256:176dc1de043795f541dbbafa7ea4ce163490439528039945f5c64afd173ea134",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260729001919/https://abc7news.com/post/santa-clara-county-stop-using-flock-safety-cameras-several-cities-privacy-concerns/18646060/",
@@ -2610,7 +2920,7 @@
     },
     {
       "id": "knoxville-tn-2026-02",
-      "source_order": 85,
+      "source_order": 95,
       "location": {
         "city": "Knoxville",
         "state": "TN",
@@ -2629,323 +2939,13 @@
       "link_domain": "wbir.com",
       "content_hash": "sha256:90675da9cd77d2dad59fc93b0f2c515f51b464a82734f022b429d08d5842f3b7",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
       "article_excerpt": null,
       "article_fetch": {
-        "fetched_at": "2026-08-26T14:29:58.648Z",
-        "status": "blocked"
-      }
-    },
-    {
-      "id": "mountain-view-ca-2026-02",
-      "source_order": 86,
-      "location": {
-        "city": "Mountain View",
-        "state": "CA",
-        "text": "Mountain View, CA"
-      },
-      "date": {
-        "text": "February 2026",
-        "year": 2026,
-        "month": 2,
-        "iso": "2026-02-01"
-      },
-      "status": "deactivated",
-      "status_raw": "Cameras Deactivated",
-      "info": "The Mountain View Police Chief decided to disable their Flock cameras after noticing their cameras had been accessed by out-of-state and federal agencies, a violation of California law.",
-      "source_url": "https://www.cbsnews.com/sanfrancisco/news/mountain-view-alpr-cameras-use-suspended-automated-license-plate-reader/",
-      "link_domain": "cbsnews.com",
-      "content_hash": "sha256:a65331de8ca52b514c71122ac4fb344022646f293905aacc9539fbdab1ef35b6",
-      "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
-      "verified": false,
-      "notes": "",
-      "archive_url": "https://web.archive.org/web/20260802114904/https://www.cbsnews.com/sanfrancisco/news/mountain-view-alpr-cameras-use-suspended-automated-license-plate-reader/",
-      "article_excerpt": "The Mountain View Police Department is suspending the use of ALPR cameras after the discovery of unauthorized access to data by federal and state agencies, the police chief said on Monday.",
-      "article_fetch": {
-        "fetched_at": "2026-07-28T23:36:47.148Z",
-        "status": "ok"
-      }
-    },
-    {
-      "id": "oxnard-ca-2026-02",
-      "source_order": 87,
-      "location": {
-        "city": "Oxnard",
-        "state": "CA",
-        "text": "Oxnard, CA"
-      },
-      "date": {
-        "text": "February 2026",
-        "year": 2026,
-        "month": 2,
-        "iso": "2026-02-01"
-      },
-      "status": "deactivated",
-      "status_raw": "Cameras Deactivated",
-      "info": "Oxnard police suspended operation of its 19 Flock fixed-position cameras after a vendor error allowed out-of-state agencies to query local data.",
-      "source_url": "https://www.edhat.com/ventura/news/oxnard-police-suspend-flock-license-plate-readers-ventura-agencies-tighten-controls-after-out-of-state-access/",
-      "link_domain": "edhat.com",
-      "content_hash": "sha256:341d58fabe9a9332524a1a48ca4da38e77981ba8f17263e0aac3fb5994b74f9e",
-      "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
-      "verified": false,
-      "notes": "",
-      "archive_url": null,
-      "article_excerpt": null,
-      "article_fetch": {
-        "fetched_at": "2026-08-26T14:29:58.648Z",
-        "status": "blocked"
-      }
-    },
-    {
-      "id": "walla-walla-wa-2026-01",
-      "source_order": 88,
-      "location": {
-        "city": "Walla Walla",
-        "state": "WA",
-        "text": "Walla Walla, WA"
-      },
-      "date": {
-        "text": "January 2026",
-        "year": 2026,
-        "month": 1,
-        "iso": "2026-01-01"
-      },
-      "status": "deactivated",
-      "status_raw": "Cameras Deactivated",
-      "info": "The Walla Walla Police Department disabled its Flock system due to concerns that the data from them could be misused, following a Washington court ruling that data captured by Flock cameras were public records and could be requested by anyone.",
-      "source_url": "https://www.applevalleynewsnow.com/news/walla-walla-police-end-flock-safety-camera-program-over-public-safety-concerns/article_c03b10cf-c594-42eb-a1d8-e78b00500f4c.html",
-      "link_domain": "applevalleynewsnow.com",
-      "content_hash": "sha256:e2abd1a756915cd136e1f380df6b9fefa57331f15359980c50776754285177c6",
-      "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
-      "verified": false,
-      "notes": "",
-      "archive_url": "https://web.archive.org/web/20260812143518/https://www.applevalleynewsnow.com/news/walla-walla-police-end-flock-safety-camera-program-over-public-safety-concerns/article_c03b10cf-c594-42eb-a1d8-e78b00500f4c.html",
-      "article_excerpt": "• Walla Walla Police Department discontinued its Flock Safety camera system after nearly a year of use due to public safety concerns",
-      "article_fetch": {
-        "fetched_at": "2026-07-29T00:36:14.446Z",
-        "status": "ok"
-      }
-    },
-    {
-      "id": "los-altos-hills-ca-2026-01",
-      "source_order": 89,
-      "location": {
-        "city": "Los Altos Hills",
-        "state": "CA",
-        "text": "Los Altos Hills, CA"
-      },
-      "date": {
-        "text": "January 2026",
-        "year": 2026,
-        "month": 1,
-        "iso": "2026-01-01"
-      },
-      "status": "cancelled",
-      "status_raw": "Contract Canceled",
-      "info": "The Los Altos Hills City Council voted to terminate their contract with Flock Safety (2:45:02) following resident concerns and a lack of evidence that the Flock system was effective at reducing crime.",
-      "source_url": "https://losaltoshillsca.portal.civicclerk.com/event/4354/media",
-      "link_domain": "losaltoshillsca.portal.civicclerk.com",
-      "content_hash": "sha256:64b6628499d7de965e115f179fa8826ea73ddf2862398ed7aa96e051f266ee08",
-      "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
-      "verified": false,
-      "notes": "",
-      "archive_url": "https://web.archive.org/web/20260807111429/https://losaltoshillsca.portal.civicclerk.com/event/4354/media",
-      "article_excerpt": "CivicClerk events and agendas for citizens",
-      "article_fetch": {
-        "fetched_at": "2026-07-28T23:36:47.148Z",
-        "status": "ok"
-      }
-    },
-    {
-      "id": "santa-cruz-ca-2026-01",
-      "source_order": 90,
-      "location": {
-        "city": "Santa Cruz",
-        "state": "CA",
-        "text": "Santa Cruz, CA"
-      },
-      "date": {
-        "text": "January 2026",
-        "year": 2026,
-        "month": 1,
-        "iso": "2026-01-01"
-      },
-      "status": "cancelled",
-      "status_raw": "Contract Canceled",
-      "info": "The Santa Cruz City Council voted 6-1 to terminate their contract with Flock Safety after evidence that the city's data was accessed by out-of-state agencies.",
-      "source_url": "https://www.kqed.org/news/12069705/santa-cruz-the-first-in-california-to-terminate-its-contract-with-flock-safety",
-      "link_domain": "kqed.org",
-      "content_hash": "sha256:dc1c55a8f873a3c2d4b5457ca972c8776fb78e346524267e2a138dedab813fbe",
-      "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
-      "verified": false,
-      "notes": "",
-      "archive_url": "https://web.archive.org/web/20260807111513/https://www.kqed.org/news/12069705/santa-cruz-the-first-in-california-to-terminate-its-contract-with-flock-safety",
-      "article_excerpt": "Santa Cruz City Council voted to terminate its contract with Flock Safety, the license plate reader company that has come under scrutiny for its data collection and sharing practices.",
-      "article_fetch": {
-        "fetched_at": "2026-07-28T23:36:47.148Z",
-        "status": "ok"
-      }
-    },
-    {
-      "id": "watertown-ma-2026-01",
-      "source_order": 91,
-      "location": {
-        "city": "Watertown",
-        "state": "MA",
-        "text": "Watertown, MA"
-      },
-      "date": {
-        "text": "January 2026",
-        "year": 2026,
-        "month": 1,
-        "iso": "2026-01-01"
-      },
-      "status": "cancelled",
-      "status_raw": "Contract Canceled",
-      "info": "Watertown, MA canceled its contract with Flock Safety before any cameras were installed, following questions from the public about privacy and data sharing.",
-      "source_url": "https://www.watertownmanews.com/2026/01/28/watertown-cancelling-contract-for-flock-license-plate-reading-cameras/",
-      "link_domain": "watertownmanews.com",
-      "content_hash": "sha256:f18bae715a81f89eb27e6367034f0f32217d79f1cf90ce08a09152b6fee1d7ee",
-      "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
-      "verified": false,
-      "notes": "",
-      "archive_url": "https://web.archive.org/web/20260807235512/https://www.watertownmanews.com/2026/01/28/watertown-cancelling-contract-for-flock-license-plate-reading-cameras/",
-      "article_excerpt": "Watertown will cancel the contract with Flock Safety to install license plate reading cameras in the City, and City Manager George Proakis told the City Council he wants to continue to have discussions about when it is appropriate for the Watertown Police to use technology in its investigations. The City signed a contract last year […]",
-      "article_fetch": {
-        "fetched_at": "2026-07-28T23:36:47.148Z",
-        "status": "ok"
-      }
-    },
-    {
-      "id": "natick-ma-2026-01",
-      "source_order": 92,
-      "location": {
-        "city": "Natick",
-        "state": "MA",
-        "text": "Natick, MA"
-      },
-      "date": {
-        "text": "January 2026",
-        "year": 2026,
-        "month": 1,
-        "iso": "2026-01-01"
-      },
-      "status": "cancelled",
-      "status_raw": "Contract Canceled",
-      "info": "The town of Natick canceled their Flock Safety pilot after residents objected to being blindsided by the installation and raised privacy and surveillance concerns. The police launched the trial without notifying the Select Board or public, triggering backlash over transparency, data ownership, and mass surveillance risks, leading to cameras being slated for removal.",
-      "source_url": "https://www.natickreport.com/2026/01/natick-select-board-quashes-flock-license-plate-reader-pilot-police-chief-apologizes-explains/",
-      "link_domain": "natickreport.com",
-      "content_hash": "sha256:0edfca0bb98b53a8d5a18d8d48e8b39ad67a7b7ba0fdbb4c95c961b77b04c4a4",
-      "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
-      "verified": false,
-      "notes": "",
-      "archive_url": "https://web.archive.org/web/20260811094615/https://www.natickreport.com/2026/01/natick-select-board-quashes-flock-license-plate-reader-pilot-police-chief-apologizes-explains/",
-      "article_excerpt": null,
-      "article_fetch": {
-        "fetched_at": "2026-07-29T03:02:13.681Z",
-        "status": "ok"
-      }
-    },
-    {
-      "id": "prosser-wa-2026-01",
-      "source_order": 93,
-      "location": {
-        "city": "Prosser",
-        "state": "WA",
-        "text": "Prosser, WA"
-      },
-      "date": {
-        "text": "January 2026",
-        "year": 2026,
-        "month": 1,
-        "iso": "2026-01-01"
-      },
-      "status": "deactivated",
-      "status_raw": "Cameras Deactivated",
-      "info": "Prosser disabled their Flock cameras due to the controversial issues of data collection an access.",
-      "source_url": "https://www.tri-cityherald.com/news/local/crime/article314461667.html",
-      "link_domain": "tri-cityherald.com",
-      "content_hash": "sha256:df518813591d8b301c09afb47ac9306c99ecfc348304cc39493ae73120194f92",
-      "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
-      "verified": false,
-      "notes": "",
-      "archive_url": "https://web.archive.org/web/20260809115113/https://www.tri-cityherald.com/news/local/crime/article314461667.html",
-      "article_excerpt": null,
-      "article_fetch": {
-        "fetched_at": "2026-08-26T14:29:58.648Z",
-        "status": "blocked"
-      }
-    },
-    {
-      "id": "eugene-or-2025-12",
-      "source_order": 94,
-      "location": {
-        "city": "Eugene",
-        "state": "OR",
-        "text": "Eugene, OR"
-      },
-      "date": {
-        "text": "December 2025",
-        "year": 2025,
-        "month": 12,
-        "iso": "2025-12-01"
-      },
-      "status": "cancelled",
-      "status_raw": "Contract Canceled",
-      "info": "Following a pause by City Council, Eugene PD eventually terminated their contract with Flock Safety.",
-      "source_url": "https://lookouteugene-springfield.com/story/justice/2025/12/05/eugene-announces-termination-of-flock-contract/",
-      "link_domain": "lookouteugene-springfield.com",
-      "content_hash": "sha256:1cfd7843d27192ecfa91dfcf08c0579248c949aa1edc31d6da57139f65a537ac",
-      "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
-      "verified": false,
-      "notes": "",
-      "archive_url": "https://web.archive.org/web/20260810104605/https://lookouteugene-springfield.com/story/justice/2025/12/05/eugene-announces-termination-of-flock-contract/",
-      "article_excerpt": "In a press release sent late Friday evening, the Eugene Police Department announced it has terminated its contract with Flock Safety.",
-      "article_fetch": {
-        "fetched_at": "2026-07-28T23:36:47.148Z",
-        "status": "ok"
-      }
-    },
-    {
-      "id": "olympia-wa-2025-12",
-      "source_order": 95,
-      "location": {
-        "city": "Olympia",
-        "state": "WA",
-        "text": "Olympia, WA"
-      },
-      "date": {
-        "text": "December 2025",
-        "year": 2025,
-        "month": 12,
-        "iso": "2025-12-01"
-      },
-      "status": "deactivated",
-      "status_raw": "Cameras Deactivated",
-      "info": "Olympia City Council moved to cover up their Flock cameras, pending deactivation over concerns of federal access and the ability to move freely.",
-      "source_url": "https://www.king5.com/article/news/community/facing-race/washington-immigration/olympia-hoods-flock-cameras/281-ff1c9bdf-540f-4591-8d41-3eee79796b8e",
-      "link_domain": "king5.com",
-      "content_hash": "sha256:92af4afc752ceb65cc49b836b109132bab166e11f82edc3587ea4958072f7033",
-      "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
-      "verified": false,
-      "notes": "",
-      "archive_url": null,
-      "article_excerpt": null,
-      "article_fetch": {
-        "fetched_at": "2026-08-26T14:29:58.648Z",
+        "fetched_at": "2026-08-28T01:10:43.518Z",
         "status": "blocked"
       }
     },
@@ -2983,8 +2983,318 @@
       "missing_since": "2026-08-13T05:52:11.475Z"
     },
     {
-      "id": "lane-county-or-2025-12",
+      "id": "mountain-view-ca-2026-02",
       "source_order": 96,
+      "location": {
+        "city": "Mountain View",
+        "state": "CA",
+        "text": "Mountain View, CA"
+      },
+      "date": {
+        "text": "February 2026",
+        "year": 2026,
+        "month": 2,
+        "iso": "2026-02-01"
+      },
+      "status": "deactivated",
+      "status_raw": "Cameras Deactivated",
+      "info": "The Mountain View Police Chief decided to disable their Flock cameras after noticing their cameras had been accessed by out-of-state and federal agencies, a violation of California law.",
+      "source_url": "https://www.cbsnews.com/sanfrancisco/news/mountain-view-alpr-cameras-use-suspended-automated-license-plate-reader/",
+      "link_domain": "cbsnews.com",
+      "content_hash": "sha256:a65331de8ca52b514c71122ac4fb344022646f293905aacc9539fbdab1ef35b6",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260802114904/https://www.cbsnews.com/sanfrancisco/news/mountain-view-alpr-cameras-use-suspended-automated-license-plate-reader/",
+      "article_excerpt": "The Mountain View Police Department is suspending the use of ALPR cameras after the discovery of unauthorized access to data by federal and state agencies, the police chief said on Monday.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "oxnard-ca-2026-02",
+      "source_order": 97,
+      "location": {
+        "city": "Oxnard",
+        "state": "CA",
+        "text": "Oxnard, CA"
+      },
+      "date": {
+        "text": "February 2026",
+        "year": 2026,
+        "month": 2,
+        "iso": "2026-02-01"
+      },
+      "status": "deactivated",
+      "status_raw": "Cameras Deactivated",
+      "info": "Oxnard police suspended operation of its 19 Flock fixed-position cameras after a vendor error allowed out-of-state agencies to query local data.",
+      "source_url": "https://www.edhat.com/ventura/news/oxnard-police-suspend-flock-license-plate-readers-ventura-agencies-tighten-controls-after-out-of-state-access/",
+      "link_domain": "edhat.com",
+      "content_hash": "sha256:341d58fabe9a9332524a1a48ca4da38e77981ba8f17263e0aac3fb5994b74f9e",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": null,
+      "article_fetch": {
+        "fetched_at": "2026-08-28T01:10:43.518Z",
+        "status": "blocked"
+      }
+    },
+    {
+      "id": "walla-walla-wa-2026-01",
+      "source_order": 98,
+      "location": {
+        "city": "Walla Walla",
+        "state": "WA",
+        "text": "Walla Walla, WA"
+      },
+      "date": {
+        "text": "January 2026",
+        "year": 2026,
+        "month": 1,
+        "iso": "2026-01-01"
+      },
+      "status": "deactivated",
+      "status_raw": "Cameras Deactivated",
+      "info": "The Walla Walla Police Department disabled its Flock system due to concerns that the data from them could be misused, following a Washington court ruling that data captured by Flock cameras were public records and could be requested by anyone.",
+      "source_url": "https://www.applevalleynewsnow.com/news/walla-walla-police-end-flock-safety-camera-program-over-public-safety-concerns/article_c03b10cf-c594-42eb-a1d8-e78b00500f4c.html",
+      "link_domain": "applevalleynewsnow.com",
+      "content_hash": "sha256:e2abd1a756915cd136e1f380df6b9fefa57331f15359980c50776754285177c6",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260812143518/https://www.applevalleynewsnow.com/news/walla-walla-police-end-flock-safety-camera-program-over-public-safety-concerns/article_c03b10cf-c594-42eb-a1d8-e78b00500f4c.html",
+      "article_excerpt": "• Walla Walla Police Department discontinued its Flock Safety camera system after nearly a year of use due to public safety concerns",
+      "article_fetch": {
+        "fetched_at": "2026-07-29T00:36:14.446Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "los-altos-hills-ca-2026-01",
+      "source_order": 99,
+      "location": {
+        "city": "Los Altos Hills",
+        "state": "CA",
+        "text": "Los Altos Hills, CA"
+      },
+      "date": {
+        "text": "January 2026",
+        "year": 2026,
+        "month": 1,
+        "iso": "2026-01-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "The Los Altos Hills City Council voted to terminate their contract with Flock Safety (2:45:02) following resident concerns and a lack of evidence that the Flock system was effective at reducing crime.",
+      "source_url": "https://losaltoshillsca.portal.civicclerk.com/event/4354/media",
+      "link_domain": "losaltoshillsca.portal.civicclerk.com",
+      "content_hash": "sha256:64b6628499d7de965e115f179fa8826ea73ddf2862398ed7aa96e051f266ee08",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260807111429/https://losaltoshillsca.portal.civicclerk.com/event/4354/media",
+      "article_excerpt": "CivicClerk events and agendas for citizens",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "santa-cruz-ca-2026-01",
+      "source_order": 100,
+      "location": {
+        "city": "Santa Cruz",
+        "state": "CA",
+        "text": "Santa Cruz, CA"
+      },
+      "date": {
+        "text": "January 2026",
+        "year": 2026,
+        "month": 1,
+        "iso": "2026-01-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "The Santa Cruz City Council voted 6-1 to terminate their contract with Flock Safety after evidence that the city's data was accessed by out-of-state agencies.",
+      "source_url": "https://www.kqed.org/news/12069705/santa-cruz-the-first-in-california-to-terminate-its-contract-with-flock-safety",
+      "link_domain": "kqed.org",
+      "content_hash": "sha256:dc1c55a8f873a3c2d4b5457ca972c8776fb78e346524267e2a138dedab813fbe",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260807111513/https://www.kqed.org/news/12069705/santa-cruz-the-first-in-california-to-terminate-its-contract-with-flock-safety",
+      "article_excerpt": "Santa Cruz City Council voted to terminate its contract with Flock Safety, the license plate reader company that has come under scrutiny for its data collection and sharing practices.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "watertown-ma-2026-01",
+      "source_order": 101,
+      "location": {
+        "city": "Watertown",
+        "state": "MA",
+        "text": "Watertown, MA"
+      },
+      "date": {
+        "text": "January 2026",
+        "year": 2026,
+        "month": 1,
+        "iso": "2026-01-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "Watertown, MA canceled its contract with Flock Safety before any cameras were installed, following questions from the public about privacy and data sharing.",
+      "source_url": "https://www.watertownmanews.com/2026/01/28/watertown-cancelling-contract-for-flock-license-plate-reading-cameras/",
+      "link_domain": "watertownmanews.com",
+      "content_hash": "sha256:f18bae715a81f89eb27e6367034f0f32217d79f1cf90ce08a09152b6fee1d7ee",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260807235512/https://www.watertownmanews.com/2026/01/28/watertown-cancelling-contract-for-flock-license-plate-reading-cameras/",
+      "article_excerpt": "Watertown will cancel the contract with Flock Safety to install license plate reading cameras in the City, and City Manager George Proakis told the City Council he wants to continue to have discussions about when it is appropriate for the Watertown Police to use technology in its investigations. The City signed a contract last year […]",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "natick-ma-2026-01",
+      "source_order": 102,
+      "location": {
+        "city": "Natick",
+        "state": "MA",
+        "text": "Natick, MA"
+      },
+      "date": {
+        "text": "January 2026",
+        "year": 2026,
+        "month": 1,
+        "iso": "2026-01-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "The town of Natick canceled their Flock Safety pilot after residents objected to being blindsided by the installation and raised privacy and surveillance concerns. The police launched the trial without notifying the Select Board or public, triggering backlash over transparency, data ownership, and mass surveillance risks, leading to cameras being slated for removal.",
+      "source_url": "https://www.natickreport.com/2026/01/natick-select-board-quashes-flock-license-plate-reader-pilot-police-chief-apologizes-explains/",
+      "link_domain": "natickreport.com",
+      "content_hash": "sha256:0edfca0bb98b53a8d5a18d8d48e8b39ad67a7b7ba0fdbb4c95c961b77b04c4a4",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260811094615/https://www.natickreport.com/2026/01/natick-select-board-quashes-flock-license-plate-reader-pilot-police-chief-apologizes-explains/",
+      "article_excerpt": null,
+      "article_fetch": {
+        "fetched_at": "2026-07-29T03:02:13.681Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "prosser-wa-2026-01",
+      "source_order": 103,
+      "location": {
+        "city": "Prosser",
+        "state": "WA",
+        "text": "Prosser, WA"
+      },
+      "date": {
+        "text": "January 2026",
+        "year": 2026,
+        "month": 1,
+        "iso": "2026-01-01"
+      },
+      "status": "deactivated",
+      "status_raw": "Cameras Deactivated",
+      "info": "Prosser disabled their Flock cameras due to the controversial issues of data collection an access.",
+      "source_url": "https://www.tri-cityherald.com/news/local/crime/article314461667.html",
+      "link_domain": "tri-cityherald.com",
+      "content_hash": "sha256:df518813591d8b301c09afb47ac9306c99ecfc348304cc39493ae73120194f92",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260809115113/https://www.tri-cityherald.com/news/local/crime/article314461667.html",
+      "article_excerpt": null,
+      "article_fetch": {
+        "fetched_at": "2026-08-28T01:10:43.518Z",
+        "status": "blocked"
+      }
+    },
+    {
+      "id": "eugene-or-2025-12",
+      "source_order": 104,
+      "location": {
+        "city": "Eugene",
+        "state": "OR",
+        "text": "Eugene, OR"
+      },
+      "date": {
+        "text": "December 2025",
+        "year": 2025,
+        "month": 12,
+        "iso": "2025-12-01"
+      },
+      "status": "cancelled",
+      "status_raw": "Contract Canceled",
+      "info": "Following a pause by City Council, Eugene PD eventually terminated their contract with Flock Safety.",
+      "source_url": "https://lookouteugene-springfield.com/story/justice/2025/12/05/eugene-announces-termination-of-flock-contract/",
+      "link_domain": "lookouteugene-springfield.com",
+      "content_hash": "sha256:1cfd7843d27192ecfa91dfcf08c0579248c949aa1edc31d6da57139f65a537ac",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": "https://web.archive.org/web/20260810104605/https://lookouteugene-springfield.com/story/justice/2025/12/05/eugene-announces-termination-of-flock-contract/",
+      "article_excerpt": "In a press release sent late Friday evening, the Eugene Police Department announced it has terminated its contract with Flock Safety.",
+      "article_fetch": {
+        "fetched_at": "2026-07-28T23:36:47.148Z",
+        "status": "ok"
+      }
+    },
+    {
+      "id": "olympia-wa-2025-12",
+      "source_order": 105,
+      "location": {
+        "city": "Olympia",
+        "state": "WA",
+        "text": "Olympia, WA"
+      },
+      "date": {
+        "text": "December 2025",
+        "year": 2025,
+        "month": 12,
+        "iso": "2025-12-01"
+      },
+      "status": "deactivated",
+      "status_raw": "Cameras Deactivated",
+      "info": "Olympia City Council moved to cover up their Flock cameras, pending deactivation over concerns of federal access and the ability to move freely.",
+      "source_url": "https://www.king5.com/article/news/community/facing-race/washington-immigration/olympia-hoods-flock-cameras/281-ff1c9bdf-540f-4591-8d41-3eee79796b8e",
+      "link_domain": "king5.com",
+      "content_hash": "sha256:92af4afc752ceb65cc49b836b109132bab166e11f82edc3587ea4958072f7033",
+      "first_seen_at": "2026-07-28T23:36:47.148Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
+      "verified": false,
+      "notes": "",
+      "archive_url": null,
+      "article_excerpt": null,
+      "article_fetch": {
+        "fetched_at": "2026-08-28T01:10:43.518Z",
+        "status": "blocked"
+      }
+    },
+    {
+      "id": "lane-county-or-2025-12",
+      "source_order": 106,
       "location": {
         "city": "Lane County",
         "state": "OR",
@@ -3003,7 +3313,7 @@
       "link_domain": "lookouteugene-springfield.com",
       "content_hash": "sha256:e4cd605952d35b5183058a78462a1383ed75dedd941932c4d5496013aa655aa1",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260810153824/https://lookouteugene-springfield.com/story/latest-news/2025/12/10/lane-county-sheriffs-office-suspends-flock-safety-contract/",
@@ -3015,7 +3325,7 @@
     },
     {
       "id": "springfield-or-2025-12",
-      "source_order": 97,
+      "source_order": 107,
       "location": {
         "city": "Springfield",
         "state": "OR",
@@ -3034,7 +3344,7 @@
       "link_domain": "lookouteugene-springfield.com",
       "content_hash": "sha256:592c7e845f51c981aebc22b91f4d93697529170867e170f9286b2dce0d7c50aa",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260809082848/https://lookouteugene-springfield.com/story/justice/2025/12/05/eugene-announces-termination-of-flock-contract/",
@@ -3046,7 +3356,7 @@
     },
     {
       "id": "flagstaff-az-2025-12",
-      "source_order": 98,
+      "source_order": 108,
       "location": {
         "city": "Flagstaff",
         "state": "AZ",
@@ -3065,7 +3375,7 @@
       "link_domain": "fox10phoenix.com",
       "content_hash": "sha256:861cf9678cab8f2978a617e6b04f5fd9b8c5aea1c10dbb6a72043875cfe984a9",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260809175536/https://www.fox10phoenix.com/news/flagstaff-deactivates-all-32-flock-safety-cameras-following-council-vote",
@@ -3077,7 +3387,7 @@
     },
     {
       "id": "cambridge-ma-2025-12",
-      "source_order": 99,
+      "source_order": 109,
       "location": {
         "city": "Cambridge",
         "state": "MA",
@@ -3096,7 +3406,7 @@
       "link_domain": "thecrimson.com",
       "content_hash": "sha256:1d1099648c5405f4c9d7f5dc9aaeb02253b7e6a8f48a5a0394f3c076b7727161",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260809195412/https://www.thecrimson.com/article/2025/12/10/cambridge-ends-flock-contract/",
@@ -3108,7 +3418,7 @@
     },
     {
       "id": "warren-ri-2025-12",
-      "source_order": 100,
+      "source_order": 110,
       "location": {
         "city": "Warren",
         "state": "RI",
@@ -3127,7 +3437,7 @@
       "link_domain": "wpri.com",
       "content_hash": "sha256:30e7168294f3046bcd260148fd2a2068095a84c36039388176472545e1ad07c7",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
@@ -3139,7 +3449,7 @@
     },
     {
       "id": "mountlake-terrace-wa-2025-12",
-      "source_order": 101,
+      "source_order": 111,
       "location": {
         "city": "Mountlake Terrace",
         "state": "WA",
@@ -3158,7 +3468,7 @@
       "link_domain": "heraldnet.com",
       "content_hash": "sha256:a787b5d519db7315d32ed262150e7a821f8632e628a0c9b677490be1c86fca0c",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260814200752/https://www.heraldnet.com/2025/12/05/mountlake-terrace-cancels-flock-safety-contract/",
@@ -3170,7 +3480,7 @@
     },
     {
       "id": "richmond-ca-2025-12",
-      "source_order": 102,
+      "source_order": 112,
       "location": {
         "city": "Richmond",
         "state": "CA",
@@ -3189,7 +3499,7 @@
       "link_domain": "richmondside.org",
       "content_hash": "sha256:920eca1ace881d3110775fb37a2f2a557cbf8135c3a4df581ecb05892ff54310",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260810104800/https://richmondside.org/2025/12/09/richmond-license-plate-reader-data-breach/",
@@ -3201,7 +3511,7 @@
     },
     {
       "id": "staunton-va-2025-12",
-      "source_order": 103,
+      "source_order": 113,
       "location": {
         "city": "Staunton",
         "state": "VA",
@@ -3220,19 +3530,19 @@
       "link_domain": "ci.staunton.va.us",
       "content_hash": "sha256:7c13d945851d196472039c3601a1b5e2900918072adadfbfefa487436df0b51b",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
       "article_excerpt": null,
       "article_fetch": {
-        "fetched_at": "2026-08-26T14:29:58.648Z",
+        "fetched_at": "2026-08-28T01:10:43.518Z",
         "status": "blocked"
       }
     },
     {
       "id": "charlottesville-va-2025-12",
-      "source_order": 104,
+      "source_order": 114,
       "location": {
         "city": "Charlottesville",
         "state": "VA",
@@ -3251,7 +3561,7 @@
       "link_domain": "cbs19news.com",
       "content_hash": "sha256:36ab9742505b7e4260344dbc3911d9099cdd8d99237a4748127fa99422c01675",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260811202911/https://www.cbs19news.com/news/charlottesville-will-not-move-forward-with-the-flock-camera-system/article_a42a43a0-3d86-4d33-aed1-de29dda8e127.html",
@@ -3263,7 +3573,7 @@
     },
     {
       "id": "san-marcos-tx-2025-12",
-      "source_order": 105,
+      "source_order": 115,
       "location": {
         "city": "San Marcos",
         "state": "TX",
@@ -3282,7 +3592,7 @@
       "link_domain": "cbsaustin.com",
       "content_hash": "sha256:b7d8b2f85e745399a2adcf7c327e27520f5d149335274cc9b99701222c3be8e0",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260815090515/https://cbsaustin.com/news/local/san-marcos-city-council-ends-flock-safety-contract-seeking-new-options",
@@ -3294,7 +3604,7 @@
     },
     {
       "id": "brooklyn-park-mn-2025-12",
-      "source_order": 106,
+      "source_order": 116,
       "location": {
         "city": "Brooklyn Park",
         "state": "MN",
@@ -3313,7 +3623,7 @@
       "link_domain": "kstp.com",
       "content_hash": "sha256:45e1353c7209da5cb8395f99e92336f8016f40bde541c37bfc009ddeb737a363",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260814230105/https://kstp.com/kstp-news/top-news/roadside-cameras-going-dark-another-department-makes-changes-to-program-over-accountability-concerns/",
@@ -3325,7 +3635,7 @@
     },
     {
       "id": "redmond-wa-2025-11",
-      "source_order": 107,
+      "source_order": 117,
       "location": {
         "city": "Redmond",
         "state": "WA",
@@ -3344,7 +3654,7 @@
       "link_domain": "komonews.com",
       "content_hash": "sha256:43b6376add4bb88fdbf57d19bbe50ef904762032c69d350552369d9619ef072f",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260815191220/https://komonews.com/news/local/redmond-pd-completely-suspends-flock-camera-use-amid-statewide-concerns-over-ice-access-immigration-enforcement-detention-center-arrest-surveillance-privacy-trump-washington-seattle-protest-border-community",
@@ -3356,7 +3666,7 @@
     },
     {
       "id": "kent-oh-2025-11",
-      "source_order": 108,
+      "source_order": 118,
       "location": {
         "city": "Kent",
         "state": "OH",
@@ -3375,7 +3685,7 @@
       "link_domain": "theportager.com",
       "content_hash": "sha256:3cda504bd16a725d628c2d5999ff12ccaccc0c069b0c3104a397a5002d3bd3e4",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260817194712/https://theportager.com/kent-city-council-rejects-video-surveillance-contract-with-flock/",
@@ -3387,7 +3697,7 @@
     },
     {
       "id": "lynnwood-wa-2025-11",
-      "source_order": 109,
+      "source_order": 119,
       "location": {
         "city": "Lynnwood",
         "state": "WA",
@@ -3406,7 +3716,7 @@
       "link_domain": "lynnwoodtimes.com",
       "content_hash": "sha256:a04e94d124d77cce2aae5368b5cdb04c8c2a7afaa3a1526996179d71b4aa0631",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260816054928/https://lynnwoodtimes.com/2025/11/07/alpr-2/",
@@ -3418,7 +3728,7 @@
     },
     {
       "id": "woodburn-or-2025-11",
-      "source_order": 110,
+      "source_order": 120,
       "location": {
         "city": "Woodburn",
         "state": "OR",
@@ -3437,7 +3747,7 @@
       "link_domain": "koin.com",
       "content_hash": "sha256:3aa15030b896346e60fa69c12b0e0f22be778e53d6439ac2c0452166d1488bad",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
@@ -3449,7 +3759,7 @@
     },
     {
       "id": "bay-city-mi-2025-11",
-      "source_order": 111,
+      "source_order": 121,
       "location": {
         "city": "Bay City",
         "state": "MI",
@@ -3468,19 +3778,19 @@
       "link_domain": "mlive.com",
       "content_hash": "sha256:99bcc0140b44025f0af769d01b175ab89727f00d984d8ccaa211f81fa24e3056",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
       "article_excerpt": null,
       "article_fetch": {
-        "fetched_at": "2026-08-26T14:29:58.648Z",
+        "fetched_at": "2026-08-28T01:10:43.518Z",
         "status": "blocked"
       }
     },
     {
       "id": "verona-wi-2025-11",
-      "source_order": 112,
+      "source_order": 122,
       "location": {
         "city": "Verona",
         "state": "WI",
@@ -3499,7 +3809,7 @@
       "link_domain": "channel3000.com",
       "content_hash": "sha256:3e29ed57b1905703244546c3fac1532fd0af8ab34d94415eb7b18c0ddc76b3aa",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260816134921/https://www.channel3000.com/news/verona-common-council-votes-no-on-renewing-flock-cameras-contract/article_b4d145a6-821a-41ed-9f48-617ac57fd762.html",
@@ -3511,7 +3821,7 @@
     },
     {
       "id": "skamania-county-wa-2025-11",
-      "source_order": 113,
+      "source_order": 123,
       "location": {
         "city": "Skamania County",
         "state": "WA",
@@ -3530,7 +3840,7 @@
       "link_domain": "opb.org",
       "content_hash": "sha256:435c0004bb5776e62fc1305c60e9c89c48f44b59a458fcb44840f34574189225",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260818194207/https://www.opb.org/article/2025/11/14/skamania-county-sheriff-flock-cameras/",
@@ -3542,7 +3852,7 @@
     },
     {
       "id": "lockhart-tx-2025-10",
-      "source_order": 114,
+      "source_order": 124,
       "location": {
         "city": "Lockhart",
         "state": "TX",
@@ -3561,7 +3871,7 @@
       "link_domain": "kxan.com",
       "content_hash": "sha256:3e97a8dc8d04f6838c229fed9f09e3047e99a17eed3ebc3903e34eb25a30116e",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
@@ -3573,7 +3883,7 @@
     },
     {
       "id": "hays-county-tx-2025-10",
-      "source_order": 115,
+      "source_order": 125,
       "location": {
         "city": "Hays County",
         "state": "TX",
@@ -3592,7 +3902,7 @@
       "link_domain": "cbsaustin.com",
       "content_hash": "sha256:6b0ada4b6a82d010aeceda0d498f6e94dcabed63e639506bfdf2445d02ad5b04",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
@@ -3604,7 +3914,7 @@
     },
     {
       "id": "warrenton-va-2025-10",
-      "source_order": 116,
+      "source_order": 126,
       "location": {
         "city": "Warrenton",
         "state": "VA",
@@ -3623,7 +3933,7 @@
       "link_domain": "fauquiernow.com",
       "content_hash": "sha256:81f64ffb586412c7fc945fb93069e1f7cf6061ce13f6efc3c7a216c3d4befc48",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
@@ -3635,7 +3945,7 @@
     },
     {
       "id": "hillsborough-nc-2025-10",
-      "source_order": 117,
+      "source_order": 127,
       "location": {
         "city": "Hillsborough",
         "state": "NC",
@@ -3654,19 +3964,19 @@
       "link_domain": "hillsboroughnc.gov",
       "content_hash": "sha256:ae32885ec2aa943f2f945cf30e0fcd9b798858b58e9e681d19b0e2b33ca8e867",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
       "article_excerpt": null,
       "article_fetch": {
-        "fetched_at": "2026-08-26T14:29:58.648Z",
+        "fetched_at": "2026-08-28T01:10:43.518Z",
         "status": "blocked"
       }
     },
     {
       "id": "sedro-woolley-wa-2025-10",
-      "source_order": 118,
+      "source_order": 128,
       "location": {
         "city": "Sedro-Woolley",
         "state": "WA",
@@ -3685,7 +3995,7 @@
       "link_domain": "goskagit.com",
       "content_hash": "sha256:7e63c199c44ebbe9907d5ee6528219d93fb1cf62c3b128591b4a618f8fa64f6a",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
@@ -3697,7 +4007,7 @@
     },
     {
       "id": "sedona-az-2025-09",
-      "source_order": 119,
+      "source_order": 129,
       "location": {
         "city": "Sedona",
         "state": "AZ",
@@ -3716,7 +4026,7 @@
       "link_domain": "knau.org",
       "content_hash": "sha256:184f6f229855f283c85f5aef36174e1b8293dbadefd8b2c05eda5fa853958a89",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
@@ -3728,7 +4038,7 @@
     },
     {
       "id": "stanwood-wa-2025-09",
-      "source_order": 120,
+      "source_order": 130,
       "location": {
         "city": "Stanwood",
         "state": "WA",
@@ -3747,7 +4057,7 @@
       "link_domain": "goskagit.com",
       "content_hash": "sha256:cd70a98e1fdbd80e185410d72729ee0a513f43f3e8c66ce24c8a2d0af25771a2",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
@@ -3759,7 +4069,7 @@
     },
     {
       "id": "oak-park-il-2025-08",
-      "source_order": 121,
+      "source_order": 131,
       "location": {
         "city": "Oak Park",
         "state": "IL",
@@ -3778,7 +4088,7 @@
       "link_domain": "oakpark.com",
       "content_hash": "sha256:c75fa4d82b3b7efc71e031d29cd16ab8236de56340c0fc24415f43769ac121f0",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
@@ -3790,7 +4100,7 @@
     },
     {
       "id": "evanston-il-2025-08",
-      "source_order": 122,
+      "source_order": 132,
       "location": {
         "city": "Evanston",
         "state": "IL",
@@ -3809,7 +4119,7 @@
       "link_domain": "evanstonroundtable.com",
       "content_hash": "sha256:14b4e05f37cec0441285afe8cb6905381a3565f21658031158045f068190e166",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": "https://web.archive.org/web/20260815050729/https://evanstonroundtable.com/2025/08/26/evanston-shuts-down-license-plate-cameras-terminates-contract-with-flock-safety/",
@@ -3821,7 +4131,7 @@
     },
     {
       "id": "louisville-co-2025-08",
-      "source_order": 123,
+      "source_order": 133,
       "location": {
         "city": "Louisville",
         "state": "CO",
@@ -3840,7 +4150,7 @@
       "link_domain": "cbsnews.com",
       "content_hash": "sha256:ac9a84ff55fede5b145335c4ae2b49d6891540fa3c0a8cbf8a7d1883f38e0ea6",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
@@ -3852,7 +4162,7 @@
     },
     {
       "id": "scarsdale-ny-2025-08",
-      "source_order": 124,
+      "source_order": 134,
       "location": {
         "city": "Scarsdale",
         "state": "NY",
@@ -3871,19 +4181,19 @@
       "link_domain": "ij.org",
       "content_hash": "sha256:cfbb02bca6cbeca847f0a3050cd2b9c6dc0145f553c24657c795c2681878ada8",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
       "article_excerpt": null,
       "article_fetch": {
-        "fetched_at": "2026-08-26T14:29:58.648Z",
+        "fetched_at": "2026-08-28T01:10:43.518Z",
         "status": "blocked"
       }
     },
     {
       "id": "austin-tx-2025-06",
-      "source_order": 125,
+      "source_order": 135,
       "location": {
         "city": "Austin",
         "state": "TX",
@@ -3902,7 +4212,7 @@
       "link_domain": "eff.org",
       "content_hash": "sha256:24f15800fda60dab1d6d4155934a41a6538f3e856ad73d4e7becadddc5a2d75b",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
@@ -3914,7 +4224,7 @@
     },
     {
       "id": "denver-co-2025-05",
-      "source_order": 126,
+      "source_order": 136,
       "location": {
         "city": "Denver",
         "state": "CO",
@@ -3933,19 +4243,19 @@
       "link_domain": "denverite.com",
       "content_hash": "sha256:9820a7a1435a0e23e96d6aacf1d02918cf5c7d40b7a5983ae27531cda2fab31e",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
       "article_excerpt": null,
       "article_fetch": {
-        "fetched_at": "2026-08-26T14:29:58.648Z",
+        "fetched_at": "2026-08-28T01:10:43.518Z",
         "status": "blocked"
       }
     },
     {
       "id": "gig-harbor-wa-2025-03",
-      "source_order": 127,
+      "source_order": 137,
       "location": {
         "city": "Gig Harbor",
         "state": "WA",
@@ -3964,19 +4274,19 @@
       "link_domain": "thenewstribune.com",
       "content_hash": "sha256:8cdeea8db5fcec7e7ae71c802b369161ebc4b8bbd0c325d3b7921531eeb275c2",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
       "article_excerpt": null,
       "article_fetch": {
-        "fetched_at": "2026-08-26T14:29:58.648Z",
+        "fetched_at": "2026-08-28T01:10:43.518Z",
         "status": "blocked"
       }
     },
     {
       "id": "eureka-ca-2025-02",
-      "source_order": 128,
+      "source_order": 138,
       "location": {
         "city": "Eureka",
         "state": "CA",
@@ -3995,7 +4305,7 @@
       "link_domain": "lostcoastoutpost.com",
       "content_hash": "sha256:35e234e97c498bffb559332355d9111ece426fc44c8bd7661fc49d4d1d802773",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
@@ -4007,7 +4317,7 @@
     },
     {
       "id": "seneca-mo-2025-02",
-      "source_order": 129,
+      "source_order": 139,
       "location": {
         "city": "Seneca",
         "state": "MO",
@@ -4026,7 +4336,7 @@
       "link_domain": "koamnewsnow.com",
       "content_hash": "sha256:1ef86b8992080f9277b4bc515078216d38228cb73928828cda55c98507577713",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
@@ -4038,7 +4348,7 @@
     },
     {
       "id": "bend-or-2025-01",
-      "source_order": 130,
+      "source_order": 140,
       "location": {
         "city": "Bend",
         "state": "OR",
@@ -4057,7 +4367,7 @@
       "link_domain": "opb.org",
       "content_hash": "sha256:250862e9b22509f69e8ab055c64e01a3ad3f52b27efde14907bee0b14674628b",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
@@ -4069,7 +4379,7 @@
     },
     {
       "id": "elbert-county-co-2024-12",
-      "source_order": 131,
+      "source_order": 141,
       "location": {
         "city": "Elbert County",
         "state": "CO",
@@ -4088,7 +4398,7 @@
       "link_domain": "denvergazette.com",
       "content_hash": "sha256:13e0cb915ec46a2927403ba87fdcbc07d5942d77504f7d6c05a1e7b72e3507a8",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
@@ -4100,7 +4410,7 @@
     },
     {
       "id": "hood-county-tx-2023-10",
-      "source_order": 132,
+      "source_order": 142,
       "location": {
         "city": "Hood County",
         "state": "TX",
@@ -4119,7 +4429,7 @@
       "link_domain": "cbsnews.com",
       "content_hash": "sha256:e887cfcf9819f82cc7b6f18d69fedd049f6329eefffe18315a403038ebae7b4e",
       "first_seen_at": "2026-08-17T22:59:35.297Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
@@ -4131,7 +4441,7 @@
     },
     {
       "id": "sturgeon-bay-wi-2023-04",
-      "source_order": 133,
+      "source_order": 143,
       "location": {
         "city": "Sturgeon Bay",
         "state": "WI",
@@ -4150,7 +4460,7 @@
       "link_domain": "doorcountypulse.com",
       "content_hash": "sha256:9cdbff3504c255bbd1b9b398d5fba6cf6c3adfeecd9e8505f87fa91d169fdd4d",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
@@ -4162,7 +4472,7 @@
     },
     {
       "id": "everett-wa-2023-02",
-      "source_order": 134,
+      "source_order": 144,
       "location": {
         "city": "Everett",
         "state": "WA",
@@ -4181,7 +4491,7 @@
       "link_domain": "heraldnet.com",
       "content_hash": "sha256:098421e295577f73279c8a26bc6d7175094d2b0dc26081b403347a137cb13b93",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
@@ -4193,7 +4503,7 @@
     },
     {
       "id": "south-tucson-az-2023-02",
-      "source_order": 135,
+      "source_order": 145,
       "location": {
         "city": "South Tucson",
         "state": "AZ",
@@ -4212,7 +4522,7 @@
       "link_domain": "tucsonspotlight.org",
       "content_hash": "sha256:235aaec2a7d66c59d73d55606b65963ae9e8ac4e69379d53c3aa97da0004c1ad",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
@@ -4224,7 +4534,7 @@
     },
     {
       "id": "ypsilanti-mi-2022-09",
-      "source_order": 136,
+      "source_order": 146,
       "location": {
         "city": "Ypsilanti",
         "state": "MI",
@@ -4243,7 +4553,7 @@
       "link_domain": "wemu.org",
       "content_hash": "sha256:6c45cb071bba10593cc5644f88d9ad7d611adf5f81ddfadb26ff746d4e2aa9f5",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
@@ -4255,7 +4565,7 @@
     },
     {
       "id": "lake-county-fl-2021-08",
-      "source_order": 137,
+      "source_order": 147,
       "location": {
         "city": "Lake County",
         "state": "FL",
@@ -4274,7 +4584,7 @@
       "link_domain": "orlandoweekly.com",
       "content_hash": "sha256:b7a6cf3411807c8a1bf330ebe6ec3ad9968433bd0cd9b8f4826c0ccf4959e5c4",
       "first_seen_at": "2026-07-28T23:36:47.148Z",
-      "last_seen_at": "2026-08-26T14:29:58.648Z",
+      "last_seen_at": "2026-08-28T01:10:43.518Z",
       "verified": false,
       "notes": "",
       "archive_url": null,
