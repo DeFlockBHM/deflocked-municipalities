@@ -1,74 +1,82 @@
 import { slugify } from "./slugify.js";
-import { parseMonthYear } from "./parseDate.js";
-import { stripTags, extractFirstLink } from "./htmlUtils.js";
+import { parseIsoDate } from "./parseDate.js";
 import { contentHash } from "./hash.js";
+import { US_STATE_ABBR } from "./usStates.js";
 
 const STATUS_MAP = {
-  "cameras deactivated": "deactivated",
-  "contract rejected": "rejected",
-  "contract canceled": "cancelled",
-  "contract cancelled": "cancelled",
-  "contract not renewed": "not_renewed",
-  "contract paused": "paused",
+  "early-termination": "early_termination",
+  "cancelation-before-deployment": "cancelation_before_deployment",
+  "nonrenewal-after-expiration": "nonrenewal_after_expiration",
+  "nonrenewal-defunding": "nonrenewal_defunding",
 };
 
-function normalizeStatus(raw) {
-  return STATUS_MAP[raw.trim().toLowerCase()] ?? "other";
+function normalizeStatus(typeSlug) {
+  return STATUS_MAP[typeSlug] ?? "other";
 }
 
-function parseLocation(cityState) {
-  const idx = cityState.lastIndexOf(",");
-  if (idx === -1) {
-    return { city: cityState.trim(), state: "", text: cityState.trim() };
+function resolveStateAbbr(stateName) {
+  const abbr = US_STATE_ABBR[stateName];
+  if (!abbr) {
+    throw new Error(`Unrecognized state name from source: ${JSON.stringify(stateName)}`);
   }
-  return {
-    city: cityState.slice(0, idx).trim(),
-    state: cityState.slice(idx + 1).trim(),
-    text: cityState.trim(),
-  };
+  return abbr;
 }
 
-// Builds the "shell" of an entry from a raw source row: everything derivable
-// from the source table itself, before we go fetch/archive the linked article.
-// `sourceOrder` reflects display order (see rawRowsToOrderedShells); `id` is
-// assigned separately once collisions across the full row set are known.
+// Builds the "shell" of an entry from a raw parsed row: everything derivable
+// from the source page itself, before we go fetch/archive the linked
+// article. `sourceOrder` reflects the source's own display order (newest
+// first); `id` is assigned separately once collisions across the full row
+// set are known.
 export function buildShell(row, sourceOrder) {
-  const location = parseLocation(row.cityState);
-  const date = parseMonthYear(row.monthYear);
-  const statusRaw = row.outcome.trim();
-  const info = stripTags(row.description);
-  const sourceUrl = extractFirstLink(row.description);
-  if (!sourceUrl) {
-    throw new Error(`Row ${row.id} (${row.cityState}) has no article link in description`);
+  if (!row.ij_source_id) {
+    throw new Error("Row is missing its IJ incident id (data-alpr-incident)");
   }
+  if (!row.city || !row.state_name) {
+    throw new Error(`Row ${row.ij_source_id} is missing city/state`);
+  }
+  if (!row.source_url) {
+    throw new Error(`Row ${row.ij_source_id} (${row.city}, ${row.state_name}) has no source link`);
+  }
+
+  const stateAbbr = resolveStateAbbr(row.state_name);
+  const location = {
+    city: row.city,
+    state: stateAbbr,
+    text: `${row.city}, ${stateAbbr}`,
+  };
+  const date = parseIsoDate(row.date_iso);
+
   let linkDomain = null;
   try {
-    linkDomain = new URL(sourceUrl).hostname.replace(/^www\./, "");
+    linkDomain = new URL(row.source_url).hostname.replace(/^www\./, "");
   } catch {
-    throw new Error(`Row ${row.id} (${row.cityState}) has an unparseable source_url: ${sourceUrl}`);
+    throw new Error(`Row ${row.ij_source_id} (${location.text}) has an unparseable source_url: ${row.source_url}`);
   }
 
   const shell = {
-    _sourceId: row.id,
+    _sourceId: row.ij_source_id,
+    ij_source_id: row.ij_source_id,
     source_order: sourceOrder,
     location,
     date,
-    status: normalizeStatus(statusRaw),
-    status_raw: statusRaw,
-    info,
-    source_url: sourceUrl,
+    status: normalizeStatus(row.type_slug),
+    status_raw: row.type_name,
+    manufacturer: row.manufacturer_slug,
+    manufacturer_name: row.manufacturer_name,
+    info: row.description,
+    source_url: row.source_url,
     link_domain: linkDomain,
   };
   shell.content_hash = contentHash(shell);
   return shell;
 }
 
-// Assigns stable slug ids, breaking ties deterministically by the source's
-// own numeric row id (ascending) so a new colliding row always gets the
+// Assigns stable slug ids, breaking ties deterministically by IJ's own
+// numeric incident id (ascending) so a new colliding row always gets the
 // suffix rather than perturbing a previously-assigned id.
 export function assignIds(shells) {
   const byBaseSlug = new Map();
-  const ordered = [...shells].sort((a, b) => a._sourceId - b._sourceId);
+  const ordered = [...shells].sort((a, b) => Number(a._sourceId) - Number(b._sourceId));
   for (const shell of ordered) {
     const base = `${slugify(`${shell.location.city} ${shell.location.state}`)}-${shell.date.iso.slice(0, 7)}`;
     const count = byBaseSlug.get(base) ?? 0;

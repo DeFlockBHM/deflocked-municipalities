@@ -12,14 +12,3 @@ export function decodeEntities(str) {
     return m;
   });
 }
-
-export function stripTags(html) {
-  return decodeEntities(html.replace(/<[^>]*>/g, ""))
-    .replace(/\s+/g, " ")
-    .trim();
-}
-
-export function extractFirstLink(html) {
-  const match = /<a\s+[^>]*href="([^"]+)"/i.exec(html);
-  return match ? match[1] : null;
-}

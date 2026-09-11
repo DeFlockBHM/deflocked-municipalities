@@ -1,17 +1,15 @@
 import { readFile, writeFile, mkdir } from "node:fs/promises";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { fetchSourceRows } from "./src/fetchSource.js";
+import { fetchSourceRows, SOURCE_URL, SOURCE_NAME } from "./src/fetchSource.js";
 import { buildShell, assignIds } from "./src/normalize.js";
-import { parseMonthYear } from "./src/parseDate.js";
 import { fetchArticle } from "./src/article.js";
 import { archiveUrl } from "./src/wayback.js";
 import { mapLimit, sleep } from "./src/concurrency.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const DATA_PATH = path.join(__dirname, "..", "data", "municipalities.json");
-const SOURCE_URL = "https://deflock.org/council#wins";
-const SCHEMA_VERSION = 1;
+const SCHEMA_VERSION = 2;
 const ARTICLE_CONCURRENCY = 4;
 // The Wayback Save API rate-limits bursts hard (concurrent/rapid requests
 // come back as 520s) and can be slow even when it succeeds, so archiving
@@ -33,12 +31,9 @@ async function loadPrevious() {
 }
 
 function buildShells(rawRows) {
-  // Display order on the site is newest-first by month/year; source_order
+  // Display order on the source page is already newest-first; source_order
   // reflects that, purely for human reference (not used as identity).
-  const displayOrder = [...rawRows].sort(
-    (a, b) => parseMonthYear(b.monthYear).iso.localeCompare(parseMonthYear(a.monthYear).iso),
-  );
-  const shells = displayOrder.map((row, i) => buildShell(row, i + 1));
+  const shells = rawRows.map((row, i) => buildShell(row, i + 1));
   return assignIds(shells);
 }
 
@@ -48,11 +43,14 @@ async function enrichEntry(shell, prevEntry, now) {
 
   const base = {
     id: shell.id,
+    ij_source_id: shell.ij_source_id,
     source_order: shell.source_order,
     location: shell.location,
     date: shell.date,
     status: shell.status,
     status_raw: shell.status_raw,
+    manufacturer: shell.manufacturer,
+    manufacturer_name: shell.manufacturer_name,
     info: shell.info,
     source_url: shell.source_url,
     link_domain: shell.link_domain,
@@ -136,6 +134,7 @@ async function main() {
     schema_version: SCHEMA_VERSION,
     generated_at: now,
     source_url: SOURCE_URL,
+    source_name: SOURCE_NAME,
     count: entries.length,
     entries,
   };

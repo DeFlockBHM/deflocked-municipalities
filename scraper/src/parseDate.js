@@ -1,22 +1,25 @@
 const MONTHS = [
-  "january", "february", "march", "april", "may", "june",
-  "july", "august", "september", "october", "november", "december",
+  "January", "February", "March", "April", "May", "June",
+  "July", "August", "September", "October", "November", "December",
 ];
 
-// Source data is consistently "Month YYYY" (see flockWins CMS collection).
-// Throws on anything else so a source format change surfaces immediately
-// instead of silently producing a wrong date.
-export function parseMonthYear(text) {
-  const match = /^([A-Za-z]+)\s+(\d{4})$/.exec(text.trim());
+// IJ's data-date attribute is a full "YYYY-MM-DD" (day precision - IJ dates
+// its cancelations more precisely than deflock.org's old "Month YYYY" did).
+// Throws on anything else so a source format change surfaces immediately.
+export function parseIsoDate(iso) {
+  const match = /^(\d{4})-(\d{2})-(\d{2})$/.exec((iso ?? "").trim());
   if (!match) {
-    throw new Error(`Unrecognized monthYear format: ${JSON.stringify(text)}`);
+    throw new Error(`Unrecognized date format from source: ${JSON.stringify(iso)}`);
   }
-  const monthIndex = MONTHS.indexOf(match[1].toLowerCase());
-  if (monthIndex === -1) {
-    throw new Error(`Unrecognized month name: ${JSON.stringify(match[1])}`);
+  const year = Number(match[1]);
+  const month = Number(match[2]);
+  if (month < 1 || month > 12) {
+    throw new Error(`Month out of range in date: ${JSON.stringify(iso)}`);
   }
-  const year = Number(match[2]);
-  const month = monthIndex + 1;
-  const iso = `${year}-${String(month).padStart(2, "0")}-01`;
-  return { text: text.trim(), year, month, iso };
+  return {
+    text: `${MONTHS[month - 1]} ${year}`,
+    year,
+    month,
+    iso: `${match[1]}-${match[2]}-${match[3]}`,
+  };
 }
