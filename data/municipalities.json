@@ -12,7 +12,12 @@
       "location": {
         "city": "Bedford Township",
         "state": "MI",
-        "text": "Bedford Township, MI"
+        "text": "Bedford Township, MI",
+        "population": 9164,
+        "population_year": 2024,
+        "population_geography": "county_subdivision",
+        "population_matched_name": "Bedford charter township, Calhoun County, Michigan",
+        "population_ambiguous": true
       },
       "date": {
         "text": "September 2026",
@@ -46,7 +51,12 @@
       "location": {
         "city": "Independence Township",
         "state": "MI",
-        "text": "Independence Township, MI"
+        "text": "Independence Township, MI",
+        "population": 36982,
+        "population_year": 2024,
+        "population_geography": "county_subdivision",
+        "population_matched_name": "Independence charter township, Oakland County, Michigan",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -80,7 +90,12 @@
       "location": {
         "city": "Liberty Hill",
         "state": "TX",
-        "text": "Liberty Hill, TX"
+        "text": "Liberty Hill, TX",
+        "population": 8371,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Liberty Hill city, Texas",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -114,7 +129,12 @@
       "location": {
         "city": "Reynoldsburg",
         "state": "OH",
-        "text": "Reynoldsburg, OH"
+        "text": "Reynoldsburg, OH",
+        "population": 41224,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Reynoldsburg city, Ohio",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -148,7 +168,12 @@
       "location": {
         "city": "Fort Myers Beach",
         "state": "FL",
-        "text": "Fort Myers Beach, FL"
+        "text": "Fort Myers Beach, FL",
+        "population": 5513,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Fort Myers Beach town, Florida",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -182,7 +207,12 @@
       "location": {
         "city": "Crystal",
         "state": "MN",
-        "text": "Crystal, MN"
+        "text": "Crystal, MN",
+        "population": 22476,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Crystal city, Minnesota",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -216,7 +246,12 @@
       "location": {
         "city": "Princeton",
         "state": "TX",
-        "text": "Princeton, TX"
+        "text": "Princeton, TX",
+        "population": 25229,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Princeton city, Texas",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -250,7 +285,12 @@
       "location": {
         "city": "Sheboygan",
         "state": "WI",
-        "text": "Sheboygan, WI"
+        "text": "Sheboygan, WI",
+        "population": 49645,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Sheboygan city, Wisconsin",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -284,7 +324,12 @@
       "location": {
         "city": "Bastrop",
         "state": "TX",
-        "text": "Bastrop, TX"
+        "text": "Bastrop, TX",
+        "population": 11156,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Bastrop city, Texas",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -318,7 +363,12 @@
       "location": {
         "city": "Manvel",
         "state": "TX",
-        "text": "Manvel, TX"
+        "text": "Manvel, TX",
+        "population": 14758,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Manvel city, Texas",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -352,7 +402,12 @@
       "location": {
         "city": "Menasha",
         "state": "WI",
-        "text": "Menasha, WI"
+        "text": "Menasha, WI",
+        "population": 18273,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Menasha city, Wisconsin",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -386,7 +441,12 @@
       "location": {
         "city": "Martinsville",
         "state": "VA",
-        "text": "Martinsville, VA"
+        "text": "Martinsville, VA",
+        "population": 13658,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Martinsville city, Virginia",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -420,7 +480,12 @@
       "location": {
         "city": "Englewood",
         "state": "CO",
-        "text": "Englewood, CO"
+        "text": "Englewood, CO",
+        "population": 34129,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Englewood city, Colorado",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -454,7 +519,12 @@
       "location": {
         "city": "Collegedale",
         "state": "TN",
-        "text": "Collegedale, TN"
+        "text": "Collegedale, TN",
+        "population": 11330,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Collegedale city, Tennessee",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -488,7 +558,12 @@
       "location": {
         "city": "Starke County",
         "state": "IN",
-        "text": "Starke County, IN"
+        "text": "Starke County, IN",
+        "population": 23365,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Starke County, Indiana",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -522,7 +597,12 @@
       "location": {
         "city": "Stoughton",
         "state": "MA",
-        "text": "Stoughton, MA"
+        "text": "Stoughton, MA",
+        "population": 29225,
+        "population_year": 2024,
+        "population_geography": "county_subdivision",
+        "population_matched_name": "Stoughton town, Norfolk County, Massachusetts",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -556,7 +636,12 @@
       "location": {
         "city": "Panama City",
         "state": "FL",
-        "text": "Panama City, FL"
+        "text": "Panama City, FL",
+        "population": 34979,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Panama City city, Florida",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -590,7 +675,12 @@
       "location": {
         "city": "Live Oak",
         "state": "FL",
-        "text": "Live Oak, FL"
+        "text": "Live Oak, FL",
+        "population": 6985,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Live Oak city, Florida",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -624,7 +714,12 @@
       "location": {
         "city": "Bridgewater",
         "state": "VA",
-        "text": "Bridgewater, VA"
+        "text": "Bridgewater, VA",
+        "population": 6708,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Bridgewater town, Virginia",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -658,7 +753,12 @@
       "location": {
         "city": "Lorain County",
         "state": "OH",
-        "text": "Lorain County, OH"
+        "text": "Lorain County, OH",
+        "population": 317129,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Lorain County, Ohio",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -692,7 +792,12 @@
       "location": {
         "city": "Jerome County",
         "state": "ID",
-        "text": "Jerome County, ID"
+        "text": "Jerome County, ID",
+        "population": 25173,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Jerome County, Idaho",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -726,7 +831,12 @@
       "location": {
         "city": "Fond Du Lac County",
         "state": "WI",
-        "text": "Fond Du Lac County, WI"
+        "text": "Fond Du Lac County, WI",
+        "population": 104137,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Fond du Lac County, Wisconsin",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -760,7 +870,12 @@
       "location": {
         "city": "Winnebago County",
         "state": "WI",
-        "text": "Winnebago County, WI"
+        "text": "Winnebago County, WI",
+        "population": 171769,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Winnebago County, Wisconsin",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -794,7 +909,12 @@
       "location": {
         "city": "Fond Du Lac",
         "state": "WI",
-        "text": "Fond Du Lac, WI"
+        "text": "Fond Du Lac, WI",
+        "population": 44494,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Fond du Lac city, Wisconsin",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -828,7 +948,12 @@
       "location": {
         "city": "Waupun",
         "state": "WI",
-        "text": "Waupun, WI"
+        "text": "Waupun, WI",
+        "population": 11174,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Waupun city, Wisconsin",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -862,7 +987,12 @@
       "location": {
         "city": "Ripon",
         "state": "WI",
-        "text": "Ripon, WI"
+        "text": "Ripon, WI",
+        "population": 7772,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Ripon city, Wisconsin",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -896,7 +1026,12 @@
       "location": {
         "city": "North Fond Du Lac",
         "state": "WI",
-        "text": "North Fond Du Lac, WI"
+        "text": "North Fond Du Lac, WI",
+        "population": 5392,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "North Fond du Lac village, Wisconsin",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -930,7 +1065,12 @@
       "location": {
         "city": "Lynchburg",
         "state": "VA",
-        "text": "Lynchburg, VA"
+        "text": "Lynchburg, VA",
+        "population": 79497,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Lynchburg city, Virginia",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -964,7 +1104,12 @@
       "location": {
         "city": "Manor",
         "state": "TX",
-        "text": "Manor, TX"
+        "text": "Manor, TX",
+        "population": 18603,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Manor city, Texas",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -998,7 +1143,12 @@
       "location": {
         "city": "Dartmouth",
         "state": "MA",
-        "text": "Dartmouth, MA"
+        "text": "Dartmouth, MA",
+        "population": 33328,
+        "population_year": 2024,
+        "population_geography": "county_subdivision",
+        "population_matched_name": "Dartmouth town, Bristol County, Massachusetts",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -1032,7 +1182,12 @@
       "location": {
         "city": "Leander",
         "state": "TX",
-        "text": "Leander, TX"
+        "text": "Leander, TX",
+        "population": 74067,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Leander city, Texas",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -1066,7 +1221,12 @@
       "location": {
         "city": "Barnstable",
         "state": "MA",
-        "text": "Barnstable, MA"
+        "text": "Barnstable, MA",
+        "population": 231668,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Barnstable County, Massachusetts",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -1100,7 +1260,12 @@
       "location": {
         "city": "Charlotte County",
         "state": "VA",
-        "text": "Charlotte County, VA"
+        "text": "Charlotte County, VA",
+        "population": 11422,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Charlotte County, Virginia",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -1134,7 +1299,12 @@
       "location": {
         "city": "Pierce Township",
         "state": "OH",
-        "text": "Pierce Township, OH"
+        "text": "Pierce Township, OH",
+        "population": 15295,
+        "population_year": 2024,
+        "population_geography": "county_subdivision",
+        "population_matched_name": "Pierce township, Clermont County, Ohio",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -1168,7 +1338,12 @@
       "location": {
         "city": "Campbell County",
         "state": "VA",
-        "text": "Campbell County, VA"
+        "text": "Campbell County, VA",
+        "population": 55312,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Campbell County, Virginia",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -1202,7 +1377,12 @@
       "location": {
         "city": "Routt County",
         "state": "CO",
-        "text": "Routt County, CO"
+        "text": "Routt County, CO",
+        "population": 25084,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Routt County, Colorado",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -1236,7 +1416,12 @@
       "location": {
         "city": "Grants",
         "state": "NM",
-        "text": "Grants, NM"
+        "text": "Grants, NM",
+        "population": 8951,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Grants city, New Mexico",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -1270,7 +1455,12 @@
       "location": {
         "city": "Appomattox County",
         "state": "VA",
-        "text": "Appomattox County, VA"
+        "text": "Appomattox County, VA",
+        "population": 16610,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Appomattox County, Virginia",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -1304,7 +1494,12 @@
       "location": {
         "city": "Wythe County",
         "state": "VA",
-        "text": "Wythe County, VA"
+        "text": "Wythe County, VA",
+        "population": 28188,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Wythe County, Virginia",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -1338,7 +1533,12 @@
       "location": {
         "city": "Leon County",
         "state": "FL",
-        "text": "Leon County, FL"
+        "text": "Leon County, FL",
+        "population": 297542,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Leon County, Florida",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -1372,7 +1572,12 @@
       "location": {
         "city": "Wakulla County",
         "state": "FL",
-        "text": "Wakulla County, FL"
+        "text": "Wakulla County, FL",
+        "population": 35387,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Wakulla County, Florida",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -1406,7 +1611,12 @@
       "location": {
         "city": "Franklin County",
         "state": "FL",
-        "text": "Franklin County, FL"
+        "text": "Franklin County, FL",
+        "population": 12553,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Franklin County, Florida",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -1440,7 +1650,12 @@
       "location": {
         "city": "Liberty County",
         "state": "FL",
-        "text": "Liberty County, FL"
+        "text": "Liberty County, FL",
+        "population": 7687,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Liberty County, Florida",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -1474,7 +1689,12 @@
       "location": {
         "city": "Robinson",
         "state": "TX",
-        "text": "Robinson, TX"
+        "text": "Robinson, TX",
+        "population": 12800,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Robinson city, Texas",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -1508,7 +1728,12 @@
       "location": {
         "city": "Monroe County",
         "state": "MI",
-        "text": "Monroe County, MI"
+        "text": "Monroe County, MI",
+        "population": 155505,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Monroe County, Michigan",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2026",
@@ -1542,7 +1767,12 @@
       "location": {
         "city": "Groton",
         "state": "MA",
-        "text": "Groton, MA"
+        "text": "Groton, MA",
+        "population": 1232,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Groton CDP, Massachusetts",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -1576,7 +1806,12 @@
       "location": {
         "city": "San Saba County",
         "state": "TX",
-        "text": "San Saba County, TX"
+        "text": "San Saba County, TX",
+        "population": 5696,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "San Saba County, Texas",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -1610,7 +1845,12 @@
       "location": {
         "city": "Ayer",
         "state": "MA",
-        "text": "Ayer, MA"
+        "text": "Ayer, MA",
+        "population": 3098,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Ayer CDP, Massachusetts",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -1644,7 +1884,12 @@
       "location": {
         "city": "Oviedo",
         "state": "FL",
-        "text": "Oviedo, FL"
+        "text": "Oviedo, FL",
+        "population": 40599,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Oviedo city, Florida",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -1678,7 +1923,12 @@
       "location": {
         "city": "Cohasset",
         "state": "MA",
-        "text": "Cohasset, MA"
+        "text": "Cohasset, MA",
+        "population": 8427,
+        "population_year": 2024,
+        "population_geography": "county_subdivision",
+        "population_matched_name": "Cohasset town, Norfolk County, Massachusetts",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -1712,7 +1962,12 @@
       "location": {
         "city": "Abington",
         "state": "MA",
-        "text": "Abington, MA"
+        "text": "Abington, MA",
+        "population": 17053,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Abington CDP, Massachusetts",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -1746,7 +2001,12 @@
       "location": {
         "city": "Pasco County",
         "state": "FL",
-        "text": "Pasco County, FL"
+        "text": "Pasco County, FL",
+        "population": 611444,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Pasco County, Florida",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -1780,7 +2040,12 @@
       "location": {
         "city": "Easton",
         "state": "MA",
-        "text": "Easton, MA"
+        "text": "Easton, MA",
+        "population": 25316,
+        "population_year": 2024,
+        "population_geography": "county_subdivision",
+        "population_matched_name": "Easton town, Bristol County, Massachusetts",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -1814,7 +2079,12 @@
       "location": {
         "city": "Erlanger",
         "state": "KY",
-        "text": "Erlanger, KY"
+        "text": "Erlanger, KY",
+        "population": 19875,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Erlanger city, Kentucky",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -1848,7 +2118,12 @@
       "location": {
         "city": "Giles County",
         "state": "VA",
-        "text": "Giles County, VA"
+        "text": "Giles County, VA",
+        "population": 16557,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Giles County, Virginia",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -1882,7 +2157,12 @@
       "location": {
         "city": "Steamboat Springs",
         "state": "CO",
-        "text": "Steamboat Springs, CO"
+        "text": "Steamboat Springs, CO",
+        "population": 13433,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Steamboat Springs city, Colorado",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -1916,7 +2196,12 @@
       "location": {
         "city": "Chetek",
         "state": "WI",
-        "text": "Chetek, WI"
+        "text": "Chetek, WI",
+        "population": 2177,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Chetek city, Wisconsin",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -1950,7 +2235,12 @@
       "location": {
         "city": "Tempe",
         "state": "AZ",
-        "text": "Tempe, AZ"
+        "text": "Tempe, AZ",
+        "population": 188065,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Tempe city, Arizona",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -1984,7 +2274,12 @@
       "location": {
         "city": "Bellingham",
         "state": "MA",
-        "text": "Bellingham, MA"
+        "text": "Bellingham, MA",
+        "population": 5325,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Bellingham CDP, Massachusetts",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -2018,7 +2313,12 @@
       "location": {
         "city": "Hartford",
         "state": "KY",
-        "text": "Hartford, KY"
+        "text": "Hartford, KY",
+        "population": 2649,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Hartford city, Kentucky",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -2052,7 +2352,12 @@
       "location": {
         "city": "Cave Creek",
         "state": "AZ",
-        "text": "Cave Creek, AZ"
+        "text": "Cave Creek, AZ",
+        "population": 5091,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Cave Creek town, Arizona",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -2086,7 +2391,12 @@
       "location": {
         "city": "Mayflower",
         "state": "AR",
-        "text": "Mayflower, AR"
+        "text": "Mayflower, AR",
+        "population": 2861,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Mayflower city, Arkansas",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -2120,7 +2430,12 @@
       "location": {
         "city": "Franklin County",
         "state": "PA",
-        "text": "Franklin County, PA"
+        "text": "Franklin County, PA",
+        "population": 157379,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Franklin County, Pennsylvania",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -2154,7 +2469,12 @@
       "location": {
         "city": "Kendall County",
         "state": "TX",
-        "text": "Kendall County, TX"
+        "text": "Kendall County, TX",
+        "population": 48567,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Kendall County, Texas",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -2188,7 +2508,12 @@
       "location": {
         "city": "Lincoln County",
         "state": "ID",
-        "text": "Lincoln County, ID"
+        "text": "Lincoln County, ID",
+        "population": 5358,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Lincoln County, Idaho",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -2222,7 +2547,12 @@
       "location": {
         "city": "Auburn",
         "state": "MA",
-        "text": "Auburn, MA"
+        "text": "Auburn, MA",
+        "population": 16970,
+        "population_year": 2024,
+        "population_geography": "county_subdivision",
+        "population_matched_name": "Auburn town, Worcester County, Massachusetts",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -2256,7 +2586,12 @@
       "location": {
         "city": "Asheville",
         "state": "NC",
-        "text": "Asheville, NC"
+        "text": "Asheville, NC",
+        "population": 94535,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Asheville city, North Carolina",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -2290,7 +2625,12 @@
       "location": {
         "city": "Pflugerville",
         "state": "TX",
-        "text": "Pflugerville, TX"
+        "text": "Pflugerville, TX",
+        "population": 65971,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Pflugerville city, Texas",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -2324,7 +2664,12 @@
       "location": {
         "city": "Christiansburg",
         "state": "VA",
-        "text": "Christiansburg, VA"
+        "text": "Christiansburg, VA",
+        "population": 22720,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Christiansburg town, Virginia",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -2358,7 +2703,12 @@
       "location": {
         "city": "Wylie",
         "state": "TX",
-        "text": "Wylie, TX"
+        "text": "Wylie, TX",
+        "population": 60334,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Wylie city, Texas",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -2392,7 +2742,12 @@
       "location": {
         "city": "Bernalillo County",
         "state": "NM",
-        "text": "Bernalillo County, NM"
+        "text": "Bernalillo County, NM",
+        "population": 673930,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Bernalillo County, New Mexico",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -2426,7 +2781,12 @@
       "location": {
         "city": "Knox County",
         "state": "TN",
-        "text": "Knox County, TN"
+        "text": "Knox County, TN",
+        "population": 494148,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Knox County, Tennessee",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -2460,7 +2820,12 @@
       "location": {
         "city": "Independence",
         "state": "KY",
-        "text": "Independence, KY"
+        "text": "Independence, KY",
+        "population": 29392,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Independence city, Kentucky",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -2494,7 +2859,12 @@
       "location": {
         "city": "Davidson County",
         "state": "NC",
-        "text": "Davidson County, NC"
+        "text": "Davidson County, NC",
+        "population": 172954,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Davidson County, North Carolina",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -2528,7 +2898,12 @@
       "location": {
         "city": "Moffat County",
         "state": "CO",
-        "text": "Moffat County, CO"
+        "text": "Moffat County, CO",
+        "population": 13207,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Moffat County, Colorado",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -2562,7 +2937,12 @@
       "location": {
         "city": "King William County",
         "state": "VA",
-        "text": "King William County, VA"
+        "text": "King William County, VA",
+        "population": 18593,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "King William County, Virginia",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -2596,7 +2976,12 @@
       "location": {
         "city": "Douglas",
         "state": "MA",
-        "text": "Douglas, MA"
+        "text": "Douglas, MA",
+        "population": 9207,
+        "population_year": 2024,
+        "population_geography": "county_subdivision",
+        "population_matched_name": "Douglas town, Worcester County, Massachusetts",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -2630,7 +3015,12 @@
       "location": {
         "city": "Cynthiana",
         "state": "KY",
-        "text": "Cynthiana, KY"
+        "text": "Cynthiana, KY",
+        "population": 6458,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Cynthiana city, Kentucky",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -2664,7 +3054,12 @@
       "location": {
         "city": "Grafton",
         "state": "MA",
-        "text": "Grafton, MA"
+        "text": "Grafton, MA",
+        "population": 19902,
+        "population_year": 2024,
+        "population_geography": "county_subdivision",
+        "population_matched_name": "Grafton town, Worcester County, Massachusetts",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -2698,7 +3093,12 @@
       "location": {
         "city": "East Bridgewater",
         "state": "MA",
-        "text": "East Bridgewater, MA"
+        "text": "East Bridgewater, MA",
+        "population": 14456,
+        "population_year": 2024,
+        "population_geography": "county_subdivision",
+        "population_matched_name": "East Bridgewater town, Plymouth County, Massachusetts",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -2732,7 +3132,12 @@
       "location": {
         "city": "Willard",
         "state": "MO",
-        "text": "Willard, MO"
+        "text": "Willard, MO",
+        "population": 6488,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Willard city, Missouri",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -2766,7 +3171,12 @@
       "location": {
         "city": "Hopkinton",
         "state": "MA",
-        "text": "Hopkinton, MA"
+        "text": "Hopkinton, MA",
+        "population": 3426,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Hopkinton CDP, Massachusetts",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -2800,7 +3210,12 @@
       "location": {
         "city": "Wellsville",
         "state": "KS",
-        "text": "Wellsville, KS"
+        "text": "Wellsville, KS",
+        "population": 2216,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Wellsville city, Kansas",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -2834,7 +3249,12 @@
       "location": {
         "city": "Marietta",
         "state": "OK",
-        "text": "Marietta, OK"
+        "text": "Marietta, OK",
+        "population": 53,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Marietta CDP, Oklahoma",
+        "population_ambiguous": true
       },
       "date": {
         "text": "August 2026",
@@ -2868,7 +3288,12 @@
       "location": {
         "city": "Auburn",
         "state": "NY",
-        "text": "Auburn, NY"
+        "text": "Auburn, NY",
+        "population": 26285,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Auburn city, New York",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -2902,7 +3327,12 @@
       "location": {
         "city": "Henry County",
         "state": "IL",
-        "text": "Henry County, IL"
+        "text": "Henry County, IL",
+        "population": 48643,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Henry County, Illinois",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -2936,7 +3366,12 @@
       "location": {
         "city": "Kingston",
         "state": "TN",
-        "text": "Kingston, TN"
+        "text": "Kingston, TN",
+        "population": 6224,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Kingston city, Tennessee",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -2970,7 +3405,12 @@
       "location": {
         "city": "Sullivan County",
         "state": "TN",
-        "text": "Sullivan County, TN"
+        "text": "Sullivan County, TN",
+        "population": 160624,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Sullivan County, Tennessee",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -3004,7 +3444,12 @@
       "location": {
         "city": "Pulaski County",
         "state": "MO",
-        "text": "Pulaski County, MO"
+        "text": "Pulaski County, MO",
+        "population": 53894,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Pulaski County, Missouri",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -3038,7 +3483,12 @@
       "location": {
         "city": "St. Charles County",
         "state": "MO",
-        "text": "St. Charles County, MO"
+        "text": "St. Charles County, MO",
+        "population": 414535,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "St. Charles County, Missouri",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -3072,7 +3522,12 @@
       "location": {
         "city": "Sherburne County",
         "state": "MN",
-        "text": "Sherburne County, MN"
+        "text": "Sherburne County, MN",
+        "population": 100560,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Sherburne County, Minnesota",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -3106,7 +3561,12 @@
       "location": {
         "city": "Farmington",
         "state": "AR",
-        "text": "Farmington, AR"
+        "text": "Farmington, AR",
+        "population": 9094,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Farmington city, Arkansas",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -3140,7 +3600,12 @@
       "location": {
         "city": "Oxford",
         "state": "OH",
-        "text": "Oxford, OH"
+        "text": "Oxford, OH",
+        "population": 21753,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Oxford city, Ohio",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -3174,7 +3639,12 @@
       "location": {
         "city": "Gardner",
         "state": "KS",
-        "text": "Gardner, KS"
+        "text": "Gardner, KS",
+        "population": 24526,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Gardner city, Kansas",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -3208,7 +3678,12 @@
       "location": {
         "city": "Stow",
         "state": "MA",
-        "text": "Stow, MA"
+        "text": "Stow, MA",
+        "population": 7165,
+        "population_year": 2024,
+        "population_geography": "county_subdivision",
+        "population_matched_name": "Stow town, Middlesex County, Massachusetts",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -3242,7 +3717,12 @@
       "location": {
         "city": "Oceana County",
         "state": "MI",
-        "text": "Oceana County, MI"
+        "text": "Oceana County, MI",
+        "population": 26915,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Oceana County, Michigan",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -3276,7 +3756,12 @@
       "location": {
         "city": "Wyandot County",
         "state": "OH",
-        "text": "Wyandot County, OH"
+        "text": "Wyandot County, OH",
+        "population": 21598,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Wyandot County, Ohio",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -3310,7 +3795,12 @@
       "location": {
         "city": "Wellesley",
         "state": "MA",
-        "text": "Wellesley, MA"
+        "text": "Wellesley, MA",
+        "population": 30347,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Wellesley CDP, Massachusetts",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -3344,7 +3834,12 @@
       "location": {
         "city": "Fort Mitchell",
         "state": "KY",
-        "text": "Fort Mitchell, KY"
+        "text": "Fort Mitchell, KY",
+        "population": 8713,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Fort Mitchell city, Kentucky",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -3378,7 +3873,12 @@
       "location": {
         "city": "Sumpter Township",
         "state": "MI",
-        "text": "Sumpter Township, MI"
+        "text": "Sumpter Township, MI",
+        "population": 10446,
+        "population_year": 2024,
+        "population_geography": "county_subdivision",
+        "population_matched_name": "Sumpter township, Wayne County, Michigan",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -3412,7 +3912,12 @@
       "location": {
         "city": "Sumpter County",
         "state": "MI",
-        "text": "Sumpter County, MI"
+        "text": "Sumpter County, MI",
+        "population": 10446,
+        "population_year": 2024,
+        "population_geography": "county_subdivision",
+        "population_matched_name": "Sumpter township, Wayne County, Michigan",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -3446,7 +3951,12 @@
       "location": {
         "city": "Winston",
         "state": "OR",
-        "text": "Winston, OR"
+        "text": "Winston, OR",
+        "population": 5690,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Winston city, Oregon",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -3480,7 +3990,12 @@
       "location": {
         "city": "Littleton",
         "state": "CO",
-        "text": "Littleton, CO"
+        "text": "Littleton, CO",
+        "population": 44710,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Littleton city, Colorado",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -3514,7 +4029,12 @@
       "location": {
         "city": "Salida",
         "state": "CO",
-        "text": "Salida, CO"
+        "text": "Salida, CO",
+        "population": 5861,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Salida city, Colorado",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -3548,7 +4068,12 @@
       "location": {
         "city": "Josephine County",
         "state": "OR",
-        "text": "Josephine County, OR"
+        "text": "Josephine County, OR",
+        "population": 88179,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Josephine County, Oregon",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -3582,7 +4107,12 @@
       "location": {
         "city": "Surprise",
         "state": "AZ",
-        "text": "Surprise, AZ"
+        "text": "Surprise, AZ",
+        "population": 154948,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Surprise city, Arizona",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -3616,7 +4146,12 @@
       "location": {
         "city": "Greers Ferry",
         "state": "AR",
-        "text": "Greers Ferry, AR"
+        "text": "Greers Ferry, AR",
+        "population": 778,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Greers Ferry city, Arkansas",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -3650,7 +4185,12 @@
       "location": {
         "city": "Dickinson County",
         "state": "MI",
-        "text": "Dickinson County, MI"
+        "text": "Dickinson County, MI",
+        "population": 25954,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Dickinson County, Michigan",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -3684,7 +4224,12 @@
       "location": {
         "city": "Coshocton County",
         "state": "OH",
-        "text": "Coshocton County, OH"
+        "text": "Coshocton County, OH",
+        "population": 36744,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Coshocton County, Ohio",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -3718,7 +4263,12 @@
       "location": {
         "city": "Centerton",
         "state": "AR",
-        "text": "Centerton, AR"
+        "text": "Centerton, AR",
+        "population": 21920,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Centerton city, Arkansas",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -3752,7 +4302,12 @@
       "location": {
         "city": "West St. Paul",
         "state": "MN",
-        "text": "West St. Paul, MN"
+        "text": "West St. Paul, MN",
+        "population": 21382,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "West St. Paul city, Minnesota",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -3786,7 +4341,12 @@
       "location": {
         "city": "Ingleside",
         "state": "TX",
-        "text": "Ingleside, TX"
+        "text": "Ingleside, TX",
+        "population": 9997,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Ingleside city, Texas",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -3820,7 +4380,12 @@
       "location": {
         "city": "Magnolia",
         "state": "TX",
-        "text": "Magnolia, TX"
+        "text": "Magnolia, TX",
+        "population": 4068,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Magnolia city, Texas",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -3854,7 +4419,12 @@
       "location": {
         "city": "Searcy",
         "state": "AR",
-        "text": "Searcy, AR"
+        "text": "Searcy, AR",
+        "population": 23340,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Searcy city, Arkansas",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -3888,7 +4458,12 @@
       "location": {
         "city": "Hood County",
         "state": "TX",
-        "text": "Hood County, TX"
+        "text": "Hood County, TX",
+        "population": 65894,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Hood County, Texas",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -3922,7 +4497,12 @@
       "location": {
         "city": "Bolivar",
         "state": "MO",
-        "text": "Bolivar, MO"
+        "text": "Bolivar, MO",
+        "population": 11170,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Bolivar city, Missouri",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -3956,7 +4536,12 @@
       "location": {
         "city": "Henry County",
         "state": "MO",
-        "text": "Henry County, MO"
+        "text": "Henry County, MO",
+        "population": 22328,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Henry County, Missouri",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -3990,7 +4575,12 @@
       "location": {
         "city": "St. Louis County",
         "state": "MN",
-        "text": "St. Louis County, MN"
+        "text": "St. Louis County, MN",
+        "population": 200123,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "St. Louis County, Minnesota",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -4024,7 +4614,12 @@
       "location": {
         "city": "Guadalupe County",
         "state": "TX",
-        "text": "Guadalupe County, TX"
+        "text": "Guadalupe County, TX",
+        "population": 183642,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Guadalupe County, Texas",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -4058,7 +4653,12 @@
       "location": {
         "city": "Isanti County",
         "state": "MN",
-        "text": "Isanti County, MN"
+        "text": "Isanti County, MN",
+        "population": 42596,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Isanti County, Minnesota",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -4092,7 +4692,12 @@
       "location": {
         "city": "Lago Vista",
         "state": "TX",
-        "text": "Lago Vista, TX"
+        "text": "Lago Vista, TX",
+        "population": 48,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Lago Vista CDP, Texas",
+        "population_ambiguous": true
       },
       "date": {
         "text": "August 2026",
@@ -4126,7 +4731,12 @@
       "location": {
         "city": "Chandler",
         "state": "AZ",
-        "text": "Chandler, AZ"
+        "text": "Chandler, AZ",
+        "population": 280136,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Chandler city, Arizona",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -4160,7 +4770,12 @@
       "location": {
         "city": "Pinal County",
         "state": "AZ",
-        "text": "Pinal County, AZ"
+        "text": "Pinal County, AZ",
+        "population": 469006,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Pinal County, Arizona",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -4194,7 +4809,12 @@
       "location": {
         "city": "Glocester",
         "state": "RI",
-        "text": "Glocester, RI"
+        "text": "Glocester, RI",
+        "population": 10221,
+        "population_year": 2024,
+        "population_geography": "county_subdivision",
+        "population_matched_name": "Glocester town, Providence County, Rhode Island",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -4228,7 +4848,12 @@
       "location": {
         "city": "Burnet County",
         "state": "TX",
-        "text": "Burnet County, TX"
+        "text": "Burnet County, TX",
+        "population": 52652,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Burnet County, Texas",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -4262,7 +4887,12 @@
       "location": {
         "city": "Narragansett",
         "state": "RI",
-        "text": "Narragansett, RI"
+        "text": "Narragansett, RI",
+        "population": 14494,
+        "population_year": 2024,
+        "population_geography": "county_subdivision",
+        "population_matched_name": "Narragansett town, Washington County, Rhode Island",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -4296,7 +4926,12 @@
       "location": {
         "city": "Ord",
         "state": "NE",
-        "text": "Ord, NE"
+        "text": "Ord, NE",
+        "population": 2100,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Ord city, Nebraska",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -4330,7 +4965,12 @@
       "location": {
         "city": "Littleton",
         "state": "MA",
-        "text": "Littleton, MA"
+        "text": "Littleton, MA",
+        "population": 10280,
+        "population_year": 2024,
+        "population_geography": "county_subdivision",
+        "population_matched_name": "Littleton town, Middlesex County, Massachusetts",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2026",
@@ -4364,7 +5004,12 @@
       "location": {
         "city": "Perry",
         "state": "FL",
-        "text": "Perry, FL"
+        "text": "Perry, FL",
+        "population": 7068,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Perry city, Florida",
+        "population_ambiguous": false
       },
       "date": {
         "text": "July 2026",
@@ -4398,7 +5043,12 @@
       "location": {
         "city": "Siskiyou County",
         "state": "CA",
-        "text": "Siskiyou County, CA"
+        "text": "Siskiyou County, CA",
+        "population": 43466,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Siskiyou County, California",
+        "population_ambiguous": false
       },
       "date": {
         "text": "July 2026",
@@ -4432,7 +5082,12 @@
       "location": {
         "city": "Nelson",
         "state": "GA",
-        "text": "Nelson, GA"
+        "text": "Nelson, GA",
+        "population": 1166,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Nelson city, Georgia",
+        "population_ambiguous": false
       },
       "date": {
         "text": "July 2026",
@@ -4466,7 +5121,12 @@
       "location": {
         "city": "Sturgis",
         "state": "MI",
-        "text": "Sturgis, MI"
+        "text": "Sturgis, MI",
+        "population": 11054,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Sturgis city, Michigan",
+        "population_ambiguous": false
       },
       "date": {
         "text": "July 2026",
@@ -4500,7 +5160,12 @@
       "location": {
         "city": "Stoughton",
         "state": "WI",
-        "text": "Stoughton, WI"
+        "text": "Stoughton, WI",
+        "population": 13033,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Stoughton city, Wisconsin",
+        "population_ambiguous": false
       },
       "date": {
         "text": "July 2026",
@@ -4534,7 +5199,12 @@
       "location": {
         "city": "Taos",
         "state": "NM",
-        "text": "Taos, NM"
+        "text": "Taos, NM",
+        "population": 6458,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Taos town, New Mexico",
+        "population_ambiguous": false
       },
       "date": {
         "text": "July 2026",
@@ -4568,7 +5238,12 @@
       "location": {
         "city": "Harrisonburg",
         "state": "VA",
-        "text": "Harrisonburg, VA"
+        "text": "Harrisonburg, VA",
+        "population": 51392,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Harrisonburg city, Virginia",
+        "population_ambiguous": false
       },
       "date": {
         "text": "July 2026",
@@ -4602,7 +5277,12 @@
       "location": {
         "city": "South Kingstown",
         "state": "RI",
-        "text": "South Kingstown, RI"
+        "text": "South Kingstown, RI",
+        "population": 32073,
+        "population_year": 2024,
+        "population_geography": "county_subdivision",
+        "population_matched_name": "South Kingstown town, Washington County, Rhode Island",
+        "population_ambiguous": false
       },
       "date": {
         "text": "July 2026",
@@ -4636,7 +5316,12 @@
       "location": {
         "city": "Pea Ridge",
         "state": "AR",
-        "text": "Pea Ridge, AR"
+        "text": "Pea Ridge, AR",
+        "population": 8108,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Pea Ridge city, Arkansas",
+        "population_ambiguous": false
       },
       "date": {
         "text": "July 2026",
@@ -4670,7 +5355,12 @@
       "location": {
         "city": "Clearwater County",
         "state": "ID",
-        "text": "Clearwater County, ID"
+        "text": "Clearwater County, ID",
+        "population": 9012,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Clearwater County, Idaho",
+        "population_ambiguous": false
       },
       "date": {
         "text": "July 2026",
@@ -4704,7 +5394,12 @@
       "location": {
         "city": "Monroe County",
         "state": "IN",
-        "text": "Monroe County, IN"
+        "text": "Monroe County, IN",
+        "population": 140965,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Monroe County, Indiana",
+        "population_ambiguous": false
       },
       "date": {
         "text": "July 2026",
@@ -4738,7 +5433,12 @@
       "location": {
         "city": "Elkton",
         "state": "VA",
-        "text": "Elkton, VA"
+        "text": "Elkton, VA",
+        "population": 3006,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Elkton town, Virginia",
+        "population_ambiguous": false
       },
       "date": {
         "text": "July 2026",
@@ -4772,7 +5472,12 @@
       "location": {
         "city": "White County",
         "state": "TN",
-        "text": "White County, TN"
+        "text": "White County, TN",
+        "population": 28160,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "White County, Tennessee",
+        "population_ambiguous": false
       },
       "date": {
         "text": "July 2026",
@@ -4806,7 +5511,12 @@
       "location": {
         "city": "Aransas Pass",
         "state": "TX",
-        "text": "Aransas Pass, TX"
+        "text": "Aransas Pass, TX",
+        "population": 8972,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Aransas Pass city, Texas",
+        "population_ambiguous": false
       },
       "date": {
         "text": "July 2026",
@@ -4840,7 +5550,12 @@
       "location": {
         "city": "Appleton",
         "state": "WI",
-        "text": "Appleton, WI"
+        "text": "Appleton, WI",
+        "population": 75023,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Appleton city, Wisconsin",
+        "population_ambiguous": false
       },
       "date": {
         "text": "July 2026",
@@ -4874,7 +5589,12 @@
       "location": {
         "city": "Newport",
         "state": "KY",
-        "text": "Newport, KY"
+        "text": "Newport, KY",
+        "population": 13967,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Newport city, Kentucky",
+        "population_ambiguous": false
       },
       "date": {
         "text": "July 2026",
@@ -4908,7 +5628,12 @@
       "location": {
         "city": "Bland County",
         "state": "VA",
-        "text": "Bland County, VA"
+        "text": "Bland County, VA",
+        "population": 6199,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Bland County, Virginia",
+        "population_ambiguous": false
       },
       "date": {
         "text": "July 2026",
@@ -4942,7 +5667,12 @@
       "location": {
         "city": "Westland",
         "state": "MI",
-        "text": "Westland, MI"
+        "text": "Westland, MI",
+        "population": 83633,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Westland city, Michigan",
+        "population_ambiguous": false
       },
       "date": {
         "text": "July 2026",
@@ -4976,7 +5706,12 @@
       "location": {
         "city": "Kaukauna",
         "state": "WI",
-        "text": "Kaukauna, WI"
+        "text": "Kaukauna, WI",
+        "population": 17706,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Kaukauna city, Wisconsin",
+        "population_ambiguous": false
       },
       "date": {
         "text": "July 2026",
@@ -5010,7 +5745,12 @@
       "location": {
         "city": "Windsor",
         "state": "CT",
-        "text": "Windsor, CT"
+        "text": "Windsor, CT",
+        "population": 29468,
+        "population_year": 2024,
+        "population_geography": "county_subdivision",
+        "population_matched_name": "Windsor town, Capitol Planning Region, Connecticut",
+        "population_ambiguous": false
       },
       "date": {
         "text": "July 2026",
@@ -5044,7 +5784,12 @@
       "location": {
         "city": "Killingworth",
         "state": "CT",
-        "text": "Killingworth, CT"
+        "text": "Killingworth, CT",
+        "population": 6240,
+        "population_year": 2024,
+        "population_geography": "county_subdivision",
+        "population_matched_name": "Killingworth town, Lower Connecticut River Valley Planning Region, Connecticut",
+        "population_ambiguous": false
       },
       "date": {
         "text": "July 2026",
@@ -5078,7 +5823,12 @@
       "location": {
         "city": "Framingham",
         "state": "MA",
-        "text": "Framingham, MA"
+        "text": "Framingham, MA",
+        "population": 72399,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Framingham city, Massachusetts",
+        "population_ambiguous": false
       },
       "date": {
         "text": "June 2026",
@@ -5112,7 +5862,12 @@
       "location": {
         "city": "Woodburn",
         "state": "OR",
-        "text": "Woodburn, OR"
+        "text": "Woodburn, OR",
+        "population": 27875,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Woodburn city, Oregon",
+        "population_ambiguous": false
       },
       "date": {
         "text": "June 2026",
@@ -5146,7 +5901,12 @@
       "location": {
         "city": "Sharon",
         "state": "MA",
-        "text": "Sharon, MA"
+        "text": "Sharon, MA",
+        "population": 6232,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Sharon CDP, Massachusetts",
+        "population_ambiguous": false
       },
       "date": {
         "text": "June 2026",
@@ -5180,7 +5940,12 @@
       "location": {
         "city": "Fort Collins",
         "state": "CO",
-        "text": "Fort Collins, CO"
+        "text": "Fort Collins, CO",
+        "population": 170229,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Fort Collins city, Colorado",
+        "population_ambiguous": false
       },
       "date": {
         "text": "June 2026",
@@ -5214,7 +5979,12 @@
       "location": {
         "city": "Columbia Heights",
         "state": "MN",
-        "text": "Columbia Heights, MN"
+        "text": "Columbia Heights, MN",
+        "population": 22155,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Columbia Heights city, Minnesota",
+        "population_ambiguous": false
       },
       "date": {
         "text": "June 2026",
@@ -5248,7 +6018,12 @@
       "location": {
         "city": "Albany",
         "state": "OR",
-        "text": "Albany, OR"
+        "text": "Albany, OR",
+        "population": 56839,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Albany city, Oregon",
+        "population_ambiguous": false
       },
       "date": {
         "text": "May 2026",
@@ -5282,7 +6057,12 @@
       "location": {
         "city": "Edmonds",
         "state": "WA",
-        "text": "Edmonds, WA"
+        "text": "Edmonds, WA",
+        "population": 42735,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Edmonds city, Washington",
+        "population_ambiguous": false
       },
       "date": {
         "text": "May 2026",
@@ -5316,7 +6096,12 @@
       "location": {
         "city": "Pittsboro",
         "state": "NC",
-        "text": "Pittsboro, NC"
+        "text": "Pittsboro, NC",
+        "population": 4752,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Pittsboro town, North Carolina",
+        "population_ambiguous": false
       },
       "date": {
         "text": "May 2026",
@@ -5350,7 +6135,12 @@
       "location": {
         "city": "Auburn",
         "state": "ME",
-        "text": "Auburn, ME"
+        "text": "Auburn, ME",
+        "population": 24602,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Auburn city, Maine",
+        "population_ambiguous": false
       },
       "date": {
         "text": "May 2026",
@@ -5384,7 +6174,12 @@
       "location": {
         "city": "Menominee",
         "state": "MI",
-        "text": "Menominee, MI"
+        "text": "Menominee, MI",
+        "population": 8326,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Menominee city, Michigan",
+        "population_ambiguous": false
       },
       "date": {
         "text": "May 2026",
@@ -5418,7 +6213,12 @@
       "location": {
         "city": "Bandera",
         "state": "TX",
-        "text": "Bandera, TX"
+        "text": "Bandera, TX",
+        "population": 655,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Bandera city, Texas",
+        "population_ambiguous": false
       },
       "date": {
         "text": "May 2026",
@@ -5452,7 +6252,12 @@
       "location": {
         "city": "El Cerrito",
         "state": "CA",
-        "text": "El Cerrito, CA"
+        "text": "El Cerrito, CA",
+        "population": 25994,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "El Cerrito city, California",
+        "population_ambiguous": true
       },
       "date": {
         "text": "May 2026",
@@ -5486,7 +6291,12 @@
       "location": {
         "city": "Clawson",
         "state": "MI",
-        "text": "Clawson, MI"
+        "text": "Clawson, MI",
+        "population": 11374,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Clawson city, Michigan",
+        "population_ambiguous": false
       },
       "date": {
         "text": "May 2026",
@@ -5520,7 +6330,12 @@
       "location": {
         "city": "Oshkosh",
         "state": "WI",
-        "text": "Oshkosh, WI"
+        "text": "Oshkosh, WI",
+        "population": 66729,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Oshkosh city, Wisconsin",
+        "population_ambiguous": false
       },
       "date": {
         "text": "April 2026",
@@ -5554,7 +6369,12 @@
       "location": {
         "city": "Dane County",
         "state": "WI",
-        "text": "Dane County, WI"
+        "text": "Dane County, WI",
+        "population": 572674,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Dane County, Wisconsin",
+        "population_ambiguous": false
       },
       "date": {
         "text": "April 2026",
@@ -5588,7 +6408,12 @@
       "location": {
         "city": "Tompkins County",
         "state": "NY",
-        "text": "Tompkins County, NY"
+        "text": "Tompkins County, NY",
+        "population": 104537,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Tompkins County, New York",
+        "population_ambiguous": false
       },
       "date": {
         "text": "April 2026",
@@ -5622,7 +6447,12 @@
       "location": {
         "city": "Weston",
         "state": "MO",
-        "text": "Weston, MO"
+        "text": "Weston, MO",
+        "population": 1922,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Weston city, Missouri",
+        "population_ambiguous": false
       },
       "date": {
         "text": "April 2026",
@@ -5656,7 +6486,12 @@
       "location": {
         "city": "Salem",
         "state": "IL",
-        "text": "Salem, IL"
+        "text": "Salem, IL",
+        "population": 7236,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Salem city, Illinois",
+        "population_ambiguous": false
       },
       "date": {
         "text": "April 2026",
@@ -5690,7 +6525,12 @@
       "location": {
         "city": "Sturgeon Bay",
         "state": "WI",
-        "text": "Sturgeon Bay, WI"
+        "text": "Sturgeon Bay, WI",
+        "population": 9806,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Sturgeon Bay city, Wisconsin",
+        "population_ambiguous": false
       },
       "date": {
         "text": "April 2026",
@@ -5724,7 +6564,12 @@
       "location": {
         "city": "Sierra Vista",
         "state": "AZ",
-        "text": "Sierra Vista, AZ"
+        "text": "Sierra Vista, AZ",
+        "population": 45155,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Sierra Vista city, Arizona",
+        "population_ambiguous": false
       },
       "date": {
         "text": "April 2026",
@@ -5758,7 +6603,12 @@
       "location": {
         "city": "Saranac Lake",
         "state": "NY",
-        "text": "Saranac Lake, NY"
+        "text": "Saranac Lake, NY",
+        "population": 4965,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Saranac Lake village, New York",
+        "population_ambiguous": false
       },
       "date": {
         "text": "March 2026",
@@ -5792,7 +6642,12 @@
       "location": {
         "city": "Dutchtown",
         "state": "MO",
-        "text": "Dutchtown, MO"
+        "text": "Dutchtown, MO",
+        "population": 187,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Dutchtown CDP, Missouri",
+        "population_ambiguous": false
       },
       "date": {
         "text": "March 2026",
@@ -5826,7 +6681,12 @@
       "location": {
         "city": "Bloomington",
         "state": "IN",
-        "text": "Bloomington, IN"
+        "text": "Bloomington, IN",
+        "population": 80049,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Bloomington city, Indiana",
+        "population_ambiguous": false
       },
       "date": {
         "text": "March 2026",
@@ -5860,7 +6720,12 @@
       "location": {
         "city": "Ithaca",
         "state": "NY",
-        "text": "Ithaca, NY"
+        "text": "Ithaca, NY",
+        "population": 32814,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Ithaca city, New York",
+        "population_ambiguous": false
       },
       "date": {
         "text": "March 2026",
@@ -5894,7 +6759,12 @@
       "location": {
         "city": "Mountain View",
         "state": "CA",
-        "text": "Mountain View, CA"
+        "text": "Mountain View, CA",
+        "population": 2418,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Mountain View CDP, California",
+        "population_ambiguous": true
       },
       "date": {
         "text": "February 2026",
@@ -5928,7 +6798,12 @@
       "location": {
         "city": "Coralville",
         "state": "IA",
-        "text": "Coralville, IA"
+        "text": "Coralville, IA",
+        "population": 23234,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Coralville city, Iowa",
+        "population_ambiguous": false
       },
       "date": {
         "text": "February 2026",
@@ -5962,7 +6837,12 @@
       "location": {
         "city": "Lynnwood",
         "state": "WA",
-        "text": "Lynnwood, WA"
+        "text": "Lynnwood, WA",
+        "population": 40110,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Lynnwood city, Washington",
+        "population_ambiguous": false
       },
       "date": {
         "text": "February 2026",
@@ -5996,7 +6876,12 @@
       "location": {
         "city": "Seneca",
         "state": "MO",
-        "text": "Seneca, MO"
+        "text": "Seneca, MO",
+        "population": 1906,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Seneca city, Missouri",
+        "population_ambiguous": false
       },
       "date": {
         "text": "February 2026",
@@ -6030,7 +6915,12 @@
       "location": {
         "city": "South Tucson",
         "state": "AZ",
-        "text": "South Tucson, AZ"
+        "text": "South Tucson, AZ",
+        "population": 4550,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "South Tucson city, Arizona",
+        "population_ambiguous": false
       },
       "date": {
         "text": "February 2026",
@@ -6064,7 +6954,12 @@
       "location": {
         "city": "Natick",
         "state": "MA",
-        "text": "Natick, MA"
+        "text": "Natick, MA",
+        "population": 36873,
+        "population_year": 2024,
+        "population_geography": "county_subdivision",
+        "population_matched_name": "Natick town, Middlesex County, Massachusetts",
+        "population_ambiguous": false
       },
       "date": {
         "text": "January 2026",
@@ -6098,7 +6993,12 @@
       "location": {
         "city": "Watertown",
         "state": "MA",
-        "text": "Watertown, MA"
+        "text": "Watertown, MA",
+        "population": 35543,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Watertown city, Massachusetts",
+        "population_ambiguous": false
       },
       "date": {
         "text": "January 2026",
@@ -6132,7 +7032,12 @@
       "location": {
         "city": "Greenfield",
         "state": "MA",
-        "text": "Greenfield, MA"
+        "text": "Greenfield, MA",
+        "population": 17664,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Greenfield city, Massachusetts",
+        "population_ambiguous": false
       },
       "date": {
         "text": "January 2026",
@@ -6166,7 +7071,12 @@
       "location": {
         "city": "Los Altos Hills",
         "state": "CA",
-        "text": "Los Altos Hills, CA"
+        "text": "Los Altos Hills, CA",
+        "population": 8377,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Los Altos Hills town, California",
+        "population_ambiguous": false
       },
       "date": {
         "text": "January 2026",
@@ -6200,7 +7110,12 @@
       "location": {
         "city": "Santa Cruz",
         "state": "CA",
-        "text": "Santa Cruz, CA"
+        "text": "Santa Cruz, CA",
+        "population": 61607,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Santa Cruz city, California",
+        "population_ambiguous": false
       },
       "date": {
         "text": "January 2026",
@@ -6234,7 +7149,12 @@
       "location": {
         "city": "Bend",
         "state": "OR",
-        "text": "Bend, OR"
+        "text": "Bend, OR",
+        "population": 103390,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Bend city, Oregon",
+        "population_ambiguous": false
       },
       "date": {
         "text": "January 2026",
@@ -6268,7 +7188,12 @@
       "location": {
         "city": "Staunton",
         "state": "VA",
-        "text": "Staunton, VA"
+        "text": "Staunton, VA",
+        "population": 25948,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Staunton city, Virginia",
+        "population_ambiguous": false
       },
       "date": {
         "text": "December 2025",
@@ -6302,7 +7227,12 @@
       "location": {
         "city": "Flagstaff",
         "state": "AZ",
-        "text": "Flagstaff, AZ"
+        "text": "Flagstaff, AZ",
+        "population": 76445,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Flagstaff city, Arizona",
+        "population_ambiguous": false
       },
       "date": {
         "text": "December 2025",
@@ -6336,7 +7266,12 @@
       "location": {
         "city": "Lincoln City",
         "state": "OR",
-        "text": "Lincoln City, OR"
+        "text": "Lincoln City, OR",
+        "population": 9968,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Lincoln City city, Oregon",
+        "population_ambiguous": false
       },
       "date": {
         "text": "December 2025",
@@ -6370,7 +7305,12 @@
       "location": {
         "city": "Charlottesville",
         "state": "VA",
-        "text": "Charlottesville, VA"
+        "text": "Charlottesville, VA",
+        "population": 45437,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Charlottesville city, Virginia",
+        "population_ambiguous": false
       },
       "date": {
         "text": "December 2025",
@@ -6404,7 +7344,12 @@
       "location": {
         "city": "Cambridge",
         "state": "MA",
-        "text": "Cambridge, MA"
+        "text": "Cambridge, MA",
+        "population": 118796,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Cambridge city, Massachusetts",
+        "population_ambiguous": false
       },
       "date": {
         "text": "December 2025",
@@ -6438,7 +7383,12 @@
       "location": {
         "city": "Lane County",
         "state": "OR",
-        "text": "Lane County, OR"
+        "text": "Lane County, OR",
+        "population": 384207,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Lane County, Oregon",
+        "population_ambiguous": false
       },
       "date": {
         "text": "December 2025",
@@ -6472,7 +7422,12 @@
       "location": {
         "city": "Eugene",
         "state": "OR",
-        "text": "Eugene, OR"
+        "text": "Eugene, OR",
+        "population": 179591,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Eugene city, Oregon",
+        "population_ambiguous": false
       },
       "date": {
         "text": "December 2025",
@@ -6506,7 +7461,12 @@
       "location": {
         "city": "Springfield",
         "state": "OR",
-        "text": "Springfield, OR"
+        "text": "Springfield, OR",
+        "population": 61499,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Springfield city, Oregon",
+        "population_ambiguous": false
       },
       "date": {
         "text": "December 2025",
@@ -6540,7 +7500,12 @@
       "location": {
         "city": "Mountlake Terrace",
         "state": "WA",
-        "text": "Mountlake Terrace, WA"
+        "text": "Mountlake Terrace, WA",
+        "population": 23104,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Mountlake Terrace city, Washington",
+        "population_ambiguous": false
       },
       "date": {
         "text": "December 2025",
@@ -6574,7 +7539,12 @@
       "location": {
         "city": "San Marcos",
         "state": "TX",
-        "text": "San Marcos, TX"
+        "text": "San Marcos, TX",
+        "population": 70897,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "San Marcos city, Texas",
+        "population_ambiguous": false
       },
       "date": {
         "text": "December 2025",
@@ -6608,7 +7578,12 @@
       "location": {
         "city": "Skamania County",
         "state": "WA",
-        "text": "Skamania County, WA"
+        "text": "Skamania County, WA",
+        "population": 12402,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Skamania County, Washington",
+        "population_ambiguous": false
       },
       "date": {
         "text": "November 2025",
@@ -6642,7 +7617,12 @@
       "location": {
         "city": "Verona",
         "state": "WI",
-        "text": "Verona, WI"
+        "text": "Verona, WI",
+        "population": 15232,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Verona city, Wisconsin",
+        "population_ambiguous": false
       },
       "date": {
         "text": "November 2025",
@@ -6676,7 +7656,12 @@
       "location": {
         "city": "Hillsborough",
         "state": "NC",
-        "text": "Hillsborough, NC"
+        "text": "Hillsborough, NC",
+        "population": 9724,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Hillsborough town, North Carolina",
+        "population_ambiguous": false
       },
       "date": {
         "text": "October 2025",
@@ -6710,7 +7695,12 @@
       "location": {
         "city": "Hays County",
         "state": "TX",
-        "text": "Hays County, TX"
+        "text": "Hays County, TX",
+        "population": 268638,
+        "population_year": 2024,
+        "population_geography": "county",
+        "population_matched_name": "Hays County, Texas",
+        "population_ambiguous": false
       },
       "date": {
         "text": "October 2025",
@@ -6744,7 +7734,12 @@
       "location": {
         "city": "Evanston",
         "state": "IL",
-        "text": "Evanston, IL"
+        "text": "Evanston, IL",
+        "population": 76340,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Evanston city, Illinois",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2025",
@@ -6778,7 +7773,12 @@
       "location": {
         "city": "Sedona",
         "state": "AZ",
-        "text": "Sedona, AZ"
+        "text": "Sedona, AZ",
+        "population": 9777,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Sedona city, Arizona",
+        "population_ambiguous": false
       },
       "date": {
         "text": "September 2025",
@@ -6812,7 +7812,12 @@
       "location": {
         "city": "Scarsdale",
         "state": "NY",
-        "text": "Scarsdale, NY"
+        "text": "Scarsdale, NY",
+        "population": 18010,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Scarsdale village, New York",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2025",
@@ -6846,7 +7851,12 @@
       "location": {
         "city": "Oak Park",
         "state": "IL",
-        "text": "Oak Park, IL"
+        "text": "Oak Park, IL",
+        "population": 53292,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Oak Park village, Illinois",
+        "population_ambiguous": false
       },
       "date": {
         "text": "August 2025",
@@ -6880,7 +7890,12 @@
       "location": {
         "city": "Austin",
         "state": "TX",
-        "text": "Austin, TX"
+        "text": "Austin, TX",
+        "population": 979539,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "Austin city, Texas",
+        "population_ambiguous": false
       },
       "date": {
         "text": "June 2025",
@@ -6914,7 +7929,12 @@
       "location": {
         "city": "South Portland",
         "state": "ME",
-        "text": "South Portland, ME"
+        "text": "South Portland, ME",
+        "population": 26930,
+        "population_year": 2024,
+        "population_geography": "place",
+        "population_matched_name": "South Portland city, Maine",
+        "population_ambiguous": false
       },
       "date": {
         "text": "June 2025",

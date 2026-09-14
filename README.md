@@ -14,13 +14,15 @@ documented in [`SCHEMA.md`](SCHEMA.md). Updated daily by
 ```sh
 npm install
 npx playwright install --with-deps chromium
+export CENSUS_API_KEY=your-key-here  # optional; see "Population lookups" in SCHEMA.md
 npm run scrape
 ```
 
 `npm run scrape` loads IJ's tracker page in a headless browser (see "Why a
 browser, not a plain fetch" below), follows each article link, snapshots it
-via the Wayback Machine, and writes `data/municipalities.json`, merging
-against whatever is already there (see "No-op runs" in `SCHEMA.md`).
+via the Wayback Machine, looks up each municipality's population via the
+Census ACS5 API, and writes `data/municipalities.json`, merging against
+whatever is already there (see "No-op runs" in `SCHEMA.md`).
 
 ## Why a browser, not a plain fetch
 

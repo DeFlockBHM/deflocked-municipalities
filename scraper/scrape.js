@@ -5,6 +5,7 @@ import { fetchSourceRows, SOURCE_URL, SOURCE_NAME } from "./src/fetchSource.js";
 import { buildShell, assignIds } from "./src/normalize.js";
 import { fetchArticle } from "./src/article.js";
 import { archiveUrl } from "./src/wayback.js";
+import { enrichPopulation } from "./src/population.js";
 import { mapLimit, sleep } from "./src/concurrency.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -41,11 +42,25 @@ async function enrichEntry(shell, prevEntry, now) {
   const needsArticleFetch =
     !prevEntry || prevEntry.content_hash !== shell.content_hash || prevEntry.article_fetch?.status === "blocked";
 
+  // Population fields aren't part of the source scrape - carry over
+  // whatever a previous run already resolved so enrichPopulation() only
+  // has to fill in what's still missing.
+  const location = prevEntry?.location
+    ? {
+        ...shell.location,
+        population: prevEntry.location.population,
+        population_year: prevEntry.location.population_year,
+        population_geography: prevEntry.location.population_geography,
+        population_matched_name: prevEntry.location.population_matched_name,
+        population_ambiguous: prevEntry.location.population_ambiguous,
+      }
+    : shell.location;
+
   const base = {
     id: shell.id,
     ij_source_id: shell.ij_source_id,
     source_order: shell.source_order,
-    location: shell.location,
+    location,
     date: shell.date,
     status: shell.status,
     status_raw: shell.status_raw,
@@ -129,6 +144,8 @@ async function main() {
   await archiveMissing(enriched);
 
   const entries = [...enriched, ...missing].sort((a, b) => a.source_order - b.source_order);
+
+  await enrichPopulation(entries);
 
   const output = {
     schema_version: SCHEMA_VERSION,

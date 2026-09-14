@@ -31,6 +31,8 @@ jobs:
         run: git show HEAD:data/municipalities.json > /tmp/previous.json 2>/dev/null || true
 
       - name: Run scraper
+        env:
+          CENSUS_API_KEY: ${{ secrets.CENSUS_API_KEY }}
         run: npm run scrape
 
       - name: Check for substantive change
